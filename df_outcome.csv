@@ -1,0 +1,7511 @@
+Region,Year,Crimes_per_1000
+'s-Gravenhage (gemeente),2005,115.3
+'s-Gravenhage (gemeente),2006,108.3
+'s-Gravenhage (gemeente),2007,117.4
+'s-Gravenhage (gemeente),2008,117.1
+'s-Gravenhage (gemeente),2009,115.7
+'s-Gravenhage (gemeente),2010,118.9
+'s-Gravenhage (gemeente),2011,115.2
+'s-Gravenhage (gemeente),2012,106.5
+'s-Gravenhage (gemeente),2013,101.6
+'s-Gravenhage (gemeente),2014,97.0
+'s-Gravenhage (gemeente),2015,89.2
+'s-Gravenhage (gemeente),2016,83.1
+'s-Gravenhage (gemeente),2017,72.3
+'s-Gravenhage (gemeente),2018,65.6
+'s-Gravenhage (gemeente),2019,69.4
+'s-Gravenhage (gemeente),2020,68.2
+'s-Hertogenbosch,2005,141.3
+'s-Hertogenbosch,2006,122.2
+'s-Hertogenbosch,2007,120.0
+'s-Hertogenbosch,2008,117.9
+'s-Hertogenbosch,2009,115.4
+'s-Hertogenbosch,2010,102.7
+'s-Hertogenbosch,2011,97.4
+'s-Hertogenbosch,2012,89.1
+'s-Hertogenbosch,2013,86.2
+'s-Hertogenbosch,2014,77.1
+'s-Hertogenbosch,2015,76.1
+'s-Hertogenbosch,2016,70.6
+'s-Hertogenbosch,2017,65.2
+'s-Hertogenbosch,2018,58.5
+'s-Hertogenbosch,2019,59.7
+'s-Hertogenbosch,2020,57.8
+Aa en Hunze,2005,31.9
+Aa en Hunze,2006,35.0
+Aa en Hunze,2007,33.3
+Aa en Hunze,2008,35.0
+Aa en Hunze,2009,31.2
+Aa en Hunze,2010,31.5
+Aa en Hunze,2011,36.7
+Aa en Hunze,2012,36.6
+Aa en Hunze,2013,30.8
+Aa en Hunze,2014,26.9
+Aa en Hunze,2015,25.6
+Aa en Hunze,2016,24.6
+Aa en Hunze,2017,21.7
+Aa en Hunze,2018,21.4
+Aa en Hunze,2019,26.5
+Aa en Hunze,2020,24.5
+Aalburg,2005,41.0
+Aalburg,2006,36.7
+Aalburg,2007,39.9
+Aalburg,2008,36.0
+Aalburg,2009,34.9
+Aalburg,2010,37.1
+Aalburg,2011,38.5
+Aalburg,2012,39.2
+Aalburg,2013,34.0
+Aalburg,2014,32.9
+Aalburg,2015,29.6
+Aalburg,2016,26.0
+Aalburg,2017,21.0
+Aalburg,2018,19.5
+Aalburg,2019,
+Aalburg,2020,
+Aalsmeer,2005,61.8
+Aalsmeer,2006,58.1
+Aalsmeer,2007,59.4
+Aalsmeer,2008,53.4
+Aalsmeer,2009,48.3
+Aalsmeer,2010,48.2
+Aalsmeer,2011,49.1
+Aalsmeer,2012,40.1
+Aalsmeer,2013,41.8
+Aalsmeer,2014,39.4
+Aalsmeer,2015,35.4
+Aalsmeer,2016,38.2
+Aalsmeer,2017,38.8
+Aalsmeer,2018,36.0
+Aalsmeer,2019,34.5
+Aalsmeer,2020,35.4
+Aalten,2005,34.4
+Aalten,2006,39.1
+Aalten,2007,39.3
+Aalten,2008,39.3
+Aalten,2009,33.2
+Aalten,2010,32.9
+Aalten,2011,28.2
+Aalten,2012,25.6
+Aalten,2013,25.3
+Aalten,2014,25.4
+Aalten,2015,22.9
+Aalten,2016,23.6
+Aalten,2017,19.6
+Aalten,2018,18.7
+Aalten,2019,21.5
+Aalten,2020,20.4
+Abcoude,2010,62.6
+Abcoude,2011,
+Abcoude,2012,
+Abcoude,2013,
+Abcoude,2014,
+Abcoude,2015,
+Abcoude,2016,
+Abcoude,2017,
+Abcoude,2018,
+Abcoude,2019,
+Abcoude,2020,
+Achtkarspelen,2005,35.3
+Achtkarspelen,2006,34.3
+Achtkarspelen,2007,34.6
+Achtkarspelen,2008,34.9
+Achtkarspelen,2009,29.9
+Achtkarspelen,2010,33.3
+Achtkarspelen,2011,33.9
+Achtkarspelen,2012,28.6
+Achtkarspelen,2013,25.9
+Achtkarspelen,2014,27.4
+Achtkarspelen,2015,26.2
+Achtkarspelen,2016,27.1
+Achtkarspelen,2017,23.3
+Achtkarspelen,2018,24.6
+Achtkarspelen,2019,24.9
+Achtkarspelen,2020,24.6
+Alblasserdam,2005,65.6
+Alblasserdam,2006,59.2
+Alblasserdam,2007,62.7
+Alblasserdam,2008,57.3
+Alblasserdam,2009,50.8
+Alblasserdam,2010,41.4
+Alblasserdam,2011,46.0
+Alblasserdam,2012,43.8
+Alblasserdam,2013,39.5
+Alblasserdam,2014,38.7
+Alblasserdam,2015,42.3
+Alblasserdam,2016,36.7
+Alblasserdam,2017,34.2
+Alblasserdam,2018,29.5
+Alblasserdam,2019,30.6
+Alblasserdam,2020,37.9
+Albrandswaard,2005,50.5
+Albrandswaard,2006,55.8
+Albrandswaard,2007,51.3
+Albrandswaard,2008,51.4
+Albrandswaard,2009,54.1
+Albrandswaard,2010,42.8
+Albrandswaard,2011,48.8
+Albrandswaard,2012,47.5
+Albrandswaard,2013,47.3
+Albrandswaard,2014,41.9
+Albrandswaard,2015,44.6
+Albrandswaard,2016,41.1
+Albrandswaard,2017,38.4
+Albrandswaard,2018,38.7
+Albrandswaard,2019,44.0
+Albrandswaard,2020,45.8
+Alkmaar,2005,109.4
+Alkmaar,2006,97.7
+Alkmaar,2007,99.0
+Alkmaar,2008,95.9
+Alkmaar,2009,102.8
+Alkmaar,2010,102.0
+Alkmaar,2011,100.9
+Alkmaar,2012,91.7
+Alkmaar,2013,85.7
+Alkmaar,2014,82.9
+Alkmaar,2015,70.2
+Alkmaar,2016,64.7
+Alkmaar,2017,53.8
+Alkmaar,2018,49.8
+Alkmaar,2019,50.0
+Alkmaar,2020,50.8
+Almelo,2005,85.1
+Almelo,2006,75.3
+Almelo,2007,74.1
+Almelo,2008,71.4
+Almelo,2009,74.4
+Almelo,2010,69.0
+Almelo,2011,67.5
+Almelo,2012,72.0
+Almelo,2013,73.0
+Almelo,2014,62.0
+Almelo,2015,57.0
+Almelo,2016,55.2
+Almelo,2017,53.8
+Almelo,2018,48.9
+Almelo,2019,50.9
+Almelo,2020,51.7
+Almere,2005,85.1
+Almere,2006,85.4
+Almere,2007,89.0
+Almere,2008,85.6
+Almere,2009,72.5
+Almere,2010,74.0
+Almere,2011,76.5
+Almere,2012,75.1
+Almere,2013,78.2
+Almere,2014,68.3
+Almere,2015,60.5
+Almere,2016,57.3
+Almere,2017,50.0
+Almere,2018,49.4
+Almere,2019,50.2
+Almere,2020,47.8
+Alphen aan den Rijn,2005,66.0
+Alphen aan den Rijn,2006,65.6
+Alphen aan den Rijn,2007,62.7
+Alphen aan den Rijn,2008,59.2
+Alphen aan den Rijn,2009,58.5
+Alphen aan den Rijn,2010,64.1
+Alphen aan den Rijn,2011,65.6
+Alphen aan den Rijn,2012,63.3
+Alphen aan den Rijn,2013,54.8
+Alphen aan den Rijn,2014,44.9
+Alphen aan den Rijn,2015,41.7
+Alphen aan den Rijn,2016,39.3
+Alphen aan den Rijn,2017,34.3
+Alphen aan den Rijn,2018,34.1
+Alphen aan den Rijn,2019,36.5
+Alphen aan den Rijn,2020,39.3
+Alphen-Chaam,2005,46.4
+Alphen-Chaam,2006,38.8
+Alphen-Chaam,2007,49.9
+Alphen-Chaam,2008,40.9
+Alphen-Chaam,2009,45.5
+Alphen-Chaam,2010,44.0
+Alphen-Chaam,2011,49.8
+Alphen-Chaam,2012,60.3
+Alphen-Chaam,2013,58.0
+Alphen-Chaam,2014,44.1
+Alphen-Chaam,2015,44.4
+Alphen-Chaam,2016,33.2
+Alphen-Chaam,2017,27.3
+Alphen-Chaam,2018,26.3
+Alphen-Chaam,2019,27.8
+Alphen-Chaam,2020,29.0
+Altena,2010,
+Altena,2011,
+Altena,2012,
+Altena,2013,
+Altena,2014,
+Altena,2015,
+Altena,2016,
+Altena,2017,
+Altena,2018,
+Altena,2019,28.3
+Altena,2020,31.9
+Ameland,2005,57.7
+Ameland,2006,50.6
+Ameland,2007,62.7
+Ameland,2008,57.6
+Ameland,2009,71.3
+Ameland,2010,62.3
+Ameland,2011,47.7
+Ameland,2012,53.3
+Ameland,2013,42.0
+Ameland,2014,41.1
+Ameland,2015,37.0
+Ameland,2016,38.8
+Ameland,2017,30.8
+Ameland,2018,28.2
+Ameland,2019,28.9
+Ameland,2020,
+Amersfoort,2005,107.4
+Amersfoort,2006,101.9
+Amersfoort,2007,93.7
+Amersfoort,2008,96.1
+Amersfoort,2009,81.7
+Amersfoort,2010,77.0
+Amersfoort,2011,71.6
+Amersfoort,2012,72.4
+Amersfoort,2013,71.2
+Amersfoort,2014,62.2
+Amersfoort,2015,58.5
+Amersfoort,2016,55.4
+Amersfoort,2017,49.5
+Amersfoort,2018,48.3
+Amersfoort,2019,48.7
+Amersfoort,2020,47.4
+Amstelveen,2005,63.0
+Amstelveen,2006,62.8
+Amstelveen,2007,65.2
+Amstelveen,2008,67.1
+Amstelveen,2009,67.2
+Amstelveen,2010,65.3
+Amstelveen,2011,62.8
+Amstelveen,2012,61.2
+Amstelveen,2013,60.6
+Amstelveen,2014,49.8
+Amstelveen,2015,50.0
+Amstelveen,2016,48.3
+Amstelveen,2017,46.5
+Amstelveen,2018,44.8
+Amstelveen,2019,42.4
+Amstelveen,2020,43.6
+Amsterdam,2005,142.2
+Amsterdam,2006,141.3
+Amsterdam,2007,137.4
+Amsterdam,2008,133.8
+Amsterdam,2009,128.1
+Amsterdam,2010,130.5
+Amsterdam,2011,132.6
+Amsterdam,2012,128.5
+Amsterdam,2013,127.2
+Amsterdam,2014,119.0
+Amsterdam,2015,117.1
+Amsterdam,2016,110.0
+Amsterdam,2017,102.7
+Amsterdam,2018,95.9
+Amsterdam,2019,94.8
+Amsterdam,2020,81.4
+Amsterdam (RE),2005,128.6
+Amsterdam (RE),2006,127.4
+Amsterdam (RE),2007,124.3
+Amsterdam (RE),2008,120.9
+Amsterdam (RE),2009,116.9
+Amsterdam (RE),2010,118.2
+Amsterdam (RE),2011,119.7
+Amsterdam (RE),2012,115.7
+Amsterdam (RE),2013,114.7
+Amsterdam (RE),2014,106.5
+Amsterdam (RE),2015,104.8
+Amsterdam (RE),2016,98.8
+Amsterdam (RE),2017,92.4
+Amsterdam (RE),2018,86.3
+Amsterdam (RE),2019,85.3
+Amsterdam (RE),2020,74.7
+Andijk,2010,47.8
+Andijk,2011,
+Andijk,2012,
+Andijk,2013,
+Andijk,2014,
+Andijk,2015,
+Andijk,2016,
+Andijk,2017,
+Andijk,2018,
+Andijk,2019,
+Andijk,2020,
+Anna Paulowna,2010,37.7
+Anna Paulowna,2011,36.7
+Anna Paulowna,2012,
+Anna Paulowna,2013,
+Anna Paulowna,2014,
+Anna Paulowna,2015,
+Anna Paulowna,2016,
+Anna Paulowna,2017,
+Anna Paulowna,2018,
+Anna Paulowna,2019,
+Anna Paulowna,2020,
+Apeldoorn,2005,96.7
+Apeldoorn,2006,90.8
+Apeldoorn,2007,85.6
+Apeldoorn,2008,75.6
+Apeldoorn,2009,78.0
+Apeldoorn,2010,75.0
+Apeldoorn,2011,78.3
+Apeldoorn,2012,74.8
+Apeldoorn,2013,68.8
+Apeldoorn,2014,64.5
+Apeldoorn,2015,56.4
+Apeldoorn,2016,52.2
+Apeldoorn,2017,46.0
+Apeldoorn,2018,44.9
+Apeldoorn,2019,44.6
+Apeldoorn,2020,46.7
+Appingedam,2005,55.0
+Appingedam,2006,52.7
+Appingedam,2007,53.2
+Appingedam,2008,51.5
+Appingedam,2009,50.2
+Appingedam,2010,50.0
+Appingedam,2011,54.8
+Appingedam,2012,44.5
+Appingedam,2013,42.1
+Appingedam,2014,41.3
+Appingedam,2015,37.0
+Appingedam,2016,39.7
+Appingedam,2017,34.5
+Appingedam,2018,36.4
+Appingedam,2019,42.2
+Appingedam,2020,39.4
+Arnhem,2005,124.2
+Arnhem,2006,121.0
+Arnhem,2007,122.6
+Arnhem,2008,118.7
+Arnhem,2009,118.7
+Arnhem,2010,114.0
+Arnhem,2011,112.4
+Arnhem,2012,101.9
+Arnhem,2013,96.1
+Arnhem,2014,92.2
+Arnhem,2015,82.9
+Arnhem,2016,82.5
+Arnhem,2017,74.0
+Arnhem,2018,68.4
+Arnhem,2019,74.2
+Arnhem,2020,69.7
+Assen,2005,87.5
+Assen,2006,90.8
+Assen,2007,88.8
+Assen,2008,85.5
+Assen,2009,87.1
+Assen,2010,80.1
+Assen,2011,73.6
+Assen,2012,74.4
+Assen,2013,70.6
+Assen,2014,61.4
+Assen,2015,57.2
+Assen,2016,56.0
+Assen,2017,50.1
+Assen,2018,44.9
+Assen,2019,52.7
+Assen,2020,53.8
+Asten,2005,68.0
+Asten,2006,64.1
+Asten,2007,62.0
+Asten,2008,55.5
+Asten,2009,61.1
+Asten,2010,51.9
+Asten,2011,58.4
+Asten,2012,56.0
+Asten,2013,53.4
+Asten,2014,54.7
+Asten,2015,51.9
+Asten,2016,46.2
+Asten,2017,40.9
+Asten,2018,31.0
+Asten,2019,39.4
+Asten,2020,38.0
+Baarle-Nassau,2005,54.2
+Baarle-Nassau,2006,50.4
+Baarle-Nassau,2007,68.0
+Baarle-Nassau,2008,56.3
+Baarle-Nassau,2009,58.5
+Baarle-Nassau,2010,43.0
+Baarle-Nassau,2011,50.7
+Baarle-Nassau,2012,55.2
+Baarle-Nassau,2013,49.7
+Baarle-Nassau,2014,50.5
+Baarle-Nassau,2015,48.0
+Baarle-Nassau,2016,34.8
+Baarle-Nassau,2017,35.6
+Baarle-Nassau,2018,26.5
+Baarle-Nassau,2019,31.5
+Baarle-Nassau,2020,28.7
+Baarn,2005,87.8
+Baarn,2006,76.9
+Baarn,2007,68.1
+Baarn,2008,74.1
+Baarn,2009,64.7
+Baarn,2010,64.1
+Baarn,2011,67.4
+Baarn,2012,62.9
+Baarn,2013,55.4
+Baarn,2014,52.6
+Baarn,2015,51.1
+Baarn,2016,52.3
+Baarn,2017,48.8
+Baarn,2018,45.1
+Baarn,2019,44.6
+Baarn,2020,42.5
+Barendrecht,2005,64.8
+Barendrecht,2006,62.9
+Barendrecht,2007,59.6
+Barendrecht,2008,63.0
+Barendrecht,2009,76.0
+Barendrecht,2010,50.7
+Barendrecht,2011,54.4
+Barendrecht,2012,50.2
+Barendrecht,2013,43.7
+Barendrecht,2014,41.7
+Barendrecht,2015,41.4
+Barendrecht,2016,43.5
+Barendrecht,2017,43.9
+Barendrecht,2018,39.0
+Barendrecht,2019,42.1
+Barendrecht,2020,40.2
+Barneveld,2005,62.0
+Barneveld,2006,60.3
+Barneveld,2007,54.9
+Barneveld,2008,53.0
+Barneveld,2009,50.0
+Barneveld,2010,49.7
+Barneveld,2011,51.2
+Barneveld,2012,46.4
+Barneveld,2013,45.8
+Barneveld,2014,40.9
+Barneveld,2015,39.7
+Barneveld,2016,37.4
+Barneveld,2017,30.4
+Barneveld,2018,30.6
+Barneveld,2019,30.4
+Barneveld,2020,31.8
+Bedum,2005,36.3
+Bedum,2006,34.7
+Bedum,2007,35.7
+Bedum,2008,38.9
+Bedum,2009,35.7
+Bedum,2010,31.4
+Bedum,2011,35.1
+Bedum,2012,28.7
+Bedum,2013,22.0
+Bedum,2014,25.1
+Bedum,2015,24.6
+Bedum,2016,19.1
+Bedum,2017,16.6
+Bedum,2018,14.6
+Bedum,2019,
+Bedum,2020,
+Beek (L.),2005,77.6
+Beek (L.),2006,73.1
+Beek (L.),2007,86.0
+Beek (L.),2008,87.0
+Beek (L.),2009,76.5
+Beek (L.),2010,77.6
+Beek (L.),2011,85.3
+Beek (L.),2012,76.4
+Beek (L.),2013,73.0
+Beek (L.),2014,65.1
+Beek (L.),2015,67.2
+Beek (L.),2016,64.2
+Beek (L.),2017,60.5
+Beek (L.),2018,40.6
+Beek (L.),2019,46.3
+Beek (L.),2020,48.7
+Beekdaelen,2010,
+Beekdaelen,2011,
+Beekdaelen,2012,
+Beekdaelen,2013,
+Beekdaelen,2014,
+Beekdaelen,2015,
+Beekdaelen,2016,
+Beekdaelen,2017,
+Beekdaelen,2018,
+Beekdaelen,2019,31.6
+Beekdaelen,2020,32.5
+Beemster,2005,46.9
+Beemster,2006,47.9
+Beemster,2007,47.5
+Beemster,2008,42.5
+Beemster,2009,46.2
+Beemster,2010,43.6
+Beemster,2011,43.5
+Beemster,2012,50.7
+Beemster,2013,41.1
+Beemster,2014,29.7
+Beemster,2015,28.9
+Beemster,2016,31.9
+Beemster,2017,26.5
+Beemster,2018,33.4
+Beemster,2019,35.6
+Beemster,2020,31.3
+Beesel,2005,53.4
+Beesel,2006,51.5
+Beesel,2007,57.6
+Beesel,2008,50.0
+Beesel,2009,48.4
+Beesel,2010,49.7
+Beesel,2011,46.4
+Beesel,2012,49.6
+Beesel,2013,43.2
+Beesel,2014,35.0
+Beesel,2015,32.2
+Beesel,2016,33.2
+Beesel,2017,26.3
+Beesel,2018,26.4
+Beesel,2019,29.2
+Beesel,2020,29.2
+Bellingwedde,2005,29.8
+Bellingwedde,2006,31.5
+Bellingwedde,2007,30.2
+Bellingwedde,2008,29.6
+Bellingwedde,2009,36.7
+Bellingwedde,2010,35.5
+Bellingwedde,2011,31.7
+Bellingwedde,2012,29.7
+Bellingwedde,2013,29.4
+Bellingwedde,2014,25.0
+Bellingwedde,2015,23.8
+Bellingwedde,2016,23.0
+Bellingwedde,2017,24.7
+Bellingwedde,2018,
+Bellingwedde,2019,
+Bellingwedde,2020,
+Berg en Dal,2005,49.6
+Berg en Dal,2006,49.6
+Berg en Dal,2007,47.1
+Berg en Dal,2008,48.1
+Berg en Dal,2009,42.3
+Berg en Dal,2010,
+Berg en Dal,2011,
+Berg en Dal,2012,
+Berg en Dal,2013,
+Berg en Dal,2014,
+Berg en Dal,2015,
+Berg en Dal,2016,34.6
+Berg en Dal,2017,29.4
+Berg en Dal,2018,28.2
+Berg en Dal,2019,32.5
+Berg en Dal,2020,33.1
+Bergambacht,2010,35.3
+Bergambacht,2011,33.3
+Bergambacht,2012,33.8
+Bergambacht,2013,33.4
+Bergambacht,2014,26.0
+Bergambacht,2015,
+Bergambacht,2016,
+Bergambacht,2017,
+Bergambacht,2018,
+Bergambacht,2019,
+Bergambacht,2020,
+Bergeijk,2005,57.2
+Bergeijk,2006,48.7
+Bergeijk,2007,51.9
+Bergeijk,2008,45.0
+Bergeijk,2009,55.5
+Bergeijk,2010,50.7
+Bergeijk,2011,46.1
+Bergeijk,2012,55.1
+Bergeijk,2013,48.0
+Bergeijk,2014,37.1
+Bergeijk,2015,35.2
+Bergeijk,2016,32.8
+Bergeijk,2017,34.1
+Bergeijk,2018,27.0
+Bergeijk,2019,27.3
+Bergeijk,2020,29.4
+Bergen (L.),2005,48.0
+Bergen (L.),2006,53.6
+Bergen (L.),2007,50.6
+Bergen (L.),2008,44.7
+Bergen (L.),2009,49.6
+Bergen (L.),2010,45.9
+Bergen (L.),2011,39.4
+Bergen (L.),2012,36.0
+Bergen (L.),2013,41.7
+Bergen (L.),2014,37.3
+Bergen (L.),2015,35.3
+Bergen (L.),2016,32.2
+Bergen (L.),2017,25.8
+Bergen (L.),2018,28.7
+Bergen (L.),2019,25.6
+Bergen (L.),2020,28.4
+Bergen (NH.),2005,67.3
+Bergen (NH.),2006,60.1
+Bergen (NH.),2007,62.1
+Bergen (NH.),2008,51.2
+Bergen (NH.),2009,52.7
+Bergen (NH.),2010,52.0
+Bergen (NH.),2011,52.6
+Bergen (NH.),2012,50.1
+Bergen (NH.),2013,43.7
+Bergen (NH.),2014,41.7
+Bergen (NH.),2015,42.2
+Bergen (NH.),2016,39.6
+Bergen (NH.),2017,29.2
+Bergen (NH.),2018,28.1
+Bergen (NH.),2019,27.5
+Bergen (NH.),2020,30.9
+Bergen op Zoom,2005,92.1
+Bergen op Zoom,2006,94.8
+Bergen op Zoom,2007,87.0
+Bergen op Zoom,2008,88.8
+Bergen op Zoom,2009,79.9
+Bergen op Zoom,2010,79.6
+Bergen op Zoom,2011,72.9
+Bergen op Zoom,2012,76.0
+Bergen op Zoom,2013,71.9
+Bergen op Zoom,2014,63.8
+Bergen op Zoom,2015,62.3
+Bergen op Zoom,2016,58.9
+Bergen op Zoom,2017,49.9
+Bergen op Zoom,2018,47.9
+Bergen op Zoom,2019,54.0
+Bergen op Zoom,2020,52.2
+Berkelland,2005,36.6
+Berkelland,2006,41.5
+Berkelland,2007,39.6
+Berkelland,2008,37.5
+Berkelland,2009,42.8
+Berkelland,2010,40.6
+Berkelland,2011,34.7
+Berkelland,2012,40.7
+Berkelland,2013,32.3
+Berkelland,2014,29.2
+Berkelland,2015,26.7
+Berkelland,2016,24.1
+Berkelland,2017,23.7
+Berkelland,2018,22.4
+Berkelland,2019,23.6
+Berkelland,2020,21.8
+Bernheze,2005,49.4
+Bernheze,2006,48.0
+Bernheze,2007,45.0
+Bernheze,2008,46.5
+Bernheze,2009,45.1
+Bernheze,2010,41.5
+Bernheze,2011,43.2
+Bernheze,2012,43.6
+Bernheze,2013,44.5
+Bernheze,2014,39.4
+Bernheze,2015,39.3
+Bernheze,2016,34.9
+Bernheze,2017,29.3
+Bernheze,2018,26.8
+Bernheze,2019,31.5
+Bernheze,2020,29.4
+Bernisse,2010,32.3
+Bernisse,2011,39.2
+Bernisse,2012,33.3
+Bernisse,2013,31.7
+Bernisse,2014,30.6
+Bernisse,2015,
+Bernisse,2016,
+Bernisse,2017,
+Bernisse,2018,
+Bernisse,2019,
+Bernisse,2020,
+Best,2005,74.6
+Best,2006,78.4
+Best,2007,69.8
+Best,2008,68.2
+Best,2009,62.7
+Best,2010,64.1
+Best,2011,64.9
+Best,2012,57.7
+Best,2013,56.8
+Best,2014,53.8
+Best,2015,50.1
+Best,2016,45.3
+Best,2017,37.8
+Best,2018,37.3
+Best,2019,36.8
+Best,2020,41.4
+Beuningen,2005,60.9
+Beuningen,2006,60.8
+Beuningen,2007,58.0
+Beuningen,2008,55.1
+Beuningen,2009,65.1
+Beuningen,2010,56.4
+Beuningen,2011,49.6
+Beuningen,2012,47.1
+Beuningen,2013,44.1
+Beuningen,2014,40.8
+Beuningen,2015,36.1
+Beuningen,2016,35.1
+Beuningen,2017,34.8
+Beuningen,2018,30.2
+Beuningen,2019,34.4
+Beuningen,2020,34.7
+Beverwijk,2005,91.8
+Beverwijk,2006,86.7
+Beverwijk,2007,92.9
+Beverwijk,2008,90.4
+Beverwijk,2009,87.4
+Beverwijk,2010,89.9
+Beverwijk,2011,84.8
+Beverwijk,2012,81.3
+Beverwijk,2013,74.5
+Beverwijk,2014,75.4
+Beverwijk,2015,66.9
+Beverwijk,2016,58.1
+Beverwijk,2017,48.4
+Beverwijk,2018,44.3
+Beverwijk,2019,47.1
+Beverwijk,2020,44.2
+Binnenmaas,2005,39.9
+Binnenmaas,2006,43.6
+Binnenmaas,2007,40.0
+Binnenmaas,2008,40.6
+Binnenmaas,2009,36.8
+Binnenmaas,2010,36.9
+Binnenmaas,2011,37.6
+Binnenmaas,2012,33.8
+Binnenmaas,2013,31.1
+Binnenmaas,2014,28.9
+Binnenmaas,2015,29.3
+Binnenmaas,2016,25.6
+Binnenmaas,2017,21.3
+Binnenmaas,2018,19.6
+Binnenmaas,2019,
+Binnenmaas,2020,
+Bladel,2005,55.6
+Bladel,2006,54.0
+Bladel,2007,51.5
+Bladel,2008,47.1
+Bladel,2009,52.3
+Bladel,2010,47.9
+Bladel,2011,53.5
+Bladel,2012,46.3
+Bladel,2013,47.8
+Bladel,2014,39.1
+Bladel,2015,44.1
+Bladel,2016,42.6
+Bladel,2017,30.6
+Bladel,2018,29.4
+Bladel,2019,29.2
+Bladel,2020,34.4
+Blaricum,2005,62.2
+Blaricum,2006,72.1
+Blaricum,2007,62.2
+Blaricum,2008,61.5
+Blaricum,2009,56.3
+Blaricum,2010,63.3
+Blaricum,2011,54.0
+Blaricum,2012,57.4
+Blaricum,2013,55.9
+Blaricum,2014,54.7
+Blaricum,2015,50.9
+Blaricum,2016,54.0
+Blaricum,2017,43.1
+Blaricum,2018,31.2
+Blaricum,2019,39.4
+Blaricum,2020,32.4
+Bloemendaal,2005,63.3
+Bloemendaal,2006,67.6
+Bloemendaal,2007,60.9
+Bloemendaal,2008,61.5
+Bloemendaal,2009,57.9
+Bloemendaal,2010,65.7
+Bloemendaal,2011,71.6
+Bloemendaal,2012,68.8
+Bloemendaal,2013,70.5
+Bloemendaal,2014,56.9
+Bloemendaal,2015,53.0
+Bloemendaal,2016,46.2
+Bloemendaal,2017,42.1
+Bloemendaal,2018,39.0
+Bloemendaal,2019,36.7
+Bloemendaal,2020,45.5
+Boarnsterhim,2005,33.9
+Boarnsterhim,2006,38.1
+Boarnsterhim,2007,43.2
+Boarnsterhim,2008,41.6
+Boarnsterhim,2009,38.4
+Boarnsterhim,2010,36.3
+Boarnsterhim,2011,40.8
+Boarnsterhim,2012,40.0
+Boarnsterhim,2013,36.3
+Boarnsterhim,2014,
+Boarnsterhim,2015,
+Boarnsterhim,2016,
+Boarnsterhim,2017,
+Boarnsterhim,2018,
+Boarnsterhim,2019,
+Boarnsterhim,2020,
+Bodegraven,2010,58.8
+Bodegraven,2011,
+Bodegraven,2012,
+Bodegraven,2013,
+Bodegraven,2014,
+Bodegraven,2015,
+Bodegraven,2016,
+Bodegraven,2017,
+Bodegraven,2018,
+Bodegraven,2019,
+Bodegraven,2020,
+Bodegraven-Reeuwijk,2005,63.1
+Bodegraven-Reeuwijk,2006,64.7
+Bodegraven-Reeuwijk,2007,61.4
+Bodegraven-Reeuwijk,2008,64.9
+Bodegraven-Reeuwijk,2009,58.0
+Bodegraven-Reeuwijk,2010,
+Bodegraven-Reeuwijk,2011,60.1
+Bodegraven-Reeuwijk,2012,56.4
+Bodegraven-Reeuwijk,2013,46.7
+Bodegraven-Reeuwijk,2014,44.6
+Bodegraven-Reeuwijk,2015,39.6
+Bodegraven-Reeuwijk,2016,43.7
+Bodegraven-Reeuwijk,2017,38.8
+Bodegraven-Reeuwijk,2018,34.5
+Bodegraven-Reeuwijk,2019,32.4
+Bodegraven-Reeuwijk,2020,35.2
+Boekel,2005,34.6
+Boekel,2006,32.4
+Boekel,2007,34.3
+Boekel,2008,29.3
+Boekel,2009,34.0
+Boekel,2010,33.5
+Boekel,2011,32.2
+Boekel,2012,36.2
+Boekel,2013,32.7
+Boekel,2014,32.7
+Boekel,2015,29.4
+Boekel,2016,30.4
+Boekel,2017,21.8
+Boekel,2018,23.7
+Boekel,2019,24.6
+Boekel,2020,24.2
+Bolsward,2010,51.4
+Bolsward,2011,
+Bolsward,2012,
+Bolsward,2013,
+Bolsward,2014,
+Bolsward,2015,
+Bolsward,2016,
+Bolsward,2017,
+Bolsward,2018,
+Bolsward,2019,
+Bolsward,2020,
+Borger-Odoorn,2005,30.7
+Borger-Odoorn,2006,33.9
+Borger-Odoorn,2007,32.9
+Borger-Odoorn,2008,30.8
+Borger-Odoorn,2009,30.4
+Borger-Odoorn,2010,31.6
+Borger-Odoorn,2011,34.0
+Borger-Odoorn,2012,32.8
+Borger-Odoorn,2013,26.9
+Borger-Odoorn,2014,27.0
+Borger-Odoorn,2015,27.6
+Borger-Odoorn,2016,23.6
+Borger-Odoorn,2017,21.3
+Borger-Odoorn,2018,21.9
+Borger-Odoorn,2019,24.2
+Borger-Odoorn,2020,23.4
+Borne,2005,37.5
+Borne,2006,36.8
+Borne,2007,35.9
+Borne,2008,37.6
+Borne,2009,34.7
+Borne,2010,33.9
+Borne,2011,33.9
+Borne,2012,32.8
+Borne,2013,32.6
+Borne,2014,32.9
+Borne,2015,32.5
+Borne,2016,30.0
+Borne,2017,26.5
+Borne,2018,25.1
+Borne,2019,28.1
+Borne,2020,26.6
+Borsele,2005,28.6
+Borsele,2006,27.6
+Borsele,2007,32.9
+Borsele,2008,28.7
+Borsele,2009,32.4
+Borsele,2010,25.8
+Borsele,2011,31.4
+Borsele,2012,26.1
+Borsele,2013,23.6
+Borsele,2014,22.6
+Borsele,2015,24.8
+Borsele,2016,21.9
+Borsele,2017,20.5
+Borsele,2018,16.8
+Borsele,2019,20.0
+Borsele,2020,22.9
+Boskoop,2010,53.1
+Boskoop,2011,56.5
+Boskoop,2012,48.9
+Boskoop,2013,49.0
+Boskoop,2014,
+Boskoop,2015,
+Boskoop,2016,
+Boskoop,2017,
+Boskoop,2018,
+Boskoop,2019,
+Boskoop,2020,
+Boxmeer,2005,61.3
+Boxmeer,2006,66.7
+Boxmeer,2007,56.3
+Boxmeer,2008,46.3
+Boxmeer,2009,47.9
+Boxmeer,2010,45.4
+Boxmeer,2011,46.3
+Boxmeer,2012,47.3
+Boxmeer,2013,43.3
+Boxmeer,2014,39.9
+Boxmeer,2015,40.8
+Boxmeer,2016,36.4
+Boxmeer,2017,29.9
+Boxmeer,2018,30.1
+Boxmeer,2019,33.9
+Boxmeer,2020,37.2
+Boxtel,2005,70.6
+Boxtel,2006,64.1
+Boxtel,2007,72.4
+Boxtel,2008,67.4
+Boxtel,2009,68.6
+Boxtel,2010,66.0
+Boxtel,2011,60.0
+Boxtel,2012,63.3
+Boxtel,2013,57.6
+Boxtel,2014,49.0
+Boxtel,2015,49.4
+Boxtel,2016,47.3
+Boxtel,2017,35.9
+Boxtel,2018,37.1
+Boxtel,2019,39.9
+Boxtel,2020,38.8
+Breda,2005,121.5
+Breda,2006,115.1
+Breda,2007,110.7
+Breda,2008,105.0
+Breda,2009,106.1
+Breda,2010,95.7
+Breda,2011,101.0
+Breda,2012,97.4
+Breda,2013,88.1
+Breda,2014,80.3
+Breda,2015,74.8
+Breda,2016,70.7
+Breda,2017,62.6
+Breda,2018,58.1
+Breda,2019,61.1
+Breda,2020,60.2
+Breukelen,2010,97.1
+Breukelen,2011,
+Breukelen,2012,
+Breukelen,2013,
+Breukelen,2014,
+Breukelen,2015,
+Breukelen,2016,
+Breukelen,2017,
+Breukelen,2018,
+Breukelen,2019,
+Breukelen,2020,
+Brielle,2005,75.9
+Brielle,2006,67.2
+Brielle,2007,64.1
+Brielle,2008,62.9
+Brielle,2009,95.3
+Brielle,2010,52.9
+Brielle,2011,63.7
+Brielle,2012,56.6
+Brielle,2013,57.7
+Brielle,2014,46.0
+Brielle,2015,53.4
+Brielle,2016,38.6
+Brielle,2017,39.3
+Brielle,2018,40.0
+Brielle,2019,38.8
+Brielle,2020,35.8
+Bronckhorst,2005,34.4
+Bronckhorst,2006,29.9
+Bronckhorst,2007,32.5
+Bronckhorst,2008,30.2
+Bronckhorst,2009,29.4
+Bronckhorst,2010,31.0
+Bronckhorst,2011,31.3
+Bronckhorst,2012,27.6
+Bronckhorst,2013,28.9
+Bronckhorst,2014,26.3
+Bronckhorst,2015,21.9
+Bronckhorst,2016,21.2
+Bronckhorst,2017,19.8
+Bronckhorst,2018,17.2
+Bronckhorst,2019,19.7
+Bronckhorst,2020,20.5
+Brummen,2005,73.7
+Brummen,2006,65.5
+Brummen,2007,66.4
+Brummen,2008,66.9
+Brummen,2009,62.3
+Brummen,2010,54.5
+Brummen,2011,55.0
+Brummen,2012,47.4
+Brummen,2013,49.5
+Brummen,2014,36.2
+Brummen,2015,35.6
+Brummen,2016,29.9
+Brummen,2017,26.5
+Brummen,2018,25.0
+Brummen,2019,28.9
+Brummen,2020,28.9
+Brunssum,2005,79.8
+Brunssum,2006,85.6
+Brunssum,2007,83.1
+Brunssum,2008,78.0
+Brunssum,2009,76.6
+Brunssum,2010,70.1
+Brunssum,2011,69.1
+Brunssum,2012,68.6
+Brunssum,2013,65.1
+Brunssum,2014,67.0
+Brunssum,2015,65.0
+Brunssum,2016,62.4
+Brunssum,2017,48.0
+Brunssum,2018,45.3
+Brunssum,2019,44.4
+Brunssum,2020,42.0
+Buitenland (RE),2005,0.0
+Buitenland (RE),2006,0.0
+Buitenland (RE),2007,0.0
+Buitenland (RE),2008,0.0
+Buitenland (RE),2009,0.0
+Bunnik,2005,56.7
+Bunnik,2006,53.1
+Bunnik,2007,57.5
+Bunnik,2008,59.1
+Bunnik,2009,53.2
+Bunnik,2010,52.8
+Bunnik,2011,53.4
+Bunnik,2012,55.5
+Bunnik,2013,46.4
+Bunnik,2014,46.4
+Bunnik,2015,46.2
+Bunnik,2016,41.4
+Bunnik,2017,35.1
+Bunnik,2018,39.7
+Bunnik,2019,37.3
+Bunnik,2020,36.0
+Bunschoten,2005,53.1
+Bunschoten,2006,53.9
+Bunschoten,2007,52.2
+Bunschoten,2008,47.5
+Bunschoten,2009,38.0
+Bunschoten,2010,39.0
+Bunschoten,2011,34.8
+Bunschoten,2012,39.4
+Bunschoten,2013,32.1
+Bunschoten,2014,32.3
+Bunschoten,2015,36.7
+Bunschoten,2016,31.1
+Bunschoten,2017,27.8
+Bunschoten,2018,23.8
+Bunschoten,2019,29.2
+Bunschoten,2020,28.8
+Buren,2005,42.3
+Buren,2006,39.5
+Buren,2007,41.4
+Buren,2008,37.2
+Buren,2009,35.1
+Buren,2010,33.2
+Buren,2011,37.1
+Buren,2012,34.9
+Buren,2013,36.3
+Buren,2014,33.2
+Buren,2015,27.3
+Buren,2016,29.3
+Buren,2017,24.3
+Buren,2018,22.7
+Buren,2019,26.6
+Buren,2020,28.7
+Bussum,2010,86.9
+Bussum,2011,90.4
+Bussum,2012,72.9
+Bussum,2013,76.5
+Bussum,2014,60.8
+Bussum,2015,54.5
+Bussum,2016,
+Bussum,2017,
+Bussum,2018,
+Bussum,2019,
+Bussum,2020,
+Capelle aan den IJssel,2005,84.0
+Capelle aan den IJssel,2006,81.7
+Capelle aan den IJssel,2007,81.8
+Capelle aan den IJssel,2008,84.7
+Capelle aan den IJssel,2009,75.9
+Capelle aan den IJssel,2010,68.3
+Capelle aan den IJssel,2011,72.2
+Capelle aan den IJssel,2012,74.4
+Capelle aan den IJssel,2013,60.9
+Capelle aan den IJssel,2014,57.0
+Capelle aan den IJssel,2015,54.9
+Capelle aan den IJssel,2016,51.6
+Capelle aan den IJssel,2017,46.4
+Capelle aan den IJssel,2018,41.7
+Capelle aan den IJssel,2019,43.9
+Capelle aan den IJssel,2020,45.5
+Castricum,2005,63.9
+Castricum,2006,53.6
+Castricum,2007,55.5
+Castricum,2008,54.2
+Castricum,2009,54.8
+Castricum,2010,57.8
+Castricum,2011,51.6
+Castricum,2012,49.0
+Castricum,2013,46.6
+Castricum,2014,44.0
+Castricum,2015,40.8
+Castricum,2016,36.0
+Castricum,2017,29.8
+Castricum,2018,27.5
+Castricum,2019,29.7
+Castricum,2020,29.2
+Coevorden,2005,51.7
+Coevorden,2006,50.0
+Coevorden,2007,57.1
+Coevorden,2008,57.5
+Coevorden,2009,56.4
+Coevorden,2010,54.3
+Coevorden,2011,55.6
+Coevorden,2012,51.1
+Coevorden,2013,48.0
+Coevorden,2014,46.5
+Coevorden,2015,40.2
+Coevorden,2016,36.9
+Coevorden,2017,39.0
+Coevorden,2018,35.6
+Coevorden,2019,37.6
+Coevorden,2020,36.1
+Cranendonck,2005,56.5
+Cranendonck,2006,50.5
+Cranendonck,2007,53.0
+Cranendonck,2008,43.2
+Cranendonck,2009,45.8
+Cranendonck,2010,46.4
+Cranendonck,2011,46.8
+Cranendonck,2012,50.3
+Cranendonck,2013,47.1
+Cranendonck,2014,45.4
+Cranendonck,2015,41.8
+Cranendonck,2016,43.0
+Cranendonck,2017,37.6
+Cranendonck,2018,38.6
+Cranendonck,2019,40.4
+Cranendonck,2020,42.1
+Cromstrijen,2005,41.2
+Cromstrijen,2006,38.6
+Cromstrijen,2007,40.1
+Cromstrijen,2008,41.2
+Cromstrijen,2009,44.6
+Cromstrijen,2010,38.1
+Cromstrijen,2011,40.4
+Cromstrijen,2012,36.4
+Cromstrijen,2013,35.0
+Cromstrijen,2014,31.5
+Cromstrijen,2015,32.4
+Cromstrijen,2016,27.6
+Cromstrijen,2017,26.3
+Cromstrijen,2018,27.4
+Cromstrijen,2019,
+Cromstrijen,2020,
+Cuijk,2005,70.5
+Cuijk,2006,64.2
+Cuijk,2007,60.8
+Cuijk,2008,54.7
+Cuijk,2009,59.2
+Cuijk,2010,55.3
+Cuijk,2011,55.6
+Cuijk,2012,50.2
+Cuijk,2013,48.3
+Cuijk,2014,44.6
+Cuijk,2015,43.1
+Cuijk,2016,40.2
+Cuijk,2017,37.3
+Cuijk,2018,35.0
+Cuijk,2019,37.9
+Cuijk,2020,39.2
+Culemborg,2005,97.6
+Culemborg,2006,106.9
+Culemborg,2007,95.0
+Culemborg,2008,93.5
+Culemborg,2009,91.1
+Culemborg,2010,86.0
+Culemborg,2011,78.4
+Culemborg,2012,75.5
+Culemborg,2013,68.1
+Culemborg,2014,65.8
+Culemborg,2015,58.4
+Culemborg,2016,59.2
+Culemborg,2017,49.5
+Culemborg,2018,34.1
+Culemborg,2019,37.1
+Culemborg,2020,45.7
+Dalfsen,2005,29.7
+Dalfsen,2006,27.8
+Dalfsen,2007,27.1
+Dalfsen,2008,26.1
+Dalfsen,2009,25.9
+Dalfsen,2010,24.4
+Dalfsen,2011,29.9
+Dalfsen,2012,25.3
+Dalfsen,2013,25.4
+Dalfsen,2014,19.7
+Dalfsen,2015,19.2
+Dalfsen,2016,17.3
+Dalfsen,2017,14.3
+Dalfsen,2018,14.9
+Dalfsen,2019,15.5
+Dalfsen,2020,17.4
+Dantumadiel,2005,30.7
+Dantumadiel,2006,33.8
+Dantumadiel,2007,29.3
+Dantumadiel,2008,27.6
+Dantumadiel,2009,27.3
+Dantumadiel,2010,20.4
+Dantumadiel,2011,21.4
+Dantumadiel,2012,22.1
+Dantumadiel,2013,22.1
+Dantumadiel,2014,22.5
+Dantumadiel,2015,22.0
+Dantumadiel,2016,21.0
+Dantumadiel,2017,19.1
+Dantumadiel,2018,19.5
+Dantumadiel,2019,21.8
+Dantumadiel,2020,20.7
+De Bilt,2005,72.4
+De Bilt,2006,72.0
+De Bilt,2007,68.8
+De Bilt,2008,63.8
+De Bilt,2009,64.3
+De Bilt,2010,59.5
+De Bilt,2011,54.1
+De Bilt,2012,48.8
+De Bilt,2013,45.3
+De Bilt,2014,43.4
+De Bilt,2015,44.7
+De Bilt,2016,40.3
+De Bilt,2017,36.9
+De Bilt,2018,34.9
+De Bilt,2019,38.9
+De Bilt,2020,42.3
+De Friese Meren,2010,
+De Friese Meren,2011,
+De Friese Meren,2012,
+De Friese Meren,2013,
+De Friese Meren,2014,32.6
+De Friese Meren,2015,31.1
+De Friese Meren,2016,
+De Friese Meren,2017,
+De Friese Meren,2018,
+De Friese Meren,2019,
+De Friese Meren,2020,
+De Fryske Marren,2005,42.3
+De Fryske Marren,2006,43.9
+De Fryske Marren,2007,45.6
+De Fryske Marren,2008,42.1
+De Fryske Marren,2009,41.4
+De Fryske Marren,2010,
+De Fryske Marren,2011,
+De Fryske Marren,2012,
+De Fryske Marren,2013,
+De Fryske Marren,2014,
+De Fryske Marren,2015,
+De Fryske Marren,2016,33.5
+De Fryske Marren,2017,27.8
+De Fryske Marren,2018,24.7
+De Fryske Marren,2019,26.6
+De Fryske Marren,2020,27.9
+De Marne,2005,37.8
+De Marne,2006,36.3
+De Marne,2007,33.6
+De Marne,2008,40.4
+De Marne,2009,33.3
+De Marne,2010,29.6
+De Marne,2011,30.9
+De Marne,2012,28.2
+De Marne,2013,26.4
+De Marne,2014,31.6
+De Marne,2015,26.8
+De Marne,2016,24.8
+De Marne,2017,20.8
+De Marne,2018,21.9
+De Marne,2019,
+De Marne,2020,
+De Ronde Venen,2005,58.9
+De Ronde Venen,2006,60.9
+De Ronde Venen,2007,59.6
+De Ronde Venen,2008,60.8
+De Ronde Venen,2009,52.4
+De Ronde Venen,2010,48.3
+De Ronde Venen,2011,48.5
+De Ronde Venen,2012,47.3
+De Ronde Venen,2013,47.4
+De Ronde Venen,2014,42.6
+De Ronde Venen,2015,39.4
+De Ronde Venen,2016,40.3
+De Ronde Venen,2017,36.0
+De Ronde Venen,2018,31.5
+De Ronde Venen,2019,32.3
+De Ronde Venen,2020,32.1
+De Wolden,2005,29.3
+De Wolden,2006,31.9
+De Wolden,2007,28.8
+De Wolden,2008,24.9
+De Wolden,2009,28.5
+De Wolden,2010,24.0
+De Wolden,2011,26.7
+De Wolden,2012,26.0
+De Wolden,2013,24.5
+De Wolden,2014,21.8
+De Wolden,2015,22.9
+De Wolden,2016,23.7
+De Wolden,2017,18.9
+De Wolden,2018,19.1
+De Wolden,2019,19.9
+De Wolden,2020,21.6
+Delft,2005,89.4
+Delft,2006,83.2
+Delft,2007,84.8
+Delft,2008,95.9
+Delft,2009,91.5
+Delft,2010,89.7
+Delft,2011,85.7
+Delft,2012,81.4
+Delft,2013,74.2
+Delft,2014,71.9
+Delft,2015,66.0
+Delft,2016,65.1
+Delft,2017,61.7
+Delft,2018,55.6
+Delft,2019,54.4
+Delft,2020,52.2
+Delfzijl,2005,50.9
+Delfzijl,2006,53.6
+Delfzijl,2007,59.2
+Delfzijl,2008,55.5
+Delfzijl,2009,53.1
+Delfzijl,2010,56.1
+Delfzijl,2011,46.6
+Delfzijl,2012,46.6
+Delfzijl,2013,39.5
+Delfzijl,2014,39.3
+Delfzijl,2015,39.9
+Delfzijl,2016,44.9
+Delfzijl,2017,40.3
+Delfzijl,2018,38.1
+Delfzijl,2019,39.8
+Delfzijl,2020,36.6
+Den Haag (RE),2005,84.1
+Den Haag (RE),2006,80.6
+Den Haag (RE),2007,84.2
+Den Haag (RE),2008,84.4
+Den Haag (RE),2009,80.8
+Den Haag (RE),2010,81.3
+Den Haag (RE),2011,80.8
+Den Haag (RE),2012,74.7
+Den Haag (RE),2013,69.6
+Den Haag (RE),2014,65.0
+Den Haag (RE),2015,60.0
+Den Haag (RE),2016,56.9
+Den Haag (RE),2017,50.6
+Den Haag (RE),2018,46.4
+Den Haag (RE),2019,48.7
+Den Haag (RE),2020,49.1
+Den Helder,2005,101.3
+Den Helder,2006,103.3
+Den Helder,2007,100.2
+Den Helder,2008,93.4
+Den Helder,2009,90.0
+Den Helder,2010,83.2
+Den Helder,2011,77.2
+Den Helder,2012,72.3
+Den Helder,2013,73.6
+Den Helder,2014,72.4
+Den Helder,2015,68.0
+Den Helder,2016,70.7
+Den Helder,2017,57.2
+Den Helder,2018,49.6
+Den Helder,2019,55.0
+Den Helder,2020,56.0
+Deurne,2005,58.0
+Deurne,2006,57.6
+Deurne,2007,53.5
+Deurne,2008,52.3
+Deurne,2009,54.8
+Deurne,2010,51.7
+Deurne,2011,49.0
+Deurne,2012,53.7
+Deurne,2013,54.2
+Deurne,2014,47.4
+Deurne,2015,46.6
+Deurne,2016,41.4
+Deurne,2017,36.3
+Deurne,2018,31.1
+Deurne,2019,34.7
+Deurne,2020,34.2
+Deventer,2005,100.7
+Deventer,2006,85.8
+Deventer,2007,81.9
+Deventer,2008,78.2
+Deventer,2009,76.0
+Deventer,2010,71.6
+Deventer,2011,73.5
+Deventer,2012,71.9
+Deventer,2013,68.6
+Deventer,2014,66.0
+Deventer,2015,57.0
+Deventer,2016,56.4
+Deventer,2017,50.4
+Deventer,2018,47.4
+Deventer,2019,47.1
+Deventer,2020,44.9
+Diemen,2005,86.5
+Diemen,2006,88.6
+Diemen,2007,84.2
+Diemen,2008,81.4
+Diemen,2009,85.2
+Diemen,2010,71.1
+Diemen,2011,73.1
+Diemen,2012,69.0
+Diemen,2013,71.7
+Diemen,2014,65.9
+Diemen,2015,65.8
+Diemen,2016,61.2
+Diemen,2017,56.7
+Diemen,2018,55.3
+Diemen,2019,54.4
+Diemen,2020,57.9
+Dinkelland,2005,29.3
+Dinkelland,2006,27.6
+Dinkelland,2007,33.3
+Dinkelland,2008,30.1
+Dinkelland,2009,27.1
+Dinkelland,2010,27.4
+Dinkelland,2011,28.7
+Dinkelland,2012,28.8
+Dinkelland,2013,26.5
+Dinkelland,2014,20.7
+Dinkelland,2015,21.6
+Dinkelland,2016,19.4
+Dinkelland,2017,18.3
+Dinkelland,2018,16.1
+Dinkelland,2019,16.9
+Dinkelland,2020,15.2
+Dirksland,2010,33.8
+Dirksland,2011,35.1
+Dirksland,2012,35.2
+Dirksland,2013,
+Dirksland,2014,
+Dirksland,2015,
+Dirksland,2016,
+Dirksland,2017,
+Dirksland,2018,
+Dirksland,2019,
+Dirksland,2020,
+Doesburg,2005,68.4
+Doesburg,2006,62.8
+Doesburg,2007,54.4
+Doesburg,2008,65.1
+Doesburg,2009,65.5
+Doesburg,2010,56.7
+Doesburg,2011,62.4
+Doesburg,2012,49.9
+Doesburg,2013,47.8
+Doesburg,2014,43.2
+Doesburg,2015,48.3
+Doesburg,2016,43.8
+Doesburg,2017,36.4
+Doesburg,2018,33.1
+Doesburg,2019,30.8
+Doesburg,2020,29.2
+Doetinchem,2005,73.1
+Doetinchem,2006,73.4
+Doetinchem,2007,70.3
+Doetinchem,2008,63.0
+Doetinchem,2009,71.6
+Doetinchem,2010,72.7
+Doetinchem,2011,65.6
+Doetinchem,2012,58.6
+Doetinchem,2013,56.4
+Doetinchem,2014,51.0
+Doetinchem,2015,46.2
+Doetinchem,2016,41.4
+Doetinchem,2017,38.2
+Doetinchem,2018,37.5
+Doetinchem,2019,40.4
+Doetinchem,2020,39.5
+Dongen,2005,50.7
+Dongen,2006,47.4
+Dongen,2007,48.2
+Dongen,2008,51.3
+Dongen,2009,56.9
+Dongen,2010,47.0
+Dongen,2011,48.7
+Dongen,2012,46.3
+Dongen,2013,41.6
+Dongen,2014,67.2
+Dongen,2015,42.7
+Dongen,2016,41.2
+Dongen,2017,27.3
+Dongen,2018,27.4
+Dongen,2019,25.8
+Dongen,2020,28.6
+Dongeradeel,2005,45.6
+Dongeradeel,2006,42.1
+Dongeradeel,2007,48.0
+Dongeradeel,2008,43.3
+Dongeradeel,2009,32.8
+Dongeradeel,2010,30.5
+Dongeradeel,2011,34.5
+Dongeradeel,2012,32.0
+Dongeradeel,2013,27.6
+Dongeradeel,2014,33.2
+Dongeradeel,2015,24.4
+Dongeradeel,2016,24.8
+Dongeradeel,2017,20.5
+Dongeradeel,2018,21.5
+Dongeradeel,2019,
+Dongeradeel,2020,
+Dordrecht,2005,87.7
+Dordrecht,2006,88.2
+Dordrecht,2007,87.7
+Dordrecht,2008,84.0
+Dordrecht,2009,82.0
+Dordrecht,2010,84.7
+Dordrecht,2011,92.0
+Dordrecht,2012,88.1
+Dordrecht,2013,77.9
+Dordrecht,2014,74.4
+Dordrecht,2015,68.0
+Dordrecht,2016,61.5
+Dordrecht,2017,57.5
+Dordrecht,2018,54.0
+Dordrecht,2019,54.6
+Dordrecht,2020,53.8
+Drechterland,2005,48.6
+Drechterland,2006,55.4
+Drechterland,2007,47.6
+Drechterland,2008,43.0
+Drechterland,2009,44.0
+Drechterland,2010,45.0
+Drechterland,2011,40.8
+Drechterland,2012,38.4
+Drechterland,2013,40.2
+Drechterland,2014,30.8
+Drechterland,2015,32.8
+Drechterland,2016,26.4
+Drechterland,2017,22.9
+Drechterland,2018,23.9
+Drechterland,2019,28.0
+Drechterland,2020,26.8
+Drenthe (PV),2005,57.4
+Drenthe (PV),2006,57.7
+Drenthe (PV),2007,57.0
+Drenthe (PV),2008,54.8
+Drenthe (PV),2009,57.9
+Drenthe (PV),2010,53.1
+Drenthe (PV),2011,53.1
+Drenthe (PV),2012,51.3
+Drenthe (PV),2013,47.2
+Drenthe (PV),2014,43.9
+Drenthe (PV),2015,41.1
+Drenthe (PV),2016,38.2
+Drenthe (PV),2017,33.5
+Drenthe (PV),2018,31.9
+Drenthe (PV),2019,34.9
+Drenthe (PV),2020,35.9
+Drimmelen,2005,47.2
+Drimmelen,2006,44.7
+Drimmelen,2007,43.0
+Drimmelen,2008,44.1
+Drimmelen,2009,44.5
+Drimmelen,2010,40.0
+Drimmelen,2011,38.9
+Drimmelen,2012,42.8
+Drimmelen,2013,37.3
+Drimmelen,2014,35.0
+Drimmelen,2015,35.9
+Drimmelen,2016,29.5
+Drimmelen,2017,27.8
+Drimmelen,2018,24.5
+Drimmelen,2019,27.7
+Drimmelen,2020,33.3
+Dronten,2005,62.1
+Dronten,2006,67.1
+Dronten,2007,74.2
+Dronten,2008,63.4
+Dronten,2009,62.5
+Dronten,2010,57.7
+Dronten,2011,61.9
+Dronten,2012,61.8
+Dronten,2013,52.4
+Dronten,2014,49.2
+Dronten,2015,44.7
+Dronten,2016,42.8
+Dronten,2017,38.7
+Dronten,2018,32.5
+Dronten,2019,38.9
+Dronten,2020,33.2
+Druten,2005,54.2
+Druten,2006,54.8
+Druten,2007,45.8
+Druten,2008,46.0
+Druten,2009,42.6
+Druten,2010,33.2
+Druten,2011,37.0
+Druten,2012,38.5
+Druten,2013,35.9
+Druten,2014,33.3
+Druten,2015,33.3
+Druten,2016,36.9
+Druten,2017,28.6
+Druten,2018,25.5
+Druten,2019,25.9
+Druten,2020,25.8
+Duiven,2005,60.7
+Duiven,2006,52.6
+Duiven,2007,58.0
+Duiven,2008,56.3
+Duiven,2009,60.3
+Duiven,2010,56.2
+Duiven,2011,46.1
+Duiven,2012,51.6
+Duiven,2013,48.3
+Duiven,2014,42.1
+Duiven,2015,36.8
+Duiven,2016,36.0
+Duiven,2017,34.6
+Duiven,2018,34.2
+Duiven,2019,33.6
+Duiven,2020,35.8
+Echt-Susteren,2005,74.2
+Echt-Susteren,2006,66.0
+Echt-Susteren,2007,73.1
+Echt-Susteren,2008,61.7
+Echt-Susteren,2009,55.3
+Echt-Susteren,2010,53.5
+Echt-Susteren,2011,56.5
+Echt-Susteren,2012,58.5
+Echt-Susteren,2013,52.8
+Echt-Susteren,2014,47.6
+Echt-Susteren,2015,45.3
+Echt-Susteren,2016,39.6
+Echt-Susteren,2017,36.5
+Echt-Susteren,2018,36.6
+Echt-Susteren,2019,37.3
+Echt-Susteren,2020,40.8
+Edam-Volendam,2005,45.9
+Edam-Volendam,2006,41.9
+Edam-Volendam,2007,38.7
+Edam-Volendam,2008,39.2
+Edam-Volendam,2009,43.0
+Edam-Volendam,2010,42.4
+Edam-Volendam,2011,43.3
+Edam-Volendam,2012,38.5
+Edam-Volendam,2013,36.6
+Edam-Volendam,2014,29.3
+Edam-Volendam,2015,28.4
+Edam-Volendam,2016,22.3
+Edam-Volendam,2017,21.3
+Edam-Volendam,2018,21.2
+Edam-Volendam,2019,24.2
+Edam-Volendam,2020,21.8
+Ede,2005,64.7
+Ede,2006,61.0
+Ede,2007,71.5
+Ede,2008,70.0
+Ede,2009,64.7
+Ede,2010,68.9
+Ede,2011,62.5
+Ede,2012,57.6
+Ede,2013,53.2
+Ede,2014,45.4
+Ede,2015,44.1
+Ede,2016,47.8
+Ede,2017,43.2
+Ede,2018,43.0
+Ede,2019,43.5
+Ede,2020,41.9
+Eemnes,2005,60.2
+Eemnes,2006,50.1
+Eemnes,2007,45.8
+Eemnes,2008,46.2
+Eemnes,2009,41.9
+Eemnes,2010,39.8
+Eemnes,2011,42.3
+Eemnes,2012,40.5
+Eemnes,2013,48.4
+Eemnes,2014,38.0
+Eemnes,2015,38.4
+Eemnes,2016,38.9
+Eemnes,2017,36.0
+Eemnes,2018,33.6
+Eemnes,2019,26.3
+Eemnes,2020,31.0
+Eemsmond,2005,41.3
+Eemsmond,2006,35.1
+Eemsmond,2007,40.4
+Eemsmond,2008,37.7
+Eemsmond,2009,36.0
+Eemsmond,2010,40.0
+Eemsmond,2011,38.3
+Eemsmond,2012,41.5
+Eemsmond,2013,44.0
+Eemsmond,2014,30.9
+Eemsmond,2015,25.9
+Eemsmond,2016,28.0
+Eemsmond,2017,25.9
+Eemsmond,2018,26.1
+Eemsmond,2019,
+Eemsmond,2020,
+Eersel,2005,53.5
+Eersel,2006,61.7
+Eersel,2007,60.4
+Eersel,2008,57.4
+Eersel,2009,62.6
+Eersel,2010,53.9
+Eersel,2011,53.3
+Eersel,2012,53.8
+Eersel,2013,53.4
+Eersel,2014,44.1
+Eersel,2015,44.7
+Eersel,2016,46.1
+Eersel,2017,37.7
+Eersel,2018,36.5
+Eersel,2019,32.0
+Eersel,2020,32.3
+Eijsden,2010,61.5
+Eijsden,2011,
+Eijsden,2012,
+Eijsden,2013,
+Eijsden,2014,
+Eijsden,2015,
+Eijsden,2016,
+Eijsden,2017,
+Eijsden,2018,
+Eijsden,2019,
+Eijsden,2020,
+Eijsden-Margraten,2005,44.6
+Eijsden-Margraten,2006,44.0
+Eijsden-Margraten,2007,42.3
+Eijsden-Margraten,2008,48.6
+Eijsden-Margraten,2009,46.8
+Eijsden-Margraten,2010,
+Eijsden-Margraten,2011,44.4
+Eijsden-Margraten,2012,45.8
+Eijsden-Margraten,2013,44.7
+Eijsden-Margraten,2014,39.8
+Eijsden-Margraten,2015,33.7
+Eijsden-Margraten,2016,31.4
+Eijsden-Margraten,2017,32.0
+Eijsden-Margraten,2018,32.0
+Eijsden-Margraten,2019,31.7
+Eijsden-Margraten,2020,27.7
+Eindhoven,2005,135.9
+Eindhoven,2006,135.2
+Eindhoven,2007,132.9
+Eindhoven,2008,142.2
+Eindhoven,2009,133.5
+Eindhoven,2010,115.3
+Eindhoven,2011,118.5
+Eindhoven,2012,120.2
+Eindhoven,2013,117.9
+Eindhoven,2014,104.5
+Eindhoven,2015,99.4
+Eindhoven,2016,95.6
+Eindhoven,2017,82.1
+Eindhoven,2018,78.0
+Eindhoven,2019,80.8
+Eindhoven,2020,73.4
+Elburg,2005,48.4
+Elburg,2006,40.5
+Elburg,2007,45.7
+Elburg,2008,39.4
+Elburg,2009,36.5
+Elburg,2010,46.1
+Elburg,2011,46.5
+Elburg,2012,38.6
+Elburg,2013,38.9
+Elburg,2014,33.6
+Elburg,2015,34.9
+Elburg,2016,29.8
+Elburg,2017,25.8
+Elburg,2018,24.0
+Elburg,2019,26.9
+Elburg,2020,25.9
+Emmen,2005,65.3
+Emmen,2006,60.7
+Emmen,2007,64.0
+Emmen,2008,60.0
+Emmen,2009,69.0
+Emmen,2010,57.9
+Emmen,2011,58.8
+Emmen,2012,58.9
+Emmen,2013,53.0
+Emmen,2014,54.1
+Emmen,2015,50.2
+Emmen,2016,44.4
+Emmen,2017,38.5
+Emmen,2018,36.3
+Emmen,2019,38.8
+Emmen,2020,40.4
+Enkhuizen,2005,90.6
+Enkhuizen,2006,82.1
+Enkhuizen,2007,81.8
+Enkhuizen,2008,77.8
+Enkhuizen,2009,81.0
+Enkhuizen,2010,86.7
+Enkhuizen,2011,83.6
+Enkhuizen,2012,78.7
+Enkhuizen,2013,69.0
+Enkhuizen,2014,61.3
+Enkhuizen,2015,61.3
+Enkhuizen,2016,52.7
+Enkhuizen,2017,40.7
+Enkhuizen,2018,40.4
+Enkhuizen,2019,40.6
+Enkhuizen,2020,41.3
+Enschede,2005,98.3
+Enschede,2006,90.2
+Enschede,2007,89.8
+Enschede,2008,93.7
+Enschede,2009,92.5
+Enschede,2010,92.2
+Enschede,2011,90.4
+Enschede,2012,91.3
+Enschede,2013,89.6
+Enschede,2014,78.5
+Enschede,2015,70.1
+Enschede,2016,69.6
+Enschede,2017,60.9
+Enschede,2018,56.9
+Enschede,2019,57.3
+Enschede,2020,63.6
+Epe,2005,58.4
+Epe,2006,50.0
+Epe,2007,50.8
+Epe,2008,48.7
+Epe,2009,53.5
+Epe,2010,60.6
+Epe,2011,52.4
+Epe,2012,49.7
+Epe,2013,44.5
+Epe,2014,38.2
+Epe,2015,37.1
+Epe,2016,36.4
+Epe,2017,35.6
+Epe,2018,29.2
+Epe,2019,26.5
+Epe,2020,29.7
+Ermelo,2005,70.8
+Ermelo,2006,69.1
+Ermelo,2007,73.6
+Ermelo,2008,67.1
+Ermelo,2009,64.9
+Ermelo,2010,70.5
+Ermelo,2011,67.1
+Ermelo,2012,56.9
+Ermelo,2013,55.3
+Ermelo,2014,55.9
+Ermelo,2015,50.1
+Ermelo,2016,51.0
+Ermelo,2017,40.1
+Ermelo,2018,39.3
+Ermelo,2019,39.7
+Ermelo,2020,42.2
+Etten-Leur,2005,83.4
+Etten-Leur,2006,74.5
+Etten-Leur,2007,76.6
+Etten-Leur,2008,73.2
+Etten-Leur,2009,78.2
+Etten-Leur,2010,72.6
+Etten-Leur,2011,66.9
+Etten-Leur,2012,63.0
+Etten-Leur,2013,58.0
+Etten-Leur,2014,57.6
+Etten-Leur,2015,52.8
+Etten-Leur,2016,50.0
+Etten-Leur,2017,40.9
+Etten-Leur,2018,36.2
+Etten-Leur,2019,41.0
+Etten-Leur,2020,39.3
+Ferwerderadiel,2005,22.6
+Ferwerderadiel,2006,21.7
+Ferwerderadiel,2007,24.1
+Ferwerderadiel,2008,30.5
+Ferwerderadiel,2009,20.6
+Ferwerderadiel,2010,20.6
+Ferwerderadiel,2011,27.6
+Ferwerderadiel,2012,22.0
+Ferwerderadiel,2013,24.6
+Ferwerderadiel,2014,21.6
+Ferwerderadiel,2015,20.3
+Ferwerderadiel,2016,20.2
+Ferwerderadiel,2017,13.9
+Ferwerderadiel,2018,15.3
+Ferwerderadiel,2019,
+Ferwerderadiel,2020,
+Flevoland (PV),2005,75.6
+Flevoland (PV),2006,76.4
+Flevoland (PV),2007,78.0
+Flevoland (PV),2008,75.4
+Flevoland (PV),2009,66.5
+Flevoland (PV),2010,66.4
+Flevoland (PV),2011,66.6
+Flevoland (PV),2012,65.4
+Flevoland (PV),2013,65.3
+Flevoland (PV),2014,58.4
+Flevoland (PV),2015,53.6
+Flevoland (PV),2016,51.6
+Flevoland (PV),2017,45.8
+Flevoland (PV),2018,44.2
+Flevoland (PV),2019,46.2
+Flevoland (PV),2020,44.3
+Franekeradeel,2005,49.8
+Franekeradeel,2006,54.8
+Franekeradeel,2007,45.0
+Franekeradeel,2008,41.3
+Franekeradeel,2009,42.4
+Franekeradeel,2010,41.5
+Franekeradeel,2011,37.2
+Franekeradeel,2012,37.1
+Franekeradeel,2013,36.4
+Franekeradeel,2014,33.3
+Franekeradeel,2015,36.4
+Franekeradeel,2016,30.3
+Franekeradeel,2017,24.0
+Franekeradeel,2018,
+Franekeradeel,2019,
+Franekeradeel,2020,
+Friesland (PV),2005,53.4
+Friesland (PV),2006,51.6
+Friesland (PV),2007,53.8
+Friesland (PV),2008,53.0
+Friesland (PV),2009,49.8
+Fryslân (PV),2010,49.2
+Fryslân (PV),2011,49.4
+Fryslân (PV),2012,46.2
+Fryslân (PV),2013,44.5
+Fryslân (PV),2014,42.7
+Fryslân (PV),2015,41.1
+Fryslân (PV),2016,38.1
+Fryslân (PV),2017,32.7
+Fryslân (PV),2018,34.0
+Fryslân (PV),2019,34.3
+Fryslân (PV),2020,33.7
+Gaasterlân-Sleat,2010,32.2
+Gaasterlân-Sleat,2011,33.7
+Gaasterlân-Sleat,2012,30.6
+Gaasterlân-Sleat,2013,26.9
+Gaasterlân-Sleat,2014,
+Gaasterlân-Sleat,2015,
+Gaasterlân-Sleat,2016,
+Gaasterlân-Sleat,2017,
+Gaasterlân-Sleat,2018,
+Gaasterlân-Sleat,2019,
+Gaasterlân-Sleat,2020,
+Geertruidenberg,2005,66.6
+Geertruidenberg,2006,60.9
+Geertruidenberg,2007,60.1
+Geertruidenberg,2008,55.8
+Geertruidenberg,2009,56.6
+Geertruidenberg,2010,56.8
+Geertruidenberg,2011,52.9
+Geertruidenberg,2012,52.2
+Geertruidenberg,2013,50.4
+Geertruidenberg,2014,46.5
+Geertruidenberg,2015,46.4
+Geertruidenberg,2016,43.8
+Geertruidenberg,2017,43.0
+Geertruidenberg,2018,39.6
+Geertruidenberg,2019,41.4
+Geertruidenberg,2020,47.2
+Gelderland (PV),2005,72.0
+Gelderland (PV),2006,69.7
+Gelderland (PV),2007,68.2
+Gelderland (PV),2008,65.4
+Gelderland (PV),2009,65.9
+Gelderland (PV),2010,63.8
+Gelderland (PV),2011,62.6
+Gelderland (PV),2012,59.6
+Gelderland (PV),2013,56.1
+Gelderland (PV),2014,50.6
+Gelderland (PV),2015,47.0
+Gelderland (PV),2016,45.6
+Gelderland (PV),2017,39.9
+Gelderland (PV),2018,37.3
+Gelderland (PV),2019,39.8
+Gelderland (PV),2020,40.0
+Geldermalsen,2005,59.3
+Geldermalsen,2006,66.8
+Geldermalsen,2007,62.6
+Geldermalsen,2008,67.6
+Geldermalsen,2009,62.2
+Geldermalsen,2010,59.1
+Geldermalsen,2011,58.6
+Geldermalsen,2012,59.6
+Geldermalsen,2013,52.2
+Geldermalsen,2014,54.0
+Geldermalsen,2015,45.7
+Geldermalsen,2016,44.8
+Geldermalsen,2017,39.6
+Geldermalsen,2018,33.5
+Geldermalsen,2019,
+Geldermalsen,2020,
+Geldrop-Mierlo,2005,68.9
+Geldrop-Mierlo,2006,66.0
+Geldrop-Mierlo,2007,69.1
+Geldrop-Mierlo,2008,66.2
+Geldrop-Mierlo,2009,65.6
+Geldrop-Mierlo,2010,58.8
+Geldrop-Mierlo,2011,61.2
+Geldrop-Mierlo,2012,53.2
+Geldrop-Mierlo,2013,52.4
+Geldrop-Mierlo,2014,51.6
+Geldrop-Mierlo,2015,52.4
+Geldrop-Mierlo,2016,48.1
+Geldrop-Mierlo,2017,40.0
+Geldrop-Mierlo,2018,34.7
+Geldrop-Mierlo,2019,36.0
+Geldrop-Mierlo,2020,42.1
+Gemert-Bakel,2005,60.7
+Gemert-Bakel,2006,55.7
+Gemert-Bakel,2007,55.0
+Gemert-Bakel,2008,47.5
+Gemert-Bakel,2009,46.4
+Gemert-Bakel,2010,49.3
+Gemert-Bakel,2011,48.7
+Gemert-Bakel,2012,49.8
+Gemert-Bakel,2013,51.0
+Gemert-Bakel,2014,49.6
+Gemert-Bakel,2015,40.4
+Gemert-Bakel,2016,37.0
+Gemert-Bakel,2017,36.3
+Gemert-Bakel,2018,26.8
+Gemert-Bakel,2019,30.5
+Gemert-Bakel,2020,31.4
+Gennep,2005,64.9
+Gennep,2006,68.3
+Gennep,2007,58.9
+Gennep,2008,59.3
+Gennep,2009,53.5
+Gennep,2010,49.9
+Gennep,2011,53.0
+Gennep,2012,51.6
+Gennep,2013,42.7
+Gennep,2014,38.9
+Gennep,2015,41.4
+Gennep,2016,34.1
+Gennep,2017,30.2
+Gennep,2018,25.9
+Gennep,2019,31.6
+Gennep,2020,31.7
+Giessenlanden,2005,34.4
+Giessenlanden,2006,33.0
+Giessenlanden,2007,29.9
+Giessenlanden,2008,26.3
+Giessenlanden,2009,23.8
+Giessenlanden,2010,25.6
+Giessenlanden,2011,27.1
+Giessenlanden,2012,30.7
+Giessenlanden,2013,30.3
+Giessenlanden,2014,26.5
+Giessenlanden,2015,31.3
+Giessenlanden,2016,26.9
+Giessenlanden,2017,22.2
+Giessenlanden,2018,20.9
+Giessenlanden,2019,
+Giessenlanden,2020,
+Gilze en Rijen,2005,74.6
+Gilze en Rijen,2006,73.4
+Gilze en Rijen,2007,61.3
+Gilze en Rijen,2008,57.4
+Gilze en Rijen,2009,58.0
+Gilze en Rijen,2010,56.3
+Gilze en Rijen,2011,64.8
+Gilze en Rijen,2012,59.1
+Gilze en Rijen,2013,54.6
+Gilze en Rijen,2014,51.2
+Gilze en Rijen,2015,50.8
+Gilze en Rijen,2016,47.7
+Gilze en Rijen,2017,37.9
+Gilze en Rijen,2018,38.8
+Gilze en Rijen,2019,40.1
+Gilze en Rijen,2020,40.0
+Goedereede,2010,46.1
+Goedereede,2011,52.2
+Goedereede,2012,46.7
+Goedereede,2013,
+Goedereede,2014,
+Goedereede,2015,
+Goedereede,2016,
+Goedereede,2017,
+Goedereede,2018,
+Goedereede,2019,
+Goedereede,2020,
+Goeree-Overflakkee,2005,54.4
+Goeree-Overflakkee,2006,50.5
+Goeree-Overflakkee,2007,46.2
+Goeree-Overflakkee,2008,40.6
+Goeree-Overflakkee,2009,43.6
+Goeree-Overflakkee,2010,
+Goeree-Overflakkee,2011,
+Goeree-Overflakkee,2012,
+Goeree-Overflakkee,2013,37.8
+Goeree-Overflakkee,2014,36.1
+Goeree-Overflakkee,2015,33.6
+Goeree-Overflakkee,2016,30.4
+Goeree-Overflakkee,2017,25.7
+Goeree-Overflakkee,2018,24.8
+Goeree-Overflakkee,2019,27.1
+Goeree-Overflakkee,2020,27.8
+Goes,2005,75.4
+Goes,2006,73.5
+Goes,2007,81.6
+Goes,2008,87.1
+Goes,2009,82.7
+Goes,2010,71.7
+Goes,2011,75.4
+Goes,2012,70.4
+Goes,2013,63.9
+Goes,2014,58.9
+Goes,2015,55.5
+Goes,2016,54.5
+Goes,2017,42.8
+Goes,2018,43.7
+Goes,2019,47.5
+Goes,2020,44.9
+Goirle,2005,54.9
+Goirle,2006,54.7
+Goirle,2007,52.7
+Goirle,2008,50.7
+Goirle,2009,51.6
+Goirle,2010,52.3
+Goirle,2011,52.5
+Goirle,2012,46.6
+Goirle,2013,42.2
+Goirle,2014,39.5
+Goirle,2015,37.3
+Goirle,2016,33.8
+Goirle,2017,28.3
+Goirle,2018,28.1
+Goirle,2019,30.6
+Goirle,2020,32.8
+Gooise Meren,2005,84.3
+Gooise Meren,2006,80.9
+Gooise Meren,2007,84.6
+Gooise Meren,2008,82.5
+Gooise Meren,2009,76.4
+Gooise Meren,2010,
+Gooise Meren,2011,
+Gooise Meren,2012,
+Gooise Meren,2013,
+Gooise Meren,2014,
+Gooise Meren,2015,
+Gooise Meren,2016,53.5
+Gooise Meren,2017,48.7
+Gooise Meren,2018,50.8
+Gooise Meren,2019,53.2
+Gooise Meren,2020,48.9
+Gorinchem,2005,81.5
+Gorinchem,2006,82.5
+Gorinchem,2007,81.5
+Gorinchem,2008,80.8
+Gorinchem,2009,76.6
+Gorinchem,2010,72.3
+Gorinchem,2011,72.9
+Gorinchem,2012,72.0
+Gorinchem,2013,67.1
+Gorinchem,2014,61.9
+Gorinchem,2015,63.0
+Gorinchem,2016,57.1
+Gorinchem,2017,47.2
+Gorinchem,2018,41.7
+Gorinchem,2019,46.8
+Gorinchem,2020,49.5
+Gouda,2005,133.6
+Gouda,2006,112.5
+Gouda,2007,109.6
+Gouda,2008,109.9
+Gouda,2009,95.7
+Gouda,2010,94.2
+Gouda,2011,100.2
+Gouda,2012,91.6
+Gouda,2013,87.6
+Gouda,2014,88.0
+Gouda,2015,72.7
+Gouda,2016,69.4
+Gouda,2017,58.3
+Gouda,2018,54.9
+Gouda,2019,54.1
+Gouda,2020,51.8
+Graafstroom,2010,25.0
+Graafstroom,2011,28.0
+Graafstroom,2012,34.5
+Graafstroom,2013,
+Graafstroom,2014,
+Graafstroom,2015,
+Graafstroom,2016,
+Graafstroom,2017,
+Graafstroom,2018,
+Graafstroom,2019,
+Graafstroom,2020,
+Graft-De Rijp,2010,43.1
+Graft-De Rijp,2011,38.1
+Graft-De Rijp,2012,35.9
+Graft-De Rijp,2013,35.3
+Graft-De Rijp,2014,28.5
+Graft-De Rijp,2015,
+Graft-De Rijp,2016,
+Graft-De Rijp,2017,
+Graft-De Rijp,2018,
+Graft-De Rijp,2019,
+Graft-De Rijp,2020,
+Grave,2005,45.6
+Grave,2006,50.1
+Grave,2007,41.6
+Grave,2008,44.8
+Grave,2009,47.7
+Grave,2010,44.7
+Grave,2011,41.5
+Grave,2012,44.1
+Grave,2013,45.0
+Grave,2014,35.7
+Grave,2015,36.8
+Grave,2016,40.1
+Grave,2017,36.0
+Grave,2018,43.6
+Grave,2019,42.5
+Grave,2020,40.5
+Groesbeek,2010,48.3
+Groesbeek,2011,50.0
+Groesbeek,2012,51.8
+Groesbeek,2013,48.0
+Groesbeek,2014,43.1
+Groesbeek,2015,38.8
+Groesbeek,2016,
+Groesbeek,2017,
+Groesbeek,2018,
+Groesbeek,2019,
+Groesbeek,2020,
+Groningen (PV),2005,70.6
+Groningen (PV),2006,71.6
+Groningen (PV),2007,70.3
+Groningen (PV),2008,69.4
+Groningen (PV),2009,71.4
+Groningen (PV),2010,66.4
+Groningen (PV),2011,64.2
+Groningen (PV),2012,61.8
+Groningen (PV),2013,59.2
+Groningen (PV),2014,52.7
+Groningen (PV),2015,51.5
+Groningen (PV),2016,50.7
+Groningen (PV),2017,42.8
+Groningen (PV),2018,41.3
+Groningen (PV),2019,42.8
+Groningen (PV),2020,40.4
+Groningen (gemeente),2005,111.5
+Groningen (gemeente),2006,116.0
+Groningen (gemeente),2007,113.2
+Groningen (gemeente),2008,107.1
+Groningen (gemeente),2009,111.0
+Groningen (gemeente),2010,104.3
+Groningen (gemeente),2011,97.4
+Groningen (gemeente),2012,94.5
+Groningen (gemeente),2013,94.8
+Groningen (gemeente),2014,84.5
+Groningen (gemeente),2015,82.1
+Groningen (gemeente),2016,82.0
+Groningen (gemeente),2017,68.3
+Groningen (gemeente),2018,64.0
+Groningen (gemeente),2019,59.4
+Groningen (gemeente),2020,53.5
+Grootegast,2005,28.3
+Grootegast,2006,29.3
+Grootegast,2007,26.4
+Grootegast,2008,24.7
+Grootegast,2009,28.2
+Grootegast,2010,25.2
+Grootegast,2011,24.8
+Grootegast,2012,26.8
+Grootegast,2013,26.3
+Grootegast,2014,21.4
+Grootegast,2015,18.4
+Grootegast,2016,17.9
+Grootegast,2017,12.8
+Grootegast,2018,16.7
+Grootegast,2019,
+Grootegast,2020,
+Gulpen-Wittem,2005,47.3
+Gulpen-Wittem,2006,44.3
+Gulpen-Wittem,2007,50.1
+Gulpen-Wittem,2008,44.7
+Gulpen-Wittem,2009,49.2
+Gulpen-Wittem,2010,51.3
+Gulpen-Wittem,2011,47.4
+Gulpen-Wittem,2012,45.6
+Gulpen-Wittem,2013,51.0
+Gulpen-Wittem,2014,36.3
+Gulpen-Wittem,2015,37.5
+Gulpen-Wittem,2016,37.2
+Gulpen-Wittem,2017,33.5
+Gulpen-Wittem,2018,30.4
+Gulpen-Wittem,2019,32.1
+Gulpen-Wittem,2020,37.2
+Haaksbergen,2005,44.1
+Haaksbergen,2006,43.2
+Haaksbergen,2007,41.4
+Haaksbergen,2008,37.4
+Haaksbergen,2009,38.3
+Haaksbergen,2010,41.3
+Haaksbergen,2011,40.8
+Haaksbergen,2012,40.5
+Haaksbergen,2013,36.1
+Haaksbergen,2014,33.6
+Haaksbergen,2015,25.5
+Haaksbergen,2016,25.0
+Haaksbergen,2017,22.9
+Haaksbergen,2018,25.2
+Haaksbergen,2019,25.8
+Haaksbergen,2020,24.4
+Haaren,2005,37.4
+Haaren,2006,36.2
+Haaren,2007,34.2
+Haaren,2008,35.1
+Haaren,2009,38.9
+Haaren,2010,36.4
+Haaren,2011,38.4
+Haaren,2012,40.6
+Haaren,2013,36.8
+Haaren,2014,31.1
+Haaren,2015,32.3
+Haaren,2016,26.7
+Haaren,2017,29.6
+Haaren,2018,23.3
+Haaren,2019,23.2
+Haaren,2020,23.1
+Haarlem,2005,86.6
+Haarlem,2006,87.3
+Haarlem,2007,86.1
+Haarlem,2008,79.6
+Haarlem,2009,86.3
+Haarlem,2010,88.8
+Haarlem,2011,87.1
+Haarlem,2012,75.6
+Haarlem,2013,76.4
+Haarlem,2014,69.8
+Haarlem,2015,66.2
+Haarlem,2016,62.2
+Haarlem,2017,52.4
+Haarlem,2018,51.1
+Haarlem,2019,52.7
+Haarlem,2020,50.0
+Haarlemmerliede en Spaarnwoude,2005,75.6
+Haarlemmerliede en Spaarnwoude,2006,79.8
+Haarlemmerliede en Spaarnwoude,2007,76.0
+Haarlemmerliede en Spaarnwoude,2008,70.2
+Haarlemmerliede en Spaarnwoude,2009,74.8
+Haarlemmerliede en Spaarnwoude,2010,86.9
+Haarlemmerliede en Spaarnwoude,2011,75.7
+Haarlemmerliede en Spaarnwoude,2012,73.6
+Haarlemmerliede en Spaarnwoude,2013,85.4
+Haarlemmerliede en Spaarnwoude,2014,70.3
+Haarlemmerliede en Spaarnwoude,2015,67.1
+Haarlemmerliede en Spaarnwoude,2016,68.7
+Haarlemmerliede en Spaarnwoude,2017,52.1
+Haarlemmerliede en Spaarnwoude,2018,43.3
+Haarlemmerliede en Spaarnwoude,2019,
+Haarlemmerliede en Spaarnwoude,2020,
+Haarlemmermeer,2005,102.6
+Haarlemmermeer,2006,100.6
+Haarlemmermeer,2007,96.4
+Haarlemmermeer,2008,87.4
+Haarlemmermeer,2009,89.4
+Haarlemmermeer,2010,94.3
+Haarlemmermeer,2011,95.4
+Haarlemmermeer,2012,92.3
+Haarlemmermeer,2013,88.4
+Haarlemmermeer,2014,82.9
+Haarlemmermeer,2015,80.6
+Haarlemmermeer,2016,70.7
+Haarlemmermeer,2017,64.5
+Haarlemmermeer,2018,62.1
+Haarlemmermeer,2019,59.6
+Haarlemmermeer,2020,47.3
+Halderberge,2005,63.2
+Halderberge,2006,65.7
+Halderberge,2007,68.7
+Halderberge,2008,74.8
+Halderberge,2009,60.2
+Halderberge,2010,58.1
+Halderberge,2011,57.3
+Halderberge,2012,56.9
+Halderberge,2013,46.9
+Halderberge,2014,46.7
+Halderberge,2015,39.9
+Halderberge,2016,38.7
+Halderberge,2017,29.4
+Halderberge,2018,31.4
+Halderberge,2019,39.1
+Halderberge,2020,36.3
+Hardenberg,2005,50.4
+Hardenberg,2006,46.0
+Hardenberg,2007,46.1
+Hardenberg,2008,47.3
+Hardenberg,2009,48.5
+Hardenberg,2010,43.4
+Hardenberg,2011,44.6
+Hardenberg,2012,42.2
+Hardenberg,2013,38.0
+Hardenberg,2014,34.7
+Hardenberg,2015,31.8
+Hardenberg,2016,28.2
+Hardenberg,2017,26.5
+Hardenberg,2018,27.0
+Hardenberg,2019,28.0
+Hardenberg,2020,26.3
+Harderwijk,2005,74.4
+Harderwijk,2006,67.6
+Harderwijk,2007,67.3
+Harderwijk,2008,64.2
+Harderwijk,2009,60.4
+Harderwijk,2010,71.6
+Harderwijk,2011,70.4
+Harderwijk,2012,59.8
+Harderwijk,2013,55.9
+Harderwijk,2014,48.7
+Harderwijk,2015,47.6
+Harderwijk,2016,43.2
+Harderwijk,2017,35.4
+Harderwijk,2018,31.5
+Harderwijk,2019,40.6
+Harderwijk,2020,42.5
+Hardinxveld-Giessendam,2005,36.8
+Hardinxveld-Giessendam,2006,36.3
+Hardinxveld-Giessendam,2007,42.1
+Hardinxveld-Giessendam,2008,38.9
+Hardinxveld-Giessendam,2009,33.7
+Hardinxveld-Giessendam,2010,33.7
+Hardinxveld-Giessendam,2011,36.2
+Hardinxveld-Giessendam,2012,33.9
+Hardinxveld-Giessendam,2013,31.5
+Hardinxveld-Giessendam,2014,25.5
+Hardinxveld-Giessendam,2015,25.8
+Hardinxveld-Giessendam,2016,25.5
+Hardinxveld-Giessendam,2017,24.0
+Hardinxveld-Giessendam,2018,23.8
+Hardinxveld-Giessendam,2019,24.5
+Hardinxveld-Giessendam,2020,24.8
+Haren,2005,50.5
+Haren,2006,47.4
+Haren,2007,48.3
+Haren,2008,46.0
+Haren,2009,48.4
+Haren,2010,42.8
+Haren,2011,43.6
+Haren,2012,55.8
+Haren,2013,43.2
+Haren,2014,37.8
+Haren,2015,39.3
+Haren,2016,36.4
+Haren,2017,29.5
+Haren,2018,26.9
+Haren,2019,
+Haren,2020,
+Harenkarspel,2010,40.8
+Harenkarspel,2011,39.9
+Harenkarspel,2012,40.6
+Harenkarspel,2013,
+Harenkarspel,2014,
+Harenkarspel,2015,
+Harenkarspel,2016,
+Harenkarspel,2017,
+Harenkarspel,2018,
+Harenkarspel,2019,
+Harenkarspel,2020,
+Harlingen,2005,73.5
+Harlingen,2006,70.7
+Harlingen,2007,68.4
+Harlingen,2008,70.7
+Harlingen,2009,71.5
+Harlingen,2010,62.4
+Harlingen,2011,56.3
+Harlingen,2012,49.2
+Harlingen,2013,50.5
+Harlingen,2014,50.4
+Harlingen,2015,43.7
+Harlingen,2016,41.3
+Harlingen,2017,31.3
+Harlingen,2018,30.9
+Harlingen,2019,32.4
+Harlingen,2020,34.5
+Hattem,2005,50.1
+Hattem,2006,50.6
+Hattem,2007,52.1
+Hattem,2008,44.7
+Hattem,2009,46.0
+Hattem,2010,47.3
+Hattem,2011,48.0
+Hattem,2012,38.3
+Hattem,2013,36.2
+Hattem,2014,27.3
+Hattem,2015,32.5
+Hattem,2016,28.4
+Hattem,2017,22.4
+Hattem,2018,18.8
+Hattem,2019,23.2
+Hattem,2020,25.0
+Heemskerk,2005,56.6
+Heemskerk,2006,52.6
+Heemskerk,2007,51.1
+Heemskerk,2008,49.8
+Heemskerk,2009,48.5
+Heemskerk,2010,52.4
+Heemskerk,2011,46.6
+Heemskerk,2012,47.1
+Heemskerk,2013,47.6
+Heemskerk,2014,45.0
+Heemskerk,2015,45.6
+Heemskerk,2016,34.9
+Heemskerk,2017,33.5
+Heemskerk,2018,28.7
+Heemskerk,2019,32.9
+Heemskerk,2020,32.7
+Heemstede,2005,63.1
+Heemstede,2006,59.2
+Heemstede,2007,61.5
+Heemstede,2008,60.9
+Heemstede,2009,58.3
+Heemstede,2010,57.9
+Heemstede,2011,56.1
+Heemstede,2012,54.0
+Heemstede,2013,66.9
+Heemstede,2014,47.3
+Heemstede,2015,45.0
+Heemstede,2016,40.7
+Heemstede,2017,33.5
+Heemstede,2018,33.0
+Heemstede,2019,34.0
+Heemstede,2020,41.2
+Heerde,2005,52.4
+Heerde,2006,45.6
+Heerde,2007,51.6
+Heerde,2008,41.0
+Heerde,2009,43.9
+Heerde,2010,47.0
+Heerde,2011,42.3
+Heerde,2012,37.6
+Heerde,2013,36.1
+Heerde,2014,31.4
+Heerde,2015,33.7
+Heerde,2016,25.1
+Heerde,2017,24.1
+Heerde,2018,22.0
+Heerde,2019,22.9
+Heerde,2020,23.6
+Heerenveen,2005,63.9
+Heerenveen,2006,61.3
+Heerenveen,2007,62.3
+Heerenveen,2008,58.5
+Heerenveen,2009,57.5
+Heerenveen,2010,54.4
+Heerenveen,2011,61.0
+Heerenveen,2012,53.4
+Heerenveen,2013,44.6
+Heerenveen,2014,43.0
+Heerenveen,2015,42.5
+Heerenveen,2016,38.2
+Heerenveen,2017,33.8
+Heerenveen,2018,32.1
+Heerenveen,2019,36.9
+Heerenveen,2020,36.7
+Heerhugowaard,2005,80.4
+Heerhugowaard,2006,79.0
+Heerhugowaard,2007,79.6
+Heerhugowaard,2008,69.9
+Heerhugowaard,2009,70.9
+Heerhugowaard,2010,66.7
+Heerhugowaard,2011,69.7
+Heerhugowaard,2012,66.4
+Heerhugowaard,2013,64.5
+Heerhugowaard,2014,60.1
+Heerhugowaard,2015,56.6
+Heerhugowaard,2016,52.1
+Heerhugowaard,2017,42.8
+Heerhugowaard,2018,39.2
+Heerhugowaard,2019,43.7
+Heerhugowaard,2020,45.0
+Heerlen,2005,116.7
+Heerlen,2006,108.7
+Heerlen,2007,108.6
+Heerlen,2008,110.6
+Heerlen,2009,111.6
+Heerlen,2010,107.3
+Heerlen,2011,107.8
+Heerlen,2012,94.7
+Heerlen,2013,92.4
+Heerlen,2014,91.8
+Heerlen,2015,82.5
+Heerlen,2016,79.5
+Heerlen,2017,67.6
+Heerlen,2018,65.2
+Heerlen,2019,64.6
+Heerlen,2020,58.1
+Heeze-Leende,2005,49.5
+Heeze-Leende,2006,50.6
+Heeze-Leende,2007,56.2
+Heeze-Leende,2008,48.0
+Heeze-Leende,2009,50.3
+Heeze-Leende,2010,52.3
+Heeze-Leende,2011,45.6
+Heeze-Leende,2012,46.4
+Heeze-Leende,2013,49.3
+Heeze-Leende,2014,45.3
+Heeze-Leende,2015,37.0
+Heeze-Leende,2016,36.8
+Heeze-Leende,2017,27.7
+Heeze-Leende,2018,28.1
+Heeze-Leende,2019,27.7
+Heeze-Leende,2020,30.2
+Heiloo,2005,51.2
+Heiloo,2006,55.5
+Heiloo,2007,53.1
+Heiloo,2008,47.0
+Heiloo,2009,53.8
+Heiloo,2010,51.3
+Heiloo,2011,53.5
+Heiloo,2012,44.5
+Heiloo,2013,42.3
+Heiloo,2014,42.7
+Heiloo,2015,43.4
+Heiloo,2016,38.8
+Heiloo,2017,33.8
+Heiloo,2018,27.9
+Heiloo,2019,26.3
+Heiloo,2020,28.8
+Hellendoorn,2005,36.7
+Hellendoorn,2006,36.6
+Hellendoorn,2007,34.2
+Hellendoorn,2008,35.2
+Hellendoorn,2009,35.0
+Hellendoorn,2010,32.8
+Hellendoorn,2011,34.5
+Hellendoorn,2012,32.7
+Hellendoorn,2013,28.1
+Hellendoorn,2014,24.4
+Hellendoorn,2015,23.6
+Hellendoorn,2016,21.6
+Hellendoorn,2017,20.0
+Hellendoorn,2018,21.0
+Hellendoorn,2019,19.7
+Hellendoorn,2020,22.2
+Hellevoetsluis,2005,81.4
+Hellevoetsluis,2006,74.4
+Hellevoetsluis,2007,73.1
+Hellevoetsluis,2008,65.7
+Hellevoetsluis,2009,59.1
+Hellevoetsluis,2010,52.5
+Hellevoetsluis,2011,56.5
+Hellevoetsluis,2012,53.3
+Hellevoetsluis,2013,47.3
+Hellevoetsluis,2014,46.5
+Hellevoetsluis,2015,47.1
+Hellevoetsluis,2016,43.5
+Hellevoetsluis,2017,38.9
+Hellevoetsluis,2018,34.7
+Hellevoetsluis,2019,34.9
+Hellevoetsluis,2020,36.5
+Helmond,2005,82.1
+Helmond,2006,87.0
+Helmond,2007,86.7
+Helmond,2008,83.5
+Helmond,2009,83.4
+Helmond,2010,84.4
+Helmond,2011,81.5
+Helmond,2012,81.0
+Helmond,2013,82.2
+Helmond,2014,76.2
+Helmond,2015,72.6
+Helmond,2016,67.2
+Helmond,2017,59.3
+Helmond,2018,57.2
+Helmond,2019,57.8
+Helmond,2020,54.9
+Hendrik-Ido-Ambacht,2005,48.2
+Hendrik-Ido-Ambacht,2006,43.7
+Hendrik-Ido-Ambacht,2007,41.4
+Hendrik-Ido-Ambacht,2008,46.3
+Hendrik-Ido-Ambacht,2009,46.2
+Hendrik-Ido-Ambacht,2010,38.7
+Hendrik-Ido-Ambacht,2011,43.5
+Hendrik-Ido-Ambacht,2012,38.8
+Hendrik-Ido-Ambacht,2013,38.4
+Hendrik-Ido-Ambacht,2014,36.7
+Hendrik-Ido-Ambacht,2015,35.4
+Hendrik-Ido-Ambacht,2016,36.1
+Hendrik-Ido-Ambacht,2017,31.7
+Hendrik-Ido-Ambacht,2018,33.0
+Hendrik-Ido-Ambacht,2019,34.6
+Hendrik-Ido-Ambacht,2020,33.4
+Hengelo (O.),2005,71.1
+Hengelo (O.),2006,67.2
+Hengelo (O.),2007,69.6
+Hengelo (O.),2008,65.6
+Hengelo (O.),2009,65.6
+Hengelo (O.),2010,66.0
+Hengelo (O.),2011,72.4
+Hengelo (O.),2012,67.9
+Hengelo (O.),2013,68.5
+Hengelo (O.),2014,60.5
+Hengelo (O.),2015,59.5
+Hengelo (O.),2016,57.0
+Hengelo (O.),2017,50.6
+Hengelo (O.),2018,50.2
+Hengelo (O.),2019,46.9
+Hengelo (O.),2020,48.7
+Het Hogeland,2010,
+Het Hogeland,2011,
+Het Hogeland,2012,
+Het Hogeland,2013,
+Het Hogeland,2014,
+Het Hogeland,2015,
+Het Hogeland,2016,
+Het Hogeland,2017,
+Het Hogeland,2018,
+Het Hogeland,2019,23.6
+Het Hogeland,2020,25.6
+Heumen,2005,57.3
+Heumen,2006,60.1
+Heumen,2007,53.4
+Heumen,2008,51.7
+Heumen,2009,64.3
+Heumen,2010,50.6
+Heumen,2011,47.2
+Heumen,2012,48.7
+Heumen,2013,47.3
+Heumen,2014,41.9
+Heumen,2015,47.1
+Heumen,2016,44.8
+Heumen,2017,38.0
+Heumen,2018,34.2
+Heumen,2019,35.2
+Heumen,2020,34.3
+Heusden,2005,58.4
+Heusden,2006,56.1
+Heusden,2007,60.3
+Heusden,2008,51.6
+Heusden,2009,56.5
+Heusden,2010,46.9
+Heusden,2011,48.1
+Heusden,2012,43.2
+Heusden,2013,42.2
+Heusden,2014,38.1
+Heusden,2015,38.7
+Heusden,2016,34.9
+Heusden,2017,32.7
+Heusden,2018,28.5
+Heusden,2019,27.3
+Heusden,2020,32.7
+Hillegom,2005,58.2
+Hillegom,2006,65.0
+Hillegom,2007,61.8
+Hillegom,2008,58.1
+Hillegom,2009,54.7
+Hillegom,2010,56.8
+Hillegom,2011,60.1
+Hillegom,2012,62.4
+Hillegom,2013,49.1
+Hillegom,2014,36.8
+Hillegom,2015,38.3
+Hillegom,2016,35.1
+Hillegom,2017,36.2
+Hillegom,2018,31.1
+Hillegom,2019,33.5
+Hillegom,2020,33.5
+Hilvarenbeek,2005,50.9
+Hilvarenbeek,2006,60.2
+Hilvarenbeek,2007,52.8
+Hilvarenbeek,2008,51.5
+Hilvarenbeek,2009,51.1
+Hilvarenbeek,2010,46.3
+Hilvarenbeek,2011,49.6
+Hilvarenbeek,2012,46.8
+Hilvarenbeek,2013,49.3
+Hilvarenbeek,2014,50.7
+Hilvarenbeek,2015,51.1
+Hilvarenbeek,2016,38.0
+Hilvarenbeek,2017,28.2
+Hilvarenbeek,2018,32.4
+Hilvarenbeek,2019,34.4
+Hilvarenbeek,2020,29.9
+Hilversum,2005,87.7
+Hilversum,2006,88.4
+Hilversum,2007,91.3
+Hilversum,2008,95.2
+Hilversum,2009,85.0
+Hilversum,2010,95.4
+Hilversum,2011,86.4
+Hilversum,2012,80.7
+Hilversum,2013,72.0
+Hilversum,2014,65.1
+Hilversum,2015,62.3
+Hilversum,2016,58.3
+Hilversum,2017,54.6
+Hilversum,2018,48.1
+Hilversum,2019,52.3
+Hilversum,2020,50.3
+Hoeksche Waard,2010,
+Hoeksche Waard,2011,
+Hoeksche Waard,2012,
+Hoeksche Waard,2013,
+Hoeksche Waard,2014,
+Hoeksche Waard,2015,
+Hoeksche Waard,2016,
+Hoeksche Waard,2017,
+Hoeksche Waard,2018,
+Hoeksche Waard,2019,22.8
+Hoeksche Waard,2020,26.1
+Hof van Twente,2005,35.1
+Hof van Twente,2006,39.6
+Hof van Twente,2007,34.7
+Hof van Twente,2008,38.3
+Hof van Twente,2009,39.6
+Hof van Twente,2010,35.9
+Hof van Twente,2011,38.5
+Hof van Twente,2012,37.6
+Hof van Twente,2013,36.8
+Hof van Twente,2014,33.3
+Hof van Twente,2015,30.0
+Hof van Twente,2016,30.0
+Hof van Twente,2017,26.5
+Hof van Twente,2018,25.6
+Hof van Twente,2019,27.0
+Hof van Twente,2020,24.7
+Hollands Kroon,2005,44.4
+Hollands Kroon,2006,43.4
+Hollands Kroon,2007,47.3
+Hollands Kroon,2008,42.1
+Hollands Kroon,2009,39.2
+Hollands Kroon,2010,
+Hollands Kroon,2011,
+Hollands Kroon,2012,32.7
+Hollands Kroon,2013,33.0
+Hollands Kroon,2014,29.3
+Hollands Kroon,2015,28.6
+Hollands Kroon,2016,26.3
+Hollands Kroon,2017,23.1
+Hollands Kroon,2018,21.8
+Hollands Kroon,2019,23.6
+Hollands Kroon,2020,28.2
+Hoogeveen,2005,70.9
+Hoogeveen,2006,75.1
+Hoogeveen,2007,70.7
+Hoogeveen,2008,71.8
+Hoogeveen,2009,76.2
+Hoogeveen,2010,69.7
+Hoogeveen,2011,73.3
+Hoogeveen,2012,63.4
+Hoogeveen,2013,55.3
+Hoogeveen,2014,51.1
+Hoogeveen,2015,50.1
+Hoogeveen,2016,46.0
+Hoogeveen,2017,39.8
+Hoogeveen,2018,39.4
+Hoogeveen,2019,41.8
+Hoogeveen,2020,42.4
+Hoogezand-Sappemeer,2005,71.6
+Hoogezand-Sappemeer,2006,67.7
+Hoogezand-Sappemeer,2007,67.9
+Hoogezand-Sappemeer,2008,68.7
+Hoogezand-Sappemeer,2009,72.2
+Hoogezand-Sappemeer,2010,61.0
+Hoogezand-Sappemeer,2011,62.0
+Hoogezand-Sappemeer,2012,53.8
+Hoogezand-Sappemeer,2013,56.5
+Hoogezand-Sappemeer,2014,48.6
+Hoogezand-Sappemeer,2015,45.1
+Hoogezand-Sappemeer,2016,41.5
+Hoogezand-Sappemeer,2017,34.5
+Hoogezand-Sappemeer,2018,
+Hoogezand-Sappemeer,2019,
+Hoogezand-Sappemeer,2020,
+Hoorn,2005,109.3
+Hoorn,2006,109.9
+Hoorn,2007,106.7
+Hoorn,2008,112.0
+Hoorn,2009,102.5
+Hoorn,2010,89.7
+Hoorn,2011,84.6
+Hoorn,2012,77.5
+Hoorn,2013,74.9
+Hoorn,2014,70.5
+Hoorn,2015,67.1
+Hoorn,2016,60.3
+Hoorn,2017,42.7
+Hoorn,2018,44.4
+Hoorn,2019,47.9
+Hoorn,2020,51.5
+Horst aan de Maas,2005,54.7
+Horst aan de Maas,2006,55.1
+Horst aan de Maas,2007,48.1
+Horst aan de Maas,2008,45.3
+Horst aan de Maas,2009,46.0
+Horst aan de Maas,2010,41.6
+Horst aan de Maas,2011,43.3
+Horst aan de Maas,2012,43.8
+Horst aan de Maas,2013,43.0
+Horst aan de Maas,2014,36.5
+Horst aan de Maas,2015,38.5
+Horst aan de Maas,2016,34.6
+Horst aan de Maas,2017,30.7
+Horst aan de Maas,2018,33.0
+Horst aan de Maas,2019,31.6
+Horst aan de Maas,2020,34.2
+Houten,2005,55.5
+Houten,2006,50.6
+Houten,2007,44.9
+Houten,2008,47.7
+Houten,2009,42.4
+Houten,2010,43.8
+Houten,2011,42.6
+Houten,2012,41.5
+Houten,2013,39.4
+Houten,2014,39.4
+Houten,2015,35.4
+Houten,2016,36.8
+Houten,2017,32.7
+Houten,2018,31.4
+Houten,2019,29.3
+Houten,2020,33.9
+Huizen,2005,66.7
+Huizen,2006,69.8
+Huizen,2007,69.1
+Huizen,2008,63.2
+Huizen,2009,63.8
+Huizen,2010,55.3
+Huizen,2011,60.5
+Huizen,2012,53.3
+Huizen,2013,47.6
+Huizen,2014,42.3
+Huizen,2015,47.3
+Huizen,2016,44.7
+Huizen,2017,35.9
+Huizen,2018,34.1
+Huizen,2019,36.1
+Huizen,2020,31.5
+Hulst,2005,50.6
+Hulst,2006,52.2
+Hulst,2007,52.9
+Hulst,2008,42.7
+Hulst,2009,47.4
+Hulst,2010,43.4
+Hulst,2011,49.4
+Hulst,2012,38.3
+Hulst,2013,39.0
+Hulst,2014,42.2
+Hulst,2015,40.9
+Hulst,2016,33.2
+Hulst,2017,30.2
+Hulst,2018,27.3
+Hulst,2019,30.6
+Hulst,2020,30.4
+IJsselstein,2005,86.5
+IJsselstein,2006,77.5
+IJsselstein,2007,81.1
+IJsselstein,2008,74.1
+IJsselstein,2009,61.6
+IJsselstein,2010,60.7
+IJsselstein,2011,50.6
+IJsselstein,2012,45.6
+IJsselstein,2013,43.6
+IJsselstein,2014,40.6
+IJsselstein,2015,40.4
+IJsselstein,2016,39.2
+IJsselstein,2017,34.8
+IJsselstein,2018,33.8
+IJsselstein,2019,35.2
+IJsselstein,2020,39.8
+Kaag en Braassem,2005,46.5
+Kaag en Braassem,2006,45.3
+Kaag en Braassem,2007,40.8
+Kaag en Braassem,2008,39.6
+Kaag en Braassem,2009,40.2
+Kaag en Braassem,2010,41.7
+Kaag en Braassem,2011,45.6
+Kaag en Braassem,2012,41.3
+Kaag en Braassem,2013,35.5
+Kaag en Braassem,2014,31.7
+Kaag en Braassem,2015,33.6
+Kaag en Braassem,2016,29.7
+Kaag en Braassem,2017,28.7
+Kaag en Braassem,2018,30.5
+Kaag en Braassem,2019,26.2
+Kaag en Braassem,2020,28.4
+Kampen,2005,52.7
+Kampen,2006,53.9
+Kampen,2007,51.4
+Kampen,2008,50.5
+Kampen,2009,49.9
+Kampen,2010,43.2
+Kampen,2011,43.4
+Kampen,2012,40.2
+Kampen,2013,37.9
+Kampen,2014,35.7
+Kampen,2015,34.1
+Kampen,2016,35.4
+Kampen,2017,28.1
+Kampen,2018,32.0
+Kampen,2019,32.4
+Kampen,2020,33.0
+Kapelle,2005,34.0
+Kapelle,2006,30.1
+Kapelle,2007,36.3
+Kapelle,2008,41.3
+Kapelle,2009,37.6
+Kapelle,2010,31.0
+Kapelle,2011,36.1
+Kapelle,2012,32.2
+Kapelle,2013,30.8
+Kapelle,2014,21.8
+Kapelle,2015,22.9
+Kapelle,2016,24.1
+Kapelle,2017,25.0
+Kapelle,2018,23.7
+Kapelle,2019,26.6
+Kapelle,2020,26.6
+Katwijk,2005,50.6
+Katwijk,2006,49.6
+Katwijk,2007,54.2
+Katwijk,2008,49.9
+Katwijk,2009,46.7
+Katwijk,2010,47.2
+Katwijk,2011,41.4
+Katwijk,2012,40.4
+Katwijk,2013,39.6
+Katwijk,2014,33.5
+Katwijk,2015,34.7
+Katwijk,2016,32.0
+Katwijk,2017,28.8
+Katwijk,2018,27.5
+Katwijk,2019,26.1
+Katwijk,2020,30.8
+Kerkrade,2005,97.4
+Kerkrade,2006,89.4
+Kerkrade,2007,87.1
+Kerkrade,2008,85.1
+Kerkrade,2009,79.2
+Kerkrade,2010,73.8
+Kerkrade,2011,82.3
+Kerkrade,2012,80.7
+Kerkrade,2013,69.0
+Kerkrade,2014,69.3
+Kerkrade,2015,66.5
+Kerkrade,2016,64.0
+Kerkrade,2017,58.5
+Kerkrade,2018,54.4
+Kerkrade,2019,54.4
+Kerkrade,2020,58.2
+Koggenland,2005,47.7
+Koggenland,2006,48.4
+Koggenland,2007,47.6
+Koggenland,2008,41.9
+Koggenland,2009,42.9
+Koggenland,2010,39.8
+Koggenland,2011,44.7
+Koggenland,2012,41.7
+Koggenland,2013,42.5
+Koggenland,2014,37.1
+Koggenland,2015,36.4
+Koggenland,2016,31.7
+Koggenland,2017,26.8
+Koggenland,2018,25.7
+Koggenland,2019,27.7
+Koggenland,2020,30.0
+Kollumerland en Nieuwkruisland,2005,37.1
+Kollumerland en Nieuwkruisland,2006,30.0
+Kollumerland en Nieuwkruisland,2007,26.9
+Kollumerland en Nieuwkruisland,2008,33.0
+Kollumerland en Nieuwkruisland,2009,23.6
+Kollumerland en Nieuwkruisland,2010,25.1
+Kollumerland en Nieuwkruisland,2011,26.3
+Kollumerland en Nieuwkruisland,2012,24.3
+Kollumerland en Nieuwkruisland,2013,19.9
+Kollumerland en Nieuwkruisland,2014,22.2
+Kollumerland en Nieuwkruisland,2015,21.0
+Kollumerland en Nieuwkruisland,2016,21.1
+Kollumerland en Nieuwkruisland,2017,17.1
+Kollumerland en Nieuwkruisland,2018,20.7
+Kollumerland en Nieuwkruisland,2019,
+Kollumerland en Nieuwkruisland,2020,
+Korendijk,2005,29.5
+Korendijk,2006,28.7
+Korendijk,2007,29.5
+Korendijk,2008,23.0
+Korendijk,2009,22.4
+Korendijk,2010,21.6
+Korendijk,2011,28.7
+Korendijk,2012,23.2
+Korendijk,2013,20.4
+Korendijk,2014,17.4
+Korendijk,2015,19.2
+Korendijk,2016,18.7
+Korendijk,2017,28.7
+Korendijk,2018,24.4
+Korendijk,2019,
+Korendijk,2020,
+Krimpen aan den IJssel,2005,57.1
+Krimpen aan den IJssel,2006,59.5
+Krimpen aan den IJssel,2007,55.7
+Krimpen aan den IJssel,2008,55.1
+Krimpen aan den IJssel,2009,49.4
+Krimpen aan den IJssel,2010,39.7
+Krimpen aan den IJssel,2011,45.7
+Krimpen aan den IJssel,2012,40.8
+Krimpen aan den IJssel,2013,38.8
+Krimpen aan den IJssel,2014,31.7
+Krimpen aan den IJssel,2015,28.1
+Krimpen aan den IJssel,2016,27.5
+Krimpen aan den IJssel,2017,27.7
+Krimpen aan den IJssel,2018,22.9
+Krimpen aan den IJssel,2019,24.7
+Krimpen aan den IJssel,2020,24.9
+Krimpenerwaard,2005,43.3
+Krimpenerwaard,2006,43.1
+Krimpenerwaard,2007,48.0
+Krimpenerwaard,2008,42.8
+Krimpenerwaard,2009,41.8
+Krimpenerwaard,2010,
+Krimpenerwaard,2011,
+Krimpenerwaard,2012,
+Krimpenerwaard,2013,
+Krimpenerwaard,2014,
+Krimpenerwaard,2015,29.3
+Krimpenerwaard,2016,27.8
+Krimpenerwaard,2017,25.8
+Krimpenerwaard,2018,19.9
+Krimpenerwaard,2019,23.0
+Krimpenerwaard,2020,28.6
+Laarbeek,2005,40.5
+Laarbeek,2006,43.2
+Laarbeek,2007,36.1
+Laarbeek,2008,35.1
+Laarbeek,2009,39.3
+Laarbeek,2010,35.0
+Laarbeek,2011,36.9
+Laarbeek,2012,35.9
+Laarbeek,2013,40.3
+Laarbeek,2014,40.8
+Laarbeek,2015,34.4
+Laarbeek,2016,27.0
+Laarbeek,2017,27.5
+Laarbeek,2018,26.7
+Laarbeek,2019,27.7
+Laarbeek,2020,31.0
+Landerd,2005,61.2
+Landerd,2006,55.3
+Landerd,2007,60.2
+Landerd,2008,58.5
+Landerd,2009,45.6
+Landerd,2010,43.9
+Landerd,2011,43.6
+Landerd,2012,41.3
+Landerd,2013,45.2
+Landerd,2014,39.3
+Landerd,2015,33.3
+Landerd,2016,32.5
+Landerd,2017,30.5
+Landerd,2018,34.4
+Landerd,2019,33.7
+Landerd,2020,35.9
+Landgraaf,2005,62.0
+Landgraaf,2006,65.9
+Landgraaf,2007,69.4
+Landgraaf,2008,62.7
+Landgraaf,2009,64.5
+Landgraaf,2010,60.0
+Landgraaf,2011,66.6
+Landgraaf,2012,62.5
+Landgraaf,2013,54.9
+Landgraaf,2014,57.0
+Landgraaf,2015,52.4
+Landgraaf,2016,48.3
+Landgraaf,2017,38.8
+Landgraaf,2018,40.0
+Landgraaf,2019,45.2
+Landgraaf,2020,38.9
+Landsmeer,2005,66.7
+Landsmeer,2006,71.2
+Landsmeer,2007,69.1
+Landsmeer,2008,61.1
+Landsmeer,2009,55.9
+Landsmeer,2010,50.7
+Landsmeer,2011,64.0
+Landsmeer,2012,55.0
+Landsmeer,2013,51.6
+Landsmeer,2014,47.7
+Landsmeer,2015,43.7
+Landsmeer,2016,45.2
+Landsmeer,2017,37.1
+Landsmeer,2018,34.6
+Landsmeer,2019,34.2
+Landsmeer,2020,41.3
+Langedijk,2005,54.5
+Langedijk,2006,54.4
+Langedijk,2007,53.5
+Langedijk,2008,48.5
+Langedijk,2009,53.8
+Langedijk,2010,47.0
+Langedijk,2011,51.0
+Langedijk,2012,45.1
+Langedijk,2013,49.2
+Langedijk,2014,41.5
+Langedijk,2015,41.0
+Langedijk,2016,35.6
+Langedijk,2017,31.9
+Langedijk,2018,26.7
+Langedijk,2019,27.8
+Langedijk,2020,29.8
+Lansingerland,2005,49.1
+Lansingerland,2006,52.2
+Lansingerland,2007,55.0
+Lansingerland,2008,56.3
+Lansingerland,2009,60.0
+Lansingerland,2010,47.7
+Lansingerland,2011,49.9
+Lansingerland,2012,47.8
+Lansingerland,2013,43.7
+Lansingerland,2014,40.6
+Lansingerland,2015,39.8
+Lansingerland,2016,39.5
+Lansingerland,2017,31.7
+Lansingerland,2018,29.2
+Lansingerland,2019,34.4
+Lansingerland,2020,33.5
+Laren (NH.),2005,88.7
+Laren (NH.),2006,80.9
+Laren (NH.),2007,89.8
+Laren (NH.),2008,93.8
+Laren (NH.),2009,78.5
+Laren (NH.),2010,79.2
+Laren (NH.),2011,63.2
+Laren (NH.),2012,51.3
+Laren (NH.),2013,56.6
+Laren (NH.),2014,53.0
+Laren (NH.),2015,50.0
+Laren (NH.),2016,51.5
+Laren (NH.),2017,43.7
+Laren (NH.),2018,37.6
+Laren (NH.),2019,45.9
+Laren (NH.),2020,41.1
+Leek,2005,47.5
+Leek,2006,47.9
+Leek,2007,48.8
+Leek,2008,39.0
+Leek,2009,44.2
+Leek,2010,45.6
+Leek,2011,48.5
+Leek,2012,38.8
+Leek,2013,34.2
+Leek,2014,35.6
+Leek,2015,31.7
+Leek,2016,33.1
+Leek,2017,26.8
+Leek,2018,21.9
+Leek,2019,
+Leek,2020,
+Leerdam,2005,53.1
+Leerdam,2006,61.7
+Leerdam,2007,60.2
+Leerdam,2008,47.6
+Leerdam,2009,41.4
+Leerdam,2010,44.7
+Leerdam,2011,47.2
+Leerdam,2012,48.5
+Leerdam,2013,43.2
+Leerdam,2014,42.2
+Leerdam,2015,38.4
+Leerdam,2016,41.0
+Leerdam,2017,30.7
+Leerdam,2018,31.0
+Leerdam,2019,
+Leerdam,2020,
+Leeuwarden,2005,101.2
+Leeuwarden,2006,95.6
+Leeuwarden,2007,100.4
+Leeuwarden,2008,105.2
+Leeuwarden,2009,93.6
+Leeuwarden,2010,93.2
+Leeuwarden,2011,95.3
+Leeuwarden,2012,90.4
+Leeuwarden,2013,89.6
+Leeuwarden,2014,80.6
+Leeuwarden,2015,77.4
+Leeuwarden,2016,70.2
+Leeuwarden,2017,60.4
+Leeuwarden,2018,57.6
+Leeuwarden,2019,53.2
+Leeuwarden,2020,50.4
+Leeuwarderadeel,2005,29.8
+Leeuwarderadeel,2006,24.9
+Leeuwarderadeel,2007,30.4
+Leeuwarderadeel,2008,32.6
+Leeuwarderadeel,2009,30.9
+Leeuwarderadeel,2010,31.9
+Leeuwarderadeel,2011,31.2
+Leeuwarderadeel,2012,39.7
+Leeuwarderadeel,2013,29.4
+Leeuwarderadeel,2014,30.9
+Leeuwarderadeel,2015,21.8
+Leeuwarderadeel,2016,21.0
+Leeuwarderadeel,2017,16.8
+Leeuwarderadeel,2018,
+Leeuwarderadeel,2019,
+Leeuwarderadeel,2020,
+Leiden,2005,101.5
+Leiden,2006,100.8
+Leiden,2007,101.5
+Leiden,2008,104.6
+Leiden,2009,93.2
+Leiden,2010,96.8
+Leiden,2011,96.9
+Leiden,2012,87.4
+Leiden,2013,82.3
+Leiden,2014,74.1
+Leiden,2015,67.1
+Leiden,2016,62.3
+Leiden,2017,55.6
+Leiden,2018,51.4
+Leiden,2019,54.1
+Leiden,2020,49.2
+Leiderdorp,2005,53.2
+Leiderdorp,2006,55.0
+Leiderdorp,2007,65.7
+Leiderdorp,2008,58.7
+Leiderdorp,2009,54.8
+Leiderdorp,2010,63.9
+Leiderdorp,2011,58.9
+Leiderdorp,2012,51.1
+Leiderdorp,2013,45.7
+Leiderdorp,2014,38.2
+Leiderdorp,2015,36.4
+Leiderdorp,2016,35.5
+Leiderdorp,2017,30.3
+Leiderdorp,2018,27.0
+Leiderdorp,2019,29.4
+Leiderdorp,2020,37.4
+Leidschendam-Voorburg,2005,70.5
+Leidschendam-Voorburg,2006,68.5
+Leidschendam-Voorburg,2007,74.5
+Leidschendam-Voorburg,2008,76.8
+Leidschendam-Voorburg,2009,67.7
+Leidschendam-Voorburg,2010,71.6
+Leidschendam-Voorburg,2011,77.4
+Leidschendam-Voorburg,2012,69.2
+Leidschendam-Voorburg,2013,60.0
+Leidschendam-Voorburg,2014,55.2
+Leidschendam-Voorburg,2015,53.2
+Leidschendam-Voorburg,2016,48.2
+Leidschendam-Voorburg,2017,42.7
+Leidschendam-Voorburg,2018,40.5
+Leidschendam-Voorburg,2019,41.4
+Leidschendam-Voorburg,2020,46.7
+Lelystad,2005,89.5
+Lelystad,2006,88.1
+Lelystad,2007,79.9
+Lelystad,2008,83.5
+Lelystad,2009,76.7
+Lelystad,2010,72.8
+Lelystad,2011,70.2
+Lelystad,2012,69.8
+Lelystad,2013,66.8
+Lelystad,2014,62.2
+Lelystad,2015,66.7
+Lelystad,2016,59.9
+Lelystad,2017,55.0
+Lelystad,2018,52.9
+Lelystad,2019,55.1
+Lelystad,2020,51.8
+Lemsterland,2010,58.9
+Lemsterland,2011,45.7
+Lemsterland,2012,39.7
+Lemsterland,2013,41.4
+Lemsterland,2014,
+Lemsterland,2015,
+Lemsterland,2016,
+Lemsterland,2017,
+Lemsterland,2018,
+Lemsterland,2019,
+Lemsterland,2020,
+Leudal,2005,49.0
+Leudal,2006,48.2
+Leudal,2007,49.4
+Leudal,2008,43.3
+Leudal,2009,43.6
+Leudal,2010,41.6
+Leudal,2011,44.2
+Leudal,2012,43.4
+Leudal,2013,42.6
+Leudal,2014,40.4
+Leudal,2015,38.1
+Leudal,2016,37.1
+Leudal,2017,31.7
+Leudal,2018,30.4
+Leudal,2019,34.9
+Leudal,2020,33.9
+Leusden,2005,53.9
+Leusden,2006,56.9
+Leusden,2007,53.3
+Leusden,2008,48.6
+Leusden,2009,45.3
+Leusden,2010,49.2
+Leusden,2011,39.5
+Leusden,2012,40.0
+Leusden,2013,33.7
+Leusden,2014,33.6
+Leusden,2015,27.4
+Leusden,2016,28.8
+Leusden,2017,25.3
+Leusden,2018,26.4
+Leusden,2019,30.6
+Leusden,2020,29.3
+Liesveld,2010,27.0
+Liesveld,2011,26.2
+Liesveld,2012,25.7
+Liesveld,2013,
+Liesveld,2014,
+Liesveld,2015,
+Liesveld,2016,
+Liesveld,2017,
+Liesveld,2018,
+Liesveld,2019,
+Liesveld,2020,
+Limburg (PV),2005,85.7
+Limburg (PV),2006,82.5
+Limburg (PV),2007,82.4
+Limburg (PV),2008,81.0
+Limburg (PV),2009,80.4
+Limburg (PV),2010,76.2
+Limburg (PV),2011,77.5
+Limburg (PV),2012,73.7
+Limburg (PV),2013,69.2
+Limburg (PV),2014,66.3
+Limburg (PV),2015,61.7
+Limburg (PV),2016,56.5
+Limburg (PV),2017,50.6
+Limburg (PV),2018,46.8
+Limburg (PV),2019,48.6
+Limburg (PV),2020,45.6
+Limburg (RE),2005,85.7
+Limburg (RE),2006,82.5
+Limburg (RE),2007,82.4
+Limburg (RE),2008,81.0
+Limburg (RE),2009,80.4
+Limburg (RE),2010,76.2
+Limburg (RE),2011,77.5
+Limburg (RE),2012,73.7
+Limburg (RE),2013,69.2
+Limburg (RE),2014,66.3
+Limburg (RE),2015,61.7
+Limburg (RE),2016,56.5
+Limburg (RE),2017,50.6
+Limburg (RE),2018,46.8
+Limburg (RE),2019,48.6
+Limburg (RE),2020,45.6
+Lingewaal,2005,46.0
+Lingewaal,2006,35.5
+Lingewaal,2007,34.8
+Lingewaal,2008,31.1
+Lingewaal,2009,39.6
+Lingewaal,2010,33.5
+Lingewaal,2011,33.5
+Lingewaal,2012,37.8
+Lingewaal,2013,36.7
+Lingewaal,2014,30.9
+Lingewaal,2015,31.9
+Lingewaal,2016,31.5
+Lingewaal,2017,22.1
+Lingewaal,2018,25.1
+Lingewaal,2019,
+Lingewaal,2020,
+Lingewaard,2005,44.7
+Lingewaard,2006,41.2
+Lingewaard,2007,41.1
+Lingewaard,2008,38.5
+Lingewaard,2009,38.3
+Lingewaard,2010,41.4
+Lingewaard,2011,41.9
+Lingewaard,2012,43.4
+Lingewaard,2013,38.3
+Lingewaard,2014,30.1
+Lingewaard,2015,26.8
+Lingewaard,2016,27.8
+Lingewaard,2017,26.2
+Lingewaard,2018,23.2
+Lingewaard,2019,24.3
+Lingewaard,2020,26.3
+Lisse,2005,56.4
+Lisse,2006,52.8
+Lisse,2007,62.8
+Lisse,2008,58.1
+Lisse,2009,52.5
+Lisse,2010,58.9
+Lisse,2011,56.7
+Lisse,2012,50.6
+Lisse,2013,49.9
+Lisse,2014,41.4
+Lisse,2015,42.8
+Lisse,2016,43.8
+Lisse,2017,31.7
+Lisse,2018,32.7
+Lisse,2019,35.3
+Lisse,2020,32.2
+Lith,2010,27.4
+Lith,2011,
+Lith,2012,
+Lith,2013,
+Lith,2014,
+Lith,2015,
+Lith,2016,
+Lith,2017,
+Lith,2018,
+Lith,2019,
+Lith,2020,
+Littenseradiel,2005,18.4
+Littenseradiel,2006,21.9
+Littenseradiel,2007,21.7
+Littenseradiel,2008,21.0
+Littenseradiel,2009,21.5
+Littenseradiel,2010,17.2
+Littenseradiel,2011,16.4
+Littenseradiel,2012,17.8
+Littenseradiel,2013,16.9
+Littenseradiel,2014,24.2
+Littenseradiel,2015,21.2
+Littenseradiel,2016,16.9
+Littenseradiel,2017,12.0
+Littenseradiel,2018,
+Littenseradiel,2019,
+Littenseradiel,2020,
+Lochem,2005,47.9
+Lochem,2006,44.0
+Lochem,2007,44.3
+Lochem,2008,37.9
+Lochem,2009,39.1
+Lochem,2010,38.1
+Lochem,2011,35.1
+Lochem,2012,37.0
+Lochem,2013,36.1
+Lochem,2014,32.3
+Lochem,2015,32.3
+Lochem,2016,30.0
+Lochem,2017,25.5
+Lochem,2018,23.3
+Lochem,2019,25.8
+Lochem,2020,25.6
+Loenen,2010,44.0
+Loenen,2011,
+Loenen,2012,
+Loenen,2013,
+Loenen,2014,
+Loenen,2015,
+Loenen,2016,
+Loenen,2017,
+Loenen,2018,
+Loenen,2019,
+Loenen,2020,
+Loon op Zand,2005,67.6
+Loon op Zand,2006,65.0
+Loon op Zand,2007,70.8
+Loon op Zand,2008,65.3
+Loon op Zand,2009,74.0
+Loon op Zand,2010,70.4
+Loon op Zand,2011,64.0
+Loon op Zand,2012,64.0
+Loon op Zand,2013,66.8
+Loon op Zand,2014,63.8
+Loon op Zand,2015,54.9
+Loon op Zand,2016,50.8
+Loon op Zand,2017,38.5
+Loon op Zand,2018,41.1
+Loon op Zand,2019,39.5
+Loon op Zand,2020,39.3
+Lopik,2005,43.7
+Lopik,2006,36.5
+Lopik,2007,36.7
+Lopik,2008,29.3
+Lopik,2009,32.4
+Lopik,2010,26.7
+Lopik,2011,27.8
+Lopik,2012,24.8
+Lopik,2013,26.1
+Lopik,2014,24.2
+Lopik,2015,20.4
+Lopik,2016,25.6
+Lopik,2017,24.2
+Lopik,2018,19.5
+Lopik,2019,20.9
+Lopik,2020,28.4
+Loppersum,2005,27.4
+Loppersum,2006,28.6
+Loppersum,2007,32.1
+Loppersum,2008,28.4
+Loppersum,2009,30.1
+Loppersum,2010,32.9
+Loppersum,2011,29.6
+Loppersum,2012,23.2
+Loppersum,2013,21.6
+Loppersum,2014,23.6
+Loppersum,2015,21.9
+Loppersum,2016,22.7
+Loppersum,2017,18.5
+Loppersum,2018,18.2
+Loppersum,2019,18.9
+Loppersum,2020,24.0
+Losser,2005,40.3
+Losser,2006,38.6
+Losser,2007,40.0
+Losser,2008,39.5
+Losser,2009,40.8
+Losser,2010,36.6
+Losser,2011,40.9
+Losser,2012,34.8
+Losser,2013,37.8
+Losser,2014,31.3
+Losser,2015,30.5
+Losser,2016,29.7
+Losser,2017,25.5
+Losser,2018,22.8
+Losser,2019,26.4
+Losser,2020,26.1
+Maarssen,2010,61.5
+Maarssen,2011,
+Maarssen,2012,
+Maarssen,2013,
+Maarssen,2014,
+Maarssen,2015,
+Maarssen,2016,
+Maarssen,2017,
+Maarssen,2018,
+Maarssen,2019,
+Maarssen,2020,
+Maasdonk,2005,54.4
+Maasdonk,2006,44.0
+Maasdonk,2007,46.4
+Maasdonk,2008,46.1
+Maasdonk,2009,41.8
+Maasdonk,2010,50.2
+Maasdonk,2011,43.8
+Maasdonk,2012,40.8
+Maasdonk,2013,38.8
+Maasdonk,2014,38.6
+Maasdonk,2015,
+Maasdonk,2016,
+Maasdonk,2017,
+Maasdonk,2018,
+Maasdonk,2019,
+Maasdonk,2020,
+Maasdriel,2005,62.7
+Maasdriel,2006,53.2
+Maasdriel,2007,54.9
+Maasdriel,2008,58.2
+Maasdriel,2009,56.5
+Maasdriel,2010,51.7
+Maasdriel,2011,53.2
+Maasdriel,2012,53.5
+Maasdriel,2013,48.6
+Maasdriel,2014,43.5
+Maasdriel,2015,39.3
+Maasdriel,2016,38.2
+Maasdriel,2017,32.5
+Maasdriel,2018,34.1
+Maasdriel,2019,33.8
+Maasdriel,2020,40.1
+Maasgouw,2005,54.5
+Maasgouw,2006,51.3
+Maasgouw,2007,50.6
+Maasgouw,2008,45.0
+Maasgouw,2009,39.1
+Maasgouw,2010,41.9
+Maasgouw,2011,45.1
+Maasgouw,2012,44.0
+Maasgouw,2013,44.8
+Maasgouw,2014,39.3
+Maasgouw,2015,33.3
+Maasgouw,2016,34.3
+Maasgouw,2017,30.6
+Maasgouw,2018,28.8
+Maasgouw,2019,33.0
+Maasgouw,2020,30.4
+Maassluis,2005,70.4
+Maassluis,2006,71.5
+Maassluis,2007,71.3
+Maassluis,2008,70.1
+Maassluis,2009,72.5
+Maassluis,2010,62.5
+Maassluis,2011,64.8
+Maassluis,2012,59.4
+Maassluis,2013,50.5
+Maassluis,2014,48.8
+Maassluis,2015,49.8
+Maassluis,2016,51.1
+Maassluis,2017,45.5
+Maassluis,2018,35.8
+Maassluis,2019,36.5
+Maassluis,2020,42.0
+Maastricht,2005,129.8
+Maastricht,2006,126.1
+Maastricht,2007,129.7
+Maastricht,2008,137.8
+Maastricht,2009,140.2
+Maastricht,2010,124.2
+Maastricht,2011,130.4
+Maastricht,2012,119.2
+Maastricht,2013,108.3
+Maastricht,2014,109.1
+Maastricht,2015,93.7
+Maastricht,2016,78.6
+Maastricht,2017,73.2
+Maastricht,2018,66.0
+Maastricht,2019,73.1
+Maastricht,2020,56.3
+Margraten,2010,35.4
+Margraten,2011,
+Margraten,2012,
+Margraten,2013,
+Margraten,2014,
+Margraten,2015,
+Margraten,2016,
+Margraten,2017,
+Margraten,2018,
+Margraten,2019,
+Margraten,2020,
+Marum,2005,34.2
+Marum,2006,40.8
+Marum,2007,41.1
+Marum,2008,34.1
+Marum,2009,35.2
+Marum,2010,34.4
+Marum,2011,30.9
+Marum,2012,30.8
+Marum,2013,31.3
+Marum,2014,31.8
+Marum,2015,27.8
+Marum,2016,24.6
+Marum,2017,22.4
+Marum,2018,21.2
+Marum,2019,
+Marum,2020,
+Medemblik,2005,54.1
+Medemblik,2006,55.8
+Medemblik,2007,55.3
+Medemblik,2008,49.0
+Medemblik,2009,49.0
+Medemblik,2010,51.5
+Medemblik,2011,49.4
+Medemblik,2012,46.8
+Medemblik,2013,46.1
+Medemblik,2014,41.3
+Medemblik,2015,34.9
+Medemblik,2016,30.8
+Medemblik,2017,26.4
+Medemblik,2018,25.9
+Medemblik,2019,30.9
+Medemblik,2020,32.0
+Meerssen,2005,45.8
+Meerssen,2006,53.6
+Meerssen,2007,47.3
+Meerssen,2008,61.0
+Meerssen,2009,56.5
+Meerssen,2010,58.5
+Meerssen,2011,65.0
+Meerssen,2012,46.6
+Meerssen,2013,55.4
+Meerssen,2014,58.0
+Meerssen,2015,41.9
+Meerssen,2016,43.6
+Meerssen,2017,34.9
+Meerssen,2018,30.6
+Meerssen,2019,28.1
+Meerssen,2020,31.6
+Meierijstad,2010,
+Meierijstad,2011,
+Meierijstad,2012,
+Meierijstad,2013,
+Meierijstad,2014,
+Meierijstad,2015,
+Meierijstad,2016,
+Meierijstad,2017,31.7
+Meierijstad,2018,33.1
+Meierijstad,2019,35.9
+Meierijstad,2020,33.9
+Menaldumadeel,2010,26.0
+Menaldumadeel,2011,
+Menaldumadeel,2012,
+Menaldumadeel,2013,
+Menaldumadeel,2014,
+Menaldumadeel,2015,
+Menaldumadeel,2016,
+Menaldumadeel,2017,
+Menaldumadeel,2018,
+Menaldumadeel,2019,
+Menaldumadeel,2020,
+Menameradiel,2005,31.4
+Menameradiel,2006,26.8
+Menameradiel,2007,27.2
+Menameradiel,2008,31.0
+Menameradiel,2009,32.9
+Menameradiel,2010,
+Menameradiel,2011,26.1
+Menameradiel,2012,27.2
+Menameradiel,2013,27.4
+Menameradiel,2014,20.8
+Menameradiel,2015,23.7
+Menameradiel,2016,20.4
+Menameradiel,2017,
+Menameradiel,2018,
+Menameradiel,2019,
+Menameradiel,2020,
+Menterwolde,2005,42.7
+Menterwolde,2006,37.3
+Menterwolde,2007,41.2
+Menterwolde,2008,57.3
+Menterwolde,2009,51.4
+Menterwolde,2010,46.6
+Menterwolde,2011,45.8
+Menterwolde,2012,41.7
+Menterwolde,2013,33.8
+Menterwolde,2014,26.1
+Menterwolde,2015,28.7
+Menterwolde,2016,25.3
+Menterwolde,2017,24.2
+Menterwolde,2018,
+Menterwolde,2019,
+Menterwolde,2020,
+Meppel,2005,65.9
+Meppel,2006,68.4
+Meppel,2007,66.8
+Meppel,2008,59.3
+Meppel,2009,60.4
+Meppel,2010,54.9
+Meppel,2011,56.2
+Meppel,2012,52.5
+Meppel,2013,50.0
+Meppel,2014,50.1
+Meppel,2015,48.9
+Meppel,2016,40.1
+Meppel,2017,33.5
+Meppel,2018,29.5
+Meppel,2019,33.5
+Meppel,2020,35.8
+Middelburg (Z.),2005,61.8
+Middelburg (Z.),2006,61.4
+Middelburg (Z.),2007,68.9
+Middelburg (Z.),2008,73.0
+Middelburg (Z.),2009,67.5
+Middelburg (Z.),2010,65.0
+Middelburg (Z.),2011,69.1
+Middelburg (Z.),2012,64.3
+Middelburg (Z.),2013,60.1
+Middelburg (Z.),2014,51.7
+Middelburg (Z.),2015,53.6
+Middelburg (Z.),2016,47.9
+Middelburg (Z.),2017,44.2
+Middelburg (Z.),2018,40.0
+Middelburg (Z.),2019,45.3
+Middelburg (Z.),2020,44.9
+Middelharnis,2010,44.3
+Middelharnis,2011,44.1
+Middelharnis,2012,38.1
+Middelharnis,2013,
+Middelharnis,2014,
+Middelharnis,2015,
+Middelharnis,2016,
+Middelharnis,2017,
+Middelharnis,2018,
+Middelharnis,2019,
+Middelharnis,2020,
+Midden-Delfland,2005,38.5
+Midden-Delfland,2006,38.7
+Midden-Delfland,2007,41.3
+Midden-Delfland,2008,44.0
+Midden-Delfland,2009,44.4
+Midden-Delfland,2010,45.2
+Midden-Delfland,2011,46.2
+Midden-Delfland,2012,40.3
+Midden-Delfland,2013,35.6
+Midden-Delfland,2014,38.0
+Midden-Delfland,2015,30.5
+Midden-Delfland,2016,30.2
+Midden-Delfland,2017,30.2
+Midden-Delfland,2018,28.1
+Midden-Delfland,2019,29.0
+Midden-Delfland,2020,31.6
+Midden-Drenthe,2005,40.0
+Midden-Drenthe,2006,43.4
+Midden-Drenthe,2007,42.7
+Midden-Drenthe,2008,40.6
+Midden-Drenthe,2009,42.2
+Midden-Drenthe,2010,43.1
+Midden-Drenthe,2011,38.1
+Midden-Drenthe,2012,36.6
+Midden-Drenthe,2013,37.5
+Midden-Drenthe,2014,34.1
+Midden-Drenthe,2015,31.2
+Midden-Drenthe,2016,30.5
+Midden-Drenthe,2017,23.6
+Midden-Drenthe,2018,25.5
+Midden-Drenthe,2019,26.1
+Midden-Drenthe,2020,29.7
+Midden-Groningen,2010,
+Midden-Groningen,2011,
+Midden-Groningen,2012,
+Midden-Groningen,2013,
+Midden-Groningen,2014,
+Midden-Groningen,2015,
+Midden-Groningen,2016,
+Midden-Groningen,2017,
+Midden-Groningen,2018,30.2
+Midden-Groningen,2019,34.7
+Midden-Groningen,2020,33.9
+Midden-Nederland (RE),2005,88.5
+Midden-Nederland (RE),2006,87.5
+Midden-Nederland (RE),2007,84.7
+Midden-Nederland (RE),2008,82.4
+Midden-Nederland (RE),2009,75.8
+Midden-Nederland (RE),2010,72.8
+Midden-Nederland (RE),2011,69.9
+Midden-Nederland (RE),2012,66.2
+Midden-Nederland (RE),2013,64.0
+Midden-Nederland (RE),2014,59.3
+Midden-Nederland (RE),2015,57.0
+Midden-Nederland (RE),2016,54.8
+Midden-Nederland (RE),2017,49.8
+Midden-Nederland (RE),2018,47.2
+Midden-Nederland (RE),2019,47.8
+Midden-Nederland (RE),2020,46.0
+Mill en Sint Hubert,2005,42.8
+Mill en Sint Hubert,2006,33.5
+Mill en Sint Hubert,2007,36.2
+Mill en Sint Hubert,2008,29.6
+Mill en Sint Hubert,2009,29.6
+Mill en Sint Hubert,2010,37.1
+Mill en Sint Hubert,2011,33.3
+Mill en Sint Hubert,2012,34.9
+Mill en Sint Hubert,2013,28.3
+Mill en Sint Hubert,2014,23.8
+Mill en Sint Hubert,2015,27.5
+Mill en Sint Hubert,2016,27.4
+Mill en Sint Hubert,2017,20.4
+Mill en Sint Hubert,2018,17.8
+Mill en Sint Hubert,2019,26.4
+Mill en Sint Hubert,2020,26.1
+Millingen aan de Rijn,2010,25.4
+Millingen aan de Rijn,2011,24.5
+Millingen aan de Rijn,2012,26.1
+Millingen aan de Rijn,2013,23.5
+Millingen aan de Rijn,2014,20.3
+Millingen aan de Rijn,2015,
+Millingen aan de Rijn,2016,
+Millingen aan de Rijn,2017,
+Millingen aan de Rijn,2018,
+Millingen aan de Rijn,2019,
+Millingen aan de Rijn,2020,
+Moerdijk,2005,69.0
+Moerdijk,2006,65.7
+Moerdijk,2007,58.9
+Moerdijk,2008,56.4
+Moerdijk,2009,63.7
+Moerdijk,2010,59.1
+Moerdijk,2011,56.0
+Moerdijk,2012,63.1
+Moerdijk,2013,60.6
+Moerdijk,2014,50.9
+Moerdijk,2015,47.3
+Moerdijk,2016,44.8
+Moerdijk,2017,37.8
+Moerdijk,2018,36.9
+Moerdijk,2019,39.1
+Moerdijk,2020,40.5
+Molenlanden,2010,
+Molenlanden,2011,
+Molenlanden,2012,
+Molenlanden,2013,
+Molenlanden,2014,
+Molenlanden,2015,
+Molenlanden,2016,
+Molenlanden,2017,
+Molenlanden,2018,
+Molenlanden,2019,19.2
+Molenlanden,2020,22.3
+Molenwaard,2005,25.8
+Molenwaard,2006,26.0
+Molenwaard,2007,25.8
+Molenwaard,2008,24.1
+Molenwaard,2009,23.5
+Molenwaard,2010,
+Molenwaard,2011,
+Molenwaard,2012,
+Molenwaard,2013,25.2
+Molenwaard,2014,21.8
+Molenwaard,2015,20.7
+Molenwaard,2016,18.1
+Molenwaard,2017,14.9
+Molenwaard,2018,14.8
+Molenwaard,2019,
+Molenwaard,2020,
+Montferland,2005,40.7
+Montferland,2006,46.5
+Montferland,2007,46.7
+Montferland,2008,47.6
+Montferland,2009,50.9
+Montferland,2010,46.3
+Montferland,2011,39.7
+Montferland,2012,38.0
+Montferland,2013,36.7
+Montferland,2014,34.2
+Montferland,2015,33.2
+Montferland,2016,36.9
+Montferland,2017,28.5
+Montferland,2018,24.9
+Montferland,2019,24.7
+Montferland,2020,30.0
+Montfoort,2005,49.0
+Montfoort,2006,41.3
+Montfoort,2007,50.3
+Montfoort,2008,45.4
+Montfoort,2009,53.5
+Montfoort,2010,40.1
+Montfoort,2011,30.3
+Montfoort,2012,34.6
+Montfoort,2013,27.8
+Montfoort,2014,27.4
+Montfoort,2015,26.1
+Montfoort,2016,23.3
+Montfoort,2017,23.4
+Montfoort,2018,26.6
+Montfoort,2019,23.6
+Montfoort,2020,28.5
+Mook en Middelaar,2005,45.7
+Mook en Middelaar,2006,56.4
+Mook en Middelaar,2007,49.7
+Mook en Middelaar,2008,46.4
+Mook en Middelaar,2009,46.6
+Mook en Middelaar,2010,59.5
+Mook en Middelaar,2011,56.9
+Mook en Middelaar,2012,43.3
+Mook en Middelaar,2013,43.2
+Mook en Middelaar,2014,41.3
+Mook en Middelaar,2015,37.1
+Mook en Middelaar,2016,36.4
+Mook en Middelaar,2017,32.9
+Mook en Middelaar,2018,27.8
+Mook en Middelaar,2019,31.6
+Mook en Middelaar,2020,34.3
+Muiden,2010,91.1
+Muiden,2011,97.6
+Muiden,2012,92.0
+Muiden,2013,102.9
+Muiden,2014,86.5
+Muiden,2015,78.3
+Muiden,2016,
+Muiden,2017,
+Muiden,2018,
+Muiden,2019,
+Muiden,2020,
+Naarden,2010,56.2
+Naarden,2011,55.2
+Naarden,2012,65.2
+Naarden,2013,56.7
+Naarden,2014,44.8
+Naarden,2015,46.3
+Naarden,2016,
+Naarden,2017,
+Naarden,2018,
+Naarden,2019,
+Naarden,2020,
+Neder-Betuwe,2005,46.8
+Neder-Betuwe,2006,47.2
+Neder-Betuwe,2007,43.1
+Neder-Betuwe,2008,43.7
+Neder-Betuwe,2009,44.2
+Neder-Betuwe,2010,42.6
+Neder-Betuwe,2011,44.1
+Neder-Betuwe,2012,49.3
+Neder-Betuwe,2013,41.1
+Neder-Betuwe,2014,32.9
+Neder-Betuwe,2015,35.2
+Neder-Betuwe,2016,34.4
+Neder-Betuwe,2017,29.3
+Neder-Betuwe,2018,27.7
+Neder-Betuwe,2019,25.3
+Neder-Betuwe,2020,28.5
+Nederland,2005,82.7
+Nederland,2006,80.3
+Nederland,2007,79.7
+Nederland,2008,77.9
+Nederland,2009,76.1
+Nederland,2010,72.4
+Nederland,2011,72.4
+Nederland,2012,69.0
+Nederland,2013,65.9
+Nederland,2014,60.9
+Nederland,2015,57.9
+Nederland,2016,54.8
+Nederland,2017,48.8
+Nederland,2018,45.8
+Nederland,2019,47.5
+Nederland,2020,46.4
+Nederlek,2010,39.7
+Nederlek,2011,38.7
+Nederlek,2012,36.7
+Nederlek,2013,34.8
+Nederlek,2014,24.6
+Nederlek,2015,
+Nederlek,2016,
+Nederlek,2017,
+Nederlek,2018,
+Nederlek,2019,
+Nederlek,2020,
+Nederweert,2005,46.8
+Nederweert,2006,41.7
+Nederweert,2007,47.1
+Nederweert,2008,39.7
+Nederweert,2009,38.1
+Nederweert,2010,37.3
+Nederweert,2011,38.9
+Nederweert,2012,33.4
+Nederweert,2013,30.8
+Nederweert,2014,27.7
+Nederweert,2015,30.6
+Nederweert,2016,27.0
+Nederweert,2017,26.4
+Nederweert,2018,24.6
+Nederweert,2019,25.6
+Nederweert,2020,23.4
+Neerijnen,2005,49.8
+Neerijnen,2006,41.0
+Neerijnen,2007,39.9
+Neerijnen,2008,40.9
+Neerijnen,2009,42.8
+Neerijnen,2010,42.4
+Neerijnen,2011,40.5
+Neerijnen,2012,45.1
+Neerijnen,2013,37.1
+Neerijnen,2014,33.2
+Neerijnen,2015,33.6
+Neerijnen,2016,26.4
+Neerijnen,2017,22.0
+Neerijnen,2018,19.8
+Neerijnen,2019,
+Neerijnen,2020,
+Niedorp,2010,31.2
+Niedorp,2011,33.9
+Niedorp,2012,
+Niedorp,2013,
+Niedorp,2014,
+Niedorp,2015,
+Niedorp,2016,
+Niedorp,2017,
+Niedorp,2018,
+Niedorp,2019,
+Niedorp,2020,
+Niet in te delen (LD),2005,0.0
+Niet in te delen (LD),2006,0.0
+Niet in te delen (LD),2007,0.0
+Niet in te delen (LD),2008,0.0
+Niet in te delen (LD),2009,0.0
+Niet in te delen (LD),2010,
+Niet in te delen (LD),2011,
+Niet in te delen (LD),2012,
+Niet in te delen (LD),2013,
+Niet in te delen (LD),2014,
+Niet in te delen (LD),2015,
+Niet in te delen (LD),2016,
+Niet in te delen (LD),2017,
+Niet in te delen (LD),2018,
+Niet in te delen (LD),2019,
+Niet in te delen (LD),2020,
+Niet in te delen (PV),2005,0.0
+Niet in te delen (PV),2006,0.0
+Niet in te delen (PV),2007,0.0
+Niet in te delen (PV),2008,0.0
+Niet in te delen (PV),2009,0.0
+Niet in te delen (PV),2010,
+Niet in te delen (PV),2011,
+Niet in te delen (PV),2012,
+Niet in te delen (PV),2013,
+Niet in te delen (PV),2014,
+Niet in te delen (PV),2015,
+Niet in te delen (PV),2016,
+Niet in te delen (PV),2017,
+Niet in te delen (PV),2018,
+Niet in te delen (PV),2019,
+Niet in te delen (PV),2020,
+Niet in te delen (RE),2005,0.0
+Niet in te delen (RE),2006,0.0
+Niet in te delen (RE),2007,0.0
+Niet in te delen (RE),2008,0.0
+Niet in te delen (RE),2009,0.0
+Niet in te delen (RE),2010,
+Niet in te delen (RE),2011,
+Niet in te delen (RE),2012,
+Niet in te delen (RE),2013,
+Niet in te delen (RE),2014,
+Niet in te delen (RE),2015,
+Niet in te delen (RE),2016,
+Niet in te delen (RE),2017,
+Niet in te delen (RE),2018,
+Niet in te delen (RE),2019,
+Niet in te delen (RE),2020,
+Niet-gemeentelijk ingedeeld,2005,0.0
+Niet-gemeentelijk ingedeeld,2006,0.0
+Niet-gemeentelijk ingedeeld,2007,0.0
+Niet-gemeentelijk ingedeeld,2008,0.0
+Niet-gemeentelijk ingedeeld,2009,0.0
+Niet-gemeentelijk ingedeeld,2010,
+Niet-gemeentelijk ingedeeld,2011,
+Niet-gemeentelijk ingedeeld,2012,
+Niet-gemeentelijk ingedeeld,2013,
+Niet-gemeentelijk ingedeeld,2014,
+Niet-gemeentelijk ingedeeld,2015,
+Niet-gemeentelijk ingedeeld,2016,
+Niet-gemeentelijk ingedeeld,2017,
+Niet-gemeentelijk ingedeeld,2018,
+Niet-gemeentelijk ingedeeld,2019,
+Niet-gemeentelijk ingedeeld,2020,
+Nieuw-Lekkerland,2010,24.8
+Nieuw-Lekkerland,2011,23.9
+Nieuw-Lekkerland,2012,23.1
+Nieuw-Lekkerland,2013,
+Nieuw-Lekkerland,2014,
+Nieuw-Lekkerland,2015,
+Nieuw-Lekkerland,2016,
+Nieuw-Lekkerland,2017,
+Nieuw-Lekkerland,2018,
+Nieuw-Lekkerland,2019,
+Nieuw-Lekkerland,2020,
+Nieuwegein,2005,100.9
+Nieuwegein,2006,99.6
+Nieuwegein,2007,97.5
+Nieuwegein,2008,86.5
+Nieuwegein,2009,79.0
+Nieuwegein,2010,68.6
+Nieuwegein,2011,68.2
+Nieuwegein,2012,64.8
+Nieuwegein,2013,68.3
+Nieuwegein,2014,62.2
+Nieuwegein,2015,69.5
+Nieuwegein,2016,69.9
+Nieuwegein,2017,59.4
+Nieuwegein,2018,57.0
+Nieuwegein,2019,57.2
+Nieuwegein,2020,57.5
+Nieuwkoop,2005,45.4
+Nieuwkoop,2006,48.4
+Nieuwkoop,2007,43.2
+Nieuwkoop,2008,38.2
+Nieuwkoop,2009,31.8
+Nieuwkoop,2010,35.6
+Nieuwkoop,2011,34.1
+Nieuwkoop,2012,31.3
+Nieuwkoop,2013,27.2
+Nieuwkoop,2014,25.9
+Nieuwkoop,2015,23.8
+Nieuwkoop,2016,25.0
+Nieuwkoop,2017,27.5
+Nieuwkoop,2018,23.8
+Nieuwkoop,2019,24.0
+Nieuwkoop,2020,25.6
+Nijefurd,2010,38.2
+Nijefurd,2011,
+Nijefurd,2012,
+Nijefurd,2013,
+Nijefurd,2014,
+Nijefurd,2015,
+Nijefurd,2016,
+Nijefurd,2017,
+Nijefurd,2018,
+Nijefurd,2019,
+Nijefurd,2020,
+Nijkerk,2005,64.1
+Nijkerk,2006,65.3
+Nijkerk,2007,56.4
+Nijkerk,2008,49.4
+Nijkerk,2009,52.0
+Nijkerk,2010,47.1
+Nijkerk,2011,49.2
+Nijkerk,2012,43.1
+Nijkerk,2013,42.5
+Nijkerk,2014,35.8
+Nijkerk,2015,33.7
+Nijkerk,2016,35.8
+Nijkerk,2017,29.2
+Nijkerk,2018,30.4
+Nijkerk,2019,31.3
+Nijkerk,2020,30.7
+Nijmegen,2005,128.0
+Nijmegen,2006,122.9
+Nijmegen,2007,110.4
+Nijmegen,2008,106.9
+Nijmegen,2009,111.0
+Nijmegen,2010,102.1
+Nijmegen,2011,100.7
+Nijmegen,2012,103.4
+Nijmegen,2013,100.1
+Nijmegen,2014,84.8
+Nijmegen,2015,78.7
+Nijmegen,2016,75.7
+Nijmegen,2017,66.8
+Nijmegen,2018,63.5
+Nijmegen,2019,67.2
+Nijmegen,2020,62.2
+Nissewaard,2005,80.5
+Nissewaard,2006,82.3
+Nissewaard,2007,91.6
+Nissewaard,2008,87.7
+Nissewaard,2009,84.4
+Nissewaard,2010,
+Nissewaard,2011,
+Nissewaard,2012,
+Nissewaard,2013,
+Nissewaard,2014,
+Nissewaard,2015,54.2
+Nissewaard,2016,49.0
+Nissewaard,2017,45.6
+Nissewaard,2018,41.8
+Nissewaard,2019,45.4
+Nissewaard,2020,46.7
+Noardeast-Fryslân,2010,
+Noardeast-Fryslân,2011,
+Noardeast-Fryslân,2012,
+Noardeast-Fryslân,2013,
+Noardeast-Fryslân,2014,
+Noardeast-Fryslân,2015,
+Noardeast-Fryslân,2016,
+Noardeast-Fryslân,2017,
+Noardeast-Fryslân,2018,
+Noardeast-Fryslân,2019,20.5
+Noardeast-Fryslân,2020,24.9
+Noord-Beveland,2005,53.9
+Noord-Beveland,2006,54.3
+Noord-Beveland,2007,51.9
+Noord-Beveland,2008,50.6
+Noord-Beveland,2009,48.7
+Noord-Beveland,2010,50.6
+Noord-Beveland,2011,54.5
+Noord-Beveland,2012,53.8
+Noord-Beveland,2013,53.8
+Noord-Beveland,2014,50.2
+Noord-Beveland,2015,45.3
+Noord-Beveland,2016,50.3
+Noord-Beveland,2017,34.7
+Noord-Beveland,2018,35.5
+Noord-Beveland,2019,37.8
+Noord-Beveland,2020,39.9
+Noord-Brabant (PV),2005,84.7
+Noord-Brabant (PV),2006,81.0
+Noord-Brabant (PV),2007,81.0
+Noord-Brabant (PV),2008,78.5
+Noord-Brabant (PV),2009,78.6
+Noord-Brabant (PV),2010,72.0
+Noord-Brabant (PV),2011,71.0
+Noord-Brabant (PV),2012,70.0
+Noord-Brabant (PV),2013,66.5
+Noord-Brabant (PV),2014,61.4
+Noord-Brabant (PV),2015,58.5
+Noord-Brabant (PV),2016,54.1
+Noord-Brabant (PV),2017,47.3
+Noord-Brabant (PV),2018,44.5
+Noord-Brabant (PV),2019,46.9
+Noord-Brabant (PV),2020,46.7
+Noord-Holland (PV),2005,95.4
+Noord-Holland (PV),2006,94.0
+Noord-Holland (PV),2007,92.2
+Noord-Holland (PV),2008,88.5
+Noord-Holland (PV),2009,87.4
+Noord-Holland (PV),2010,88.2
+Noord-Holland (PV),2011,88.0
+Noord-Holland (PV),2012,83.3
+Noord-Holland (PV),2013,81.7
+Noord-Holland (PV),2014,75.7
+Noord-Holland (PV),2015,73.4
+Noord-Holland (PV),2016,68.1
+Noord-Holland (PV),2017,61.1
+Noord-Holland (PV),2018,57.6
+Noord-Holland (PV),2019,58.4
+Noord-Holland (PV),2020,54.1
+Noord-Holland (RE),2005,77.4
+Noord-Holland (RE),2006,75.7
+Noord-Holland (RE),2007,74.2
+Noord-Holland (RE),2008,69.6
+Noord-Holland (RE),2009,71.2
+Noord-Holland (RE),2010,71.1
+Noord-Holland (RE),2011,70.0
+Noord-Holland (RE),2012,65.0
+Noord-Holland (RE),2013,63.1
+Noord-Holland (RE),2014,58.7
+Noord-Holland (RE),2015,55.6
+Noord-Holland (RE),2016,50.2
+Noord-Holland (RE),2017,42.4
+Noord-Holland (RE),2018,40.4
+Noord-Holland (RE),2019,42.1
+Noord-Holland (RE),2020,41.7
+Noord-Nederland (LD),2005,60.4
+Noord-Nederland (LD),2006,60.1
+Noord-Nederland (LD),2007,60.3
+Noord-Nederland (LD),2008,59.0
+Noord-Nederland (LD),2009,59.4
+Noord-Nederland (LD),2010,56.1
+Noord-Nederland (LD),2011,55.4
+Noord-Nederland (LD),2012,52.9
+Noord-Nederland (LD),2013,50.2
+Noord-Nederland (LD),2014,46.5
+Noord-Nederland (LD),2015,44.6
+Noord-Nederland (LD),2016,42.4
+Noord-Nederland (LD),2017,36.4
+Noord-Nederland (LD),2018,35.9
+Noord-Nederland (LD),2019,37.4
+Noord-Nederland (LD),2020,36.6
+Noord-Nederland (RE),2005,60.4
+Noord-Nederland (RE),2006,60.1
+Noord-Nederland (RE),2007,60.3
+Noord-Nederland (RE),2008,59.0
+Noord-Nederland (RE),2009,59.4
+Noord-Nederland (RE),2010,56.1
+Noord-Nederland (RE),2011,55.4
+Noord-Nederland (RE),2012,52.9
+Noord-Nederland (RE),2013,50.2
+Noord-Nederland (RE),2014,46.5
+Noord-Nederland (RE),2015,44.6
+Noord-Nederland (RE),2016,42.4
+Noord-Nederland (RE),2017,36.4
+Noord-Nederland (RE),2018,35.9
+Noord-Nederland (RE),2019,37.4
+Noord-Nederland (RE),2020,36.6
+Noordenveld,2005,43.9
+Noordenveld,2006,44.7
+Noordenveld,2007,39.6
+Noordenveld,2008,40.7
+Noordenveld,2009,45.1
+Noordenveld,2010,46.8
+Noordenveld,2011,42.7
+Noordenveld,2012,41.7
+Noordenveld,2013,36.8
+Noordenveld,2014,29.1
+Noordenveld,2015,24.5
+Noordenveld,2016,27.5
+Noordenveld,2017,24.0
+Noordenveld,2018,22.2
+Noordenveld,2019,22.9
+Noordenveld,2020,24.0
+Noordoostpolder,2005,47.1
+Noordoostpolder,2006,49.7
+Noordoostpolder,2007,54.8
+Noordoostpolder,2008,52.3
+Noordoostpolder,2009,47.6
+Noordoostpolder,2010,46.1
+Noordoostpolder,2011,44.6
+Noordoostpolder,2012,41.4
+Noordoostpolder,2013,39.5
+Noordoostpolder,2014,34.8
+Noordoostpolder,2015,31.7
+Noordoostpolder,2016,36.5
+Noordoostpolder,2017,36.0
+Noordoostpolder,2018,33.7
+Noordoostpolder,2019,36.9
+Noordoostpolder,2020,37.6
+Noordwijk,2005,76.3
+Noordwijk,2006,81.3
+Noordwijk,2007,90.1
+Noordwijk,2008,83.2
+Noordwijk,2009,70.4
+Noordwijk,2010,81.2
+Noordwijk,2011,83.8
+Noordwijk,2012,67.8
+Noordwijk,2013,64.2
+Noordwijk,2014,58.0
+Noordwijk,2015,51.5
+Noordwijk,2016,50.4
+Noordwijk,2017,55.4
+Noordwijk,2018,50.9
+Noordwijk,2019,39.2
+Noordwijk,2020,40.1
+Noordwijkerhout,2005,54.2
+Noordwijkerhout,2006,50.1
+Noordwijkerhout,2007,52.8
+Noordwijkerhout,2008,45.4
+Noordwijkerhout,2009,46.2
+Noordwijkerhout,2010,49.1
+Noordwijkerhout,2011,51.2
+Noordwijkerhout,2012,50.6
+Noordwijkerhout,2013,40.9
+Noordwijkerhout,2014,45.6
+Noordwijkerhout,2015,35.1
+Noordwijkerhout,2016,32.7
+Noordwijkerhout,2017,30.8
+Noordwijkerhout,2018,29.6
+Noordwijkerhout,2019,
+Noordwijkerhout,2020,
+"Nuenen, Gerwen en Nederwetten",2005,59.2
+"Nuenen, Gerwen en Nederwetten",2006,55.3
+"Nuenen, Gerwen en Nederwetten",2007,54.9
+"Nuenen, Gerwen en Nederwetten",2008,58.5
+"Nuenen, Gerwen en Nederwetten",2009,56.2
+"Nuenen, Gerwen en Nederwetten",2010,45.5
+"Nuenen, Gerwen en Nederwetten",2011,51.3
+"Nuenen, Gerwen en Nederwetten",2012,42.8
+"Nuenen, Gerwen en Nederwetten",2013,40.5
+"Nuenen, Gerwen en Nederwetten",2014,37.2
+"Nuenen, Gerwen en Nederwetten",2015,38.7
+"Nuenen, Gerwen en Nederwetten",2016,34.6
+"Nuenen, Gerwen en Nederwetten",2017,31.1
+"Nuenen, Gerwen en Nederwetten",2018,25.5
+"Nuenen, Gerwen en Nederwetten",2019,28.7
+"Nuenen, Gerwen en Nederwetten",2020,31.6
+Nunspeet,2005,56.3
+Nunspeet,2006,49.9
+Nunspeet,2007,55.9
+Nunspeet,2008,46.8
+Nunspeet,2009,44.4
+Nunspeet,2010,44.3
+Nunspeet,2011,45.6
+Nunspeet,2012,42.4
+Nunspeet,2013,38.6
+Nunspeet,2014,36.0
+Nunspeet,2015,38.1
+Nunspeet,2016,29.6
+Nunspeet,2017,26.3
+Nunspeet,2018,25.7
+Nunspeet,2019,28.6
+Nunspeet,2020,29.0
+Nuth,2005,48.9
+Nuth,2006,49.6
+Nuth,2007,50.1
+Nuth,2008,51.1
+Nuth,2009,55.6
+Nuth,2010,49.1
+Nuth,2011,57.9
+Nuth,2012,49.3
+Nuth,2013,46.0
+Nuth,2014,43.9
+Nuth,2015,43.7
+Nuth,2016,38.4
+Nuth,2017,35.7
+Nuth,2018,27.6
+Nuth,2019,
+Nuth,2020,
+Oegstgeest,2005,49.1
+Oegstgeest,2006,48.1
+Oegstgeest,2007,51.9
+Oegstgeest,2008,44.8
+Oegstgeest,2009,46.9
+Oegstgeest,2010,49.1
+Oegstgeest,2011,48.4
+Oegstgeest,2012,43.3
+Oegstgeest,2013,38.3
+Oegstgeest,2014,36.9
+Oegstgeest,2015,39.6
+Oegstgeest,2016,32.8
+Oegstgeest,2017,29.9
+Oegstgeest,2018,25.8
+Oegstgeest,2019,29.9
+Oegstgeest,2020,33.2
+Oirschot,2005,70.3
+Oirschot,2006,70.7
+Oirschot,2007,73.7
+Oirschot,2008,71.7
+Oirschot,2009,65.7
+Oirschot,2010,57.5
+Oirschot,2011,55.8
+Oirschot,2012,50.3
+Oirschot,2013,52.8
+Oirschot,2014,42.1
+Oirschot,2015,42.1
+Oirschot,2016,38.8
+Oirschot,2017,36.4
+Oirschot,2018,32.7
+Oirschot,2019,33.4
+Oirschot,2020,35.4
+Oisterwijk,2005,67.3
+Oisterwijk,2006,69.8
+Oisterwijk,2007,69.2
+Oisterwijk,2008,69.1
+Oisterwijk,2009,71.5
+Oisterwijk,2010,63.3
+Oisterwijk,2011,69.9
+Oisterwijk,2012,65.6
+Oisterwijk,2013,57.0
+Oisterwijk,2014,49.3
+Oisterwijk,2015,54.9
+Oisterwijk,2016,44.3
+Oisterwijk,2017,41.1
+Oisterwijk,2018,39.5
+Oisterwijk,2019,46.0
+Oisterwijk,2020,38.0
+Oldambt,2005,67.7
+Oldambt,2006,67.9
+Oldambt,2007,69.4
+Oldambt,2008,64.2
+Oldambt,2009,72.4
+Oldambt,2010,64.4
+Oldambt,2011,69.1
+Oldambt,2012,66.4
+Oldambt,2013,54.8
+Oldambt,2014,48.3
+Oldambt,2015,47.4
+Oldambt,2016,43.3
+Oldambt,2017,40.8
+Oldambt,2018,39.1
+Oldambt,2019,38.3
+Oldambt,2020,38.4
+Oldebroek,2005,39.3
+Oldebroek,2006,39.1
+Oldebroek,2007,39.3
+Oldebroek,2008,38.0
+Oldebroek,2009,34.9
+Oldebroek,2010,41.6
+Oldebroek,2011,39.9
+Oldebroek,2012,34.6
+Oldebroek,2013,32.4
+Oldebroek,2014,28.9
+Oldebroek,2015,29.1
+Oldebroek,2016,24.6
+Oldebroek,2017,21.2
+Oldebroek,2018,19.7
+Oldebroek,2019,23.2
+Oldebroek,2020,28.5
+Oldenzaal,2005,57.2
+Oldenzaal,2006,56.2
+Oldenzaal,2007,52.3
+Oldenzaal,2008,49.5
+Oldenzaal,2009,57.3
+Oldenzaal,2010,54.3
+Oldenzaal,2011,52.5
+Oldenzaal,2012,49.5
+Oldenzaal,2013,46.5
+Oldenzaal,2014,39.9
+Oldenzaal,2015,43.2
+Oldenzaal,2016,37.7
+Oldenzaal,2017,31.7
+Oldenzaal,2018,32.2
+Oldenzaal,2019,32.2
+Oldenzaal,2020,32.7
+Olst-Wijhe,2005,34.0
+Olst-Wijhe,2006,28.9
+Olst-Wijhe,2007,27.7
+Olst-Wijhe,2008,32.1
+Olst-Wijhe,2009,33.4
+Olst-Wijhe,2010,36.3
+Olst-Wijhe,2011,28.0
+Olst-Wijhe,2012,27.4
+Olst-Wijhe,2013,25.5
+Olst-Wijhe,2014,23.9
+Olst-Wijhe,2015,24.4
+Olst-Wijhe,2016,21.9
+Olst-Wijhe,2017,18.2
+Olst-Wijhe,2018,16.8
+Olst-Wijhe,2019,18.6
+Olst-Wijhe,2020,24.5
+Ommen,2005,49.9
+Ommen,2006,45.5
+Ommen,2007,42.5
+Ommen,2008,46.3
+Ommen,2009,43.8
+Ommen,2010,42.7
+Ommen,2011,43.2
+Ommen,2012,35.2
+Ommen,2013,38.8
+Ommen,2014,36.1
+Ommen,2015,30.3
+Ommen,2016,35.4
+Ommen,2017,24.1
+Ommen,2018,27.3
+Ommen,2019,30.0
+Ommen,2020,27.8
+Onderbanken,2005,37.3
+Onderbanken,2006,48.3
+Onderbanken,2007,44.2
+Onderbanken,2008,47.7
+Onderbanken,2009,45.5
+Onderbanken,2010,51.3
+Onderbanken,2011,50.9
+Onderbanken,2012,47.3
+Onderbanken,2013,40.6
+Onderbanken,2014,44.0
+Onderbanken,2015,36.7
+Onderbanken,2016,36.2
+Onderbanken,2017,23.9
+Onderbanken,2018,21.1
+Onderbanken,2019,
+Onderbanken,2020,
+Oost Gelre,2005,42.1
+Oost Gelre,2006,48.2
+Oost Gelre,2007,43.5
+Oost Gelre,2008,41.3
+Oost Gelre,2009,37.9
+Oost Gelre,2010,38.5
+Oost Gelre,2011,36.4
+Oost Gelre,2012,38.9
+Oost Gelre,2013,34.3
+Oost Gelre,2014,32.5
+Oost Gelre,2015,27.9
+Oost Gelre,2016,28.4
+Oost Gelre,2017,26.9
+Oost Gelre,2018,20.7
+Oost Gelre,2019,22.8
+Oost Gelre,2020,21.3
+Oost-Brabant (RE),2005,83.4
+Oost-Brabant (RE),2006,79.9
+Oost-Brabant (RE),2007,79.2
+Oost-Brabant (RE),2008,77.5
+Oost-Brabant (RE),2009,76.3
+Oost-Brabant (RE),2010,70.4
+Oost-Brabant (RE),2011,69.5
+Oost-Brabant (RE),2012,68.1
+Oost-Brabant (RE),2013,66.4
+Oost-Brabant (RE),2014,60.2
+Oost-Brabant (RE),2015,58.0
+Oost-Brabant (RE),2016,54.1
+Oost-Brabant (RE),2017,47.3
+Oost-Brabant (RE),2018,44.6
+Oost-Brabant (RE),2019,46.5
+Oost-Brabant (RE),2020,46.0
+Oost-Nederland (LD),2005,70.1
+Oost-Nederland (LD),2006,67.6
+Oost-Nederland (LD),2007,66.4
+Oost-Nederland (LD),2008,64.3
+Oost-Nederland (LD),2009,63.5
+Oost-Nederland (LD),2010,61.7
+Oost-Nederland (LD),2011,61.2
+Oost-Nederland (LD),2012,58.9
+Oost-Nederland (LD),2013,56.3
+Oost-Nederland (LD),2014,50.5
+Oost-Nederland (LD),2015,46.9
+Oost-Nederland (LD),2016,45.3
+Oost-Nederland (LD),2017,39.9
+Oost-Nederland (LD),2018,37.9
+Oost-Nederland (LD),2019,39.7
+Oost-Nederland (LD),2020,39.9
+Oost-Nederland (RE),2005,69.4
+Oost-Nederland (RE),2006,66.6
+Oost-Nederland (RE),2007,65.0
+Oost-Nederland (RE),2008,63.0
+Oost-Nederland (RE),2009,63.1
+Oost-Nederland (RE),2010,61.2
+Oost-Nederland (RE),2011,60.6
+Oost-Nederland (RE),2012,58.1
+Oost-Nederland (RE),2013,55.1
+Oost-Nederland (RE),2014,49.5
+Oost-Nederland (RE),2015,46.0
+Oost-Nederland (RE),2016,44.5
+Oost-Nederland (RE),2017,39.2
+Oost-Nederland (RE),2018,37.1
+Oost-Nederland (RE),2019,38.9
+Oost-Nederland (RE),2020,39.4
+Oosterhout,2005,78.6
+Oosterhout,2006,77.0
+Oosterhout,2007,84.8
+Oosterhout,2008,81.5
+Oosterhout,2009,84.5
+Oosterhout,2010,73.6
+Oosterhout,2011,74.3
+Oosterhout,2012,73.9
+Oosterhout,2013,61.7
+Oosterhout,2014,58.1
+Oosterhout,2015,58.4
+Oosterhout,2016,56.3
+Oosterhout,2017,47.5
+Oosterhout,2018,42.6
+Oosterhout,2019,45.4
+Oosterhout,2020,48.6
+Oostflakkee,2010,32.2
+Oostflakkee,2011,37.5
+Oostflakkee,2012,33.2
+Oostflakkee,2013,
+Oostflakkee,2014,
+Oostflakkee,2015,
+Oostflakkee,2016,
+Oostflakkee,2017,
+Oostflakkee,2018,
+Oostflakkee,2019,
+Oostflakkee,2020,
+Ooststellingwerf,2005,41.1
+Ooststellingwerf,2006,32.6
+Ooststellingwerf,2007,39.8
+Ooststellingwerf,2008,37.2
+Ooststellingwerf,2009,35.8
+Ooststellingwerf,2010,41.4
+Ooststellingwerf,2011,36.8
+Ooststellingwerf,2012,35.6
+Ooststellingwerf,2013,34.3
+Ooststellingwerf,2014,30.2
+Ooststellingwerf,2015,30.3
+Ooststellingwerf,2016,28.4
+Ooststellingwerf,2017,27.8
+Ooststellingwerf,2018,25.1
+Ooststellingwerf,2019,24.8
+Ooststellingwerf,2020,24.7
+Oostzaan,2005,57.7
+Oostzaan,2006,56.4
+Oostzaan,2007,46.0
+Oostzaan,2008,46.2
+Oostzaan,2009,55.5
+Oostzaan,2010,59.1
+Oostzaan,2011,60.1
+Oostzaan,2012,58.3
+Oostzaan,2013,51.7
+Oostzaan,2014,50.6
+Oostzaan,2015,43.8
+Oostzaan,2016,52.6
+Oostzaan,2017,46.9
+Oostzaan,2018,40.4
+Oostzaan,2019,42.7
+Oostzaan,2020,51.5
+Opmeer,2005,40.4
+Opmeer,2006,36.7
+Opmeer,2007,36.4
+Opmeer,2008,34.7
+Opmeer,2009,32.8
+Opmeer,2010,38.9
+Opmeer,2011,35.6
+Opmeer,2012,40.4
+Opmeer,2013,33.9
+Opmeer,2014,33.4
+Opmeer,2015,32.7
+Opmeer,2016,29.4
+Opmeer,2017,22.6
+Opmeer,2018,23.0
+Opmeer,2019,23.1
+Opmeer,2020,26.3
+Opsterland,2005,28.2
+Opsterland,2006,25.7
+Opsterland,2007,34.6
+Opsterland,2008,35.4
+Opsterland,2009,32.0
+Opsterland,2010,29.1
+Opsterland,2011,26.0
+Opsterland,2012,26.3
+Opsterland,2013,27.3
+Opsterland,2014,26.9
+Opsterland,2015,25.2
+Opsterland,2016,25.6
+Opsterland,2017,22.1
+Opsterland,2018,20.2
+Opsterland,2019,20.2
+Opsterland,2020,20.9
+Oss,2005,84.2
+Oss,2006,78.1
+Oss,2007,81.0
+Oss,2008,70.6
+Oss,2009,71.7
+Oss,2010,79.3
+Oss,2011,74.3
+Oss,2012,70.0
+Oss,2013,66.0
+Oss,2014,61.1
+Oss,2015,58.9
+Oss,2016,53.4
+Oss,2017,47.2
+Oss,2018,45.4
+Oss,2019,51.9
+Oss,2020,52.6
+Oud-Beijerland,2005,55.5
+Oud-Beijerland,2006,54.9
+Oud-Beijerland,2007,59.7
+Oud-Beijerland,2008,53.6
+Oud-Beijerland,2009,51.4
+Oud-Beijerland,2010,48.1
+Oud-Beijerland,2011,44.4
+Oud-Beijerland,2012,44.3
+Oud-Beijerland,2013,40.4
+Oud-Beijerland,2014,36.2
+Oud-Beijerland,2015,33.0
+Oud-Beijerland,2016,35.3
+Oud-Beijerland,2017,26.7
+Oud-Beijerland,2018,23.6
+Oud-Beijerland,2019,
+Oud-Beijerland,2020,
+Oude IJsselstreek,2005,41.2
+Oude IJsselstreek,2006,41.8
+Oude IJsselstreek,2007,40.9
+Oude IJsselstreek,2008,37.9
+Oude IJsselstreek,2009,41.3
+Oude IJsselstreek,2010,39.2
+Oude IJsselstreek,2011,38.2
+Oude IJsselstreek,2012,35.7
+Oude IJsselstreek,2013,33.2
+Oude IJsselstreek,2014,29.3
+Oude IJsselstreek,2015,28.0
+Oude IJsselstreek,2016,27.0
+Oude IJsselstreek,2017,23.1
+Oude IJsselstreek,2018,19.5
+Oude IJsselstreek,2019,20.4
+Oude IJsselstreek,2020,22.9
+Ouder-Amstel,2005,112.8
+Ouder-Amstel,2006,89.4
+Ouder-Amstel,2007,83.9
+Ouder-Amstel,2008,78.6
+Ouder-Amstel,2009,117.0
+Ouder-Amstel,2010,115.7
+Ouder-Amstel,2011,116.6
+Ouder-Amstel,2012,108.1
+Ouder-Amstel,2013,105.2
+Ouder-Amstel,2014,91.8
+Ouder-Amstel,2015,85.0
+Ouder-Amstel,2016,87.1
+Ouder-Amstel,2017,74.9
+Ouder-Amstel,2018,62.5
+Ouder-Amstel,2019,62.7
+Ouder-Amstel,2020,67.1
+Ouderkerk,2010,28.3
+Ouderkerk,2011,29.7
+Ouderkerk,2012,24.1
+Ouderkerk,2013,20.3
+Ouderkerk,2014,16.3
+Ouderkerk,2015,
+Ouderkerk,2016,
+Ouderkerk,2017,
+Ouderkerk,2018,
+Ouderkerk,2019,
+Ouderkerk,2020,
+Oudewater,2005,33.1
+Oudewater,2006,34.7
+Oudewater,2007,44.6
+Oudewater,2008,38.1
+Oudewater,2009,43.3
+Oudewater,2010,41.1
+Oudewater,2011,38.3
+Oudewater,2012,34.0
+Oudewater,2013,35.6
+Oudewater,2014,27.5
+Oudewater,2015,27.0
+Oudewater,2016,22.1
+Oudewater,2017,20.2
+Oudewater,2018,19.6
+Oudewater,2019,26.0
+Oudewater,2020,28.0
+Overbetuwe,2005,56.4
+Overbetuwe,2006,51.1
+Overbetuwe,2007,48.6
+Overbetuwe,2008,46.9
+Overbetuwe,2009,46.8
+Overbetuwe,2010,49.2
+Overbetuwe,2011,51.4
+Overbetuwe,2012,51.3
+Overbetuwe,2013,46.9
+Overbetuwe,2014,37.4
+Overbetuwe,2015,34.9
+Overbetuwe,2016,39.4
+Overbetuwe,2017,34.3
+Overbetuwe,2018,32.0
+Overbetuwe,2019,30.4
+Overbetuwe,2020,31.7
+Overijssel (PV),2005,64.8
+Overijssel (PV),2006,61.1
+Overijssel (PV),2007,59.2
+Overijssel (PV),2008,58.7
+Overijssel (PV),2009,58.2
+Overijssel (PV),2010,56.4
+Overijssel (PV),2011,57.0
+Overijssel (PV),2012,55.6
+Overijssel (PV),2013,53.5
+Overijssel (PV),2014,47.4
+Overijssel (PV),2015,44.3
+Overijssel (PV),2016,42.5
+Overijssel (PV),2017,37.9
+Overijssel (PV),2018,36.7
+Overijssel (PV),2019,37.2
+Overijssel (PV),2020,38.2
+Papendrecht,2005,49.3
+Papendrecht,2006,49.8
+Papendrecht,2007,50.5
+Papendrecht,2008,44.7
+Papendrecht,2009,47.9
+Papendrecht,2010,46.9
+Papendrecht,2011,46.2
+Papendrecht,2012,44.9
+Papendrecht,2013,40.3
+Papendrecht,2014,40.4
+Papendrecht,2015,40.8
+Papendrecht,2016,35.6
+Papendrecht,2017,30.2
+Papendrecht,2018,28.5
+Papendrecht,2019,31.6
+Papendrecht,2020,35.2
+Peel en Maas,2005,55.5
+Peel en Maas,2006,53.1
+Peel en Maas,2007,52.0
+Peel en Maas,2008,46.7
+Peel en Maas,2009,46.5
+Peel en Maas,2010,45.7
+Peel en Maas,2011,43.0
+Peel en Maas,2012,41.7
+Peel en Maas,2013,39.9
+Peel en Maas,2014,37.7
+Peel en Maas,2015,34.9
+Peel en Maas,2016,29.1
+Peel en Maas,2017,29.4
+Peel en Maas,2018,26.1
+Peel en Maas,2019,29.3
+Peel en Maas,2020,32.4
+Pekela,2005,62.8
+Pekela,2006,59.0
+Pekela,2007,55.0
+Pekela,2008,62.3
+Pekela,2009,69.6
+Pekela,2010,59.1
+Pekela,2011,60.4
+Pekela,2012,60.6
+Pekela,2013,60.5
+Pekela,2014,45.4
+Pekela,2015,39.4
+Pekela,2016,36.5
+Pekela,2017,32.8
+Pekela,2018,34.5
+Pekela,2019,31.1
+Pekela,2020,31.7
+Pijnacker-Nootdorp,2005,47.7
+Pijnacker-Nootdorp,2006,49.8
+Pijnacker-Nootdorp,2007,52.5
+Pijnacker-Nootdorp,2008,58.3
+Pijnacker-Nootdorp,2009,55.3
+Pijnacker-Nootdorp,2010,53.9
+Pijnacker-Nootdorp,2011,52.1
+Pijnacker-Nootdorp,2012,53.1
+Pijnacker-Nootdorp,2013,42.4
+Pijnacker-Nootdorp,2014,36.6
+Pijnacker-Nootdorp,2015,35.2
+Pijnacker-Nootdorp,2016,35.6
+Pijnacker-Nootdorp,2017,32.2
+Pijnacker-Nootdorp,2018,27.2
+Pijnacker-Nootdorp,2019,30.6
+Pijnacker-Nootdorp,2020,32.6
+Purmerend,2005,76.7
+Purmerend,2006,74.4
+Purmerend,2007,71.0
+Purmerend,2008,65.7
+Purmerend,2009,69.2
+Purmerend,2010,65.4
+Purmerend,2011,66.8
+Purmerend,2012,61.4
+Purmerend,2013,56.9
+Purmerend,2014,50.1
+Purmerend,2015,49.5
+Purmerend,2016,43.1
+Purmerend,2017,35.9
+Purmerend,2018,36.0
+Purmerend,2019,34.9
+Purmerend,2020,35.6
+Putten,2005,54.0
+Putten,2006,53.6
+Putten,2007,52.8
+Putten,2008,50.5
+Putten,2009,49.6
+Putten,2010,50.4
+Putten,2011,49.4
+Putten,2012,46.6
+Putten,2013,46.7
+Putten,2014,40.0
+Putten,2015,35.2
+Putten,2016,34.6
+Putten,2017,27.6
+Putten,2018,25.7
+Putten,2019,26.5
+Putten,2020,28.0
+Raalte,2005,39.9
+Raalte,2006,35.3
+Raalte,2007,31.8
+Raalte,2008,32.4
+Raalte,2009,29.1
+Raalte,2010,30.5
+Raalte,2011,33.1
+Raalte,2012,28.4
+Raalte,2013,29.1
+Raalte,2014,23.0
+Raalte,2015,22.5
+Raalte,2016,24.3
+Raalte,2017,19.9
+Raalte,2018,18.4
+Raalte,2019,18.8
+Raalte,2020,21.1
+Reeuwijk,2010,60.3
+Reeuwijk,2011,
+Reeuwijk,2012,
+Reeuwijk,2013,
+Reeuwijk,2014,
+Reeuwijk,2015,
+Reeuwijk,2016,
+Reeuwijk,2017,
+Reeuwijk,2018,
+Reeuwijk,2019,
+Reeuwijk,2020,
+Reimerswaal,2005,42.9
+Reimerswaal,2006,37.8
+Reimerswaal,2007,44.3
+Reimerswaal,2008,41.9
+Reimerswaal,2009,40.8
+Reimerswaal,2010,41.1
+Reimerswaal,2011,41.7
+Reimerswaal,2012,40.3
+Reimerswaal,2013,39.0
+Reimerswaal,2014,30.4
+Reimerswaal,2015,30.1
+Reimerswaal,2016,32.1
+Reimerswaal,2017,25.6
+Reimerswaal,2018,25.2
+Reimerswaal,2019,24.7
+Reimerswaal,2020,29.5
+Renkum,2005,56.0
+Renkum,2006,61.4
+Renkum,2007,66.2
+Renkum,2008,64.6
+Renkum,2009,61.5
+Renkum,2010,61.3
+Renkum,2011,61.7
+Renkum,2012,54.4
+Renkum,2013,51.7
+Renkum,2014,49.8
+Renkum,2015,42.3
+Renkum,2016,40.6
+Renkum,2017,34.3
+Renkum,2018,32.2
+Renkum,2019,35.2
+Renkum,2020,34.1
+Renswoude,2005,29.5
+Renswoude,2006,26.2
+Renswoude,2007,33.4
+Renswoude,2008,36.1
+Renswoude,2009,34.4
+Renswoude,2010,46.5
+Renswoude,2011,35.8
+Renswoude,2012,35.7
+Renswoude,2013,39.0
+Renswoude,2014,33.3
+Renswoude,2015,31.8
+Renswoude,2016,28.1
+Renswoude,2017,27.6
+Renswoude,2018,21.4
+Renswoude,2019,21.1
+Renswoude,2020,24.2
+Reusel-De Mierden,2005,44.5
+Reusel-De Mierden,2006,55.8
+Reusel-De Mierden,2007,51.0
+Reusel-De Mierden,2008,50.1
+Reusel-De Mierden,2009,42.3
+Reusel-De Mierden,2010,44.8
+Reusel-De Mierden,2011,47.0
+Reusel-De Mierden,2012,40.2
+Reusel-De Mierden,2013,40.3
+Reusel-De Mierden,2014,32.1
+Reusel-De Mierden,2015,36.0
+Reusel-De Mierden,2016,29.3
+Reusel-De Mierden,2017,28.4
+Reusel-De Mierden,2018,25.2
+Reusel-De Mierden,2019,26.3
+Reusel-De Mierden,2020,27.0
+Rheden,2005,62.8
+Rheden,2006,59.2
+Rheden,2007,65.5
+Rheden,2008,62.7
+Rheden,2009,68.8
+Rheden,2010,63.6
+Rheden,2011,63.0
+Rheden,2012,56.7
+Rheden,2013,51.9
+Rheden,2014,52.7
+Rheden,2015,47.1
+Rheden,2016,44.1
+Rheden,2017,41.9
+Rheden,2018,36.7
+Rheden,2019,39.6
+Rheden,2020,41.5
+Rhenen,2005,47.4
+Rhenen,2006,47.4
+Rhenen,2007,47.8
+Rhenen,2008,47.3
+Rhenen,2009,45.8
+Rhenen,2010,50.1
+Rhenen,2011,46.3
+Rhenen,2012,45.5
+Rhenen,2013,39.2
+Rhenen,2014,34.8
+Rhenen,2015,31.7
+Rhenen,2016,32.4
+Rhenen,2017,29.2
+Rhenen,2018,33.0
+Rhenen,2019,31.1
+Rhenen,2020,28.9
+Ridderkerk,2005,57.2
+Ridderkerk,2006,56.5
+Ridderkerk,2007,58.2
+Ridderkerk,2008,57.6
+Ridderkerk,2009,57.3
+Ridderkerk,2010,51.9
+Ridderkerk,2011,53.1
+Ridderkerk,2012,51.6
+Ridderkerk,2013,54.7
+Ridderkerk,2014,46.4
+Ridderkerk,2015,42.0
+Ridderkerk,2016,47.2
+Ridderkerk,2017,40.3
+Ridderkerk,2018,37.9
+Ridderkerk,2019,41.0
+Ridderkerk,2020,44.9
+Rijnwaarden,2005,31.7
+Rijnwaarden,2006,27.1
+Rijnwaarden,2007,28.6
+Rijnwaarden,2008,28.2
+Rijnwaarden,2009,27.7
+Rijnwaarden,2010,30.3
+Rijnwaarden,2011,28.3
+Rijnwaarden,2012,30.9
+Rijnwaarden,2013,24.9
+Rijnwaarden,2014,23.9
+Rijnwaarden,2015,28.5
+Rijnwaarden,2016,21.8
+Rijnwaarden,2017,21.3
+Rijnwaarden,2018,
+Rijnwaarden,2019,
+Rijnwaarden,2020,
+Rijnwoude,2010,37.3
+Rijnwoude,2011,43.0
+Rijnwoude,2012,34.2
+Rijnwoude,2013,30.1
+Rijnwoude,2014,
+Rijnwoude,2015,
+Rijnwoude,2016,
+Rijnwoude,2017,
+Rijnwoude,2018,
+Rijnwoude,2019,
+Rijnwoude,2020,
+Rijssen-Holten,2005,38.6
+Rijssen-Holten,2006,40.1
+Rijssen-Holten,2007,39.2
+Rijssen-Holten,2008,39.9
+Rijssen-Holten,2009,40.9
+Rijssen-Holten,2010,35.3
+Rijssen-Holten,2011,41.4
+Rijssen-Holten,2012,35.3
+Rijssen-Holten,2013,31.2
+Rijssen-Holten,2014,27.6
+Rijssen-Holten,2015,27.3
+Rijssen-Holten,2016,28.1
+Rijssen-Holten,2017,24.8
+Rijssen-Holten,2018,23.6
+Rijssen-Holten,2019,22.9
+Rijssen-Holten,2020,21.5
+Rijswijk (ZH.),2005,96.7
+Rijswijk (ZH.),2006,93.3
+Rijswijk (ZH.),2007,95.4
+Rijswijk (ZH.),2008,95.1
+Rijswijk (ZH.),2009,93.6
+Rijswijk (ZH.),2010,87.7
+Rijswijk (ZH.),2011,97.2
+Rijswijk (ZH.),2012,86.7
+Rijswijk (ZH.),2013,78.2
+Rijswijk (ZH.),2014,79.4
+Rijswijk (ZH.),2015,74.1
+Rijswijk (ZH.),2016,74.9
+Rijswijk (ZH.),2017,61.5
+Rijswijk (ZH.),2018,56.0
+Rijswijk (ZH.),2019,61.1
+Rijswijk (ZH.),2020,65.0
+Roerdalen,2005,49.8
+Roerdalen,2006,46.5
+Roerdalen,2007,46.2
+Roerdalen,2008,43.7
+Roerdalen,2009,39.6
+Roerdalen,2010,38.9
+Roerdalen,2011,43.7
+Roerdalen,2012,43.3
+Roerdalen,2013,37.6
+Roerdalen,2014,35.0
+Roerdalen,2015,31.3
+Roerdalen,2016,34.8
+Roerdalen,2017,30.0
+Roerdalen,2018,26.9
+Roerdalen,2019,28.0
+Roerdalen,2020,27.2
+Roermond,2005,132.1
+Roermond,2006,129.3
+Roermond,2007,129.2
+Roermond,2008,117.9
+Roermond,2009,101.8
+Roermond,2010,98.9
+Roermond,2011,106.6
+Roermond,2012,102.1
+Roermond,2013,96.8
+Roermond,2014,94.6
+Roermond,2015,85.6
+Roermond,2016,84.5
+Roermond,2017,77.0
+Roermond,2018,70.3
+Roermond,2019,72.7
+Roermond,2020,63.6
+Roosendaal,2005,99.0
+Roosendaal,2006,90.8
+Roosendaal,2007,99.0
+Roosendaal,2008,95.4
+Roosendaal,2009,91.6
+Roosendaal,2010,89.9
+Roosendaal,2011,82.0
+Roosendaal,2012,82.3
+Roosendaal,2013,71.0
+Roosendaal,2014,69.5
+Roosendaal,2015,65.3
+Roosendaal,2016,64.4
+Roosendaal,2017,55.4
+Roosendaal,2018,51.0
+Roosendaal,2019,55.2
+Roosendaal,2020,55.9
+Rotterdam,2005,137.5
+Rotterdam,2006,130.4
+Rotterdam,2007,127.9
+Rotterdam,2008,131.5
+Rotterdam,2009,126.5
+Rotterdam,2010,113.0
+Rotterdam,2011,119.0
+Rotterdam,2012,112.5
+Rotterdam,2013,110.0
+Rotterdam,2014,102.1
+Rotterdam,2015,97.0
+Rotterdam,2016,96.5
+Rotterdam,2017,88.0
+Rotterdam,2018,78.3
+Rotterdam,2019,80.9
+Rotterdam,2020,78.1
+Rotterdam (RE),2005,92.3
+Rotterdam (RE),2006,89.0
+Rotterdam (RE),2007,87.6
+Rotterdam (RE),2008,88.0
+Rotterdam (RE),2009,85.8
+Rotterdam (RE),2010,75.7
+Rotterdam (RE),2011,81.2
+Rotterdam (RE),2012,77.1
+Rotterdam (RE),2013,73.4
+Rotterdam (RE),2014,68.0
+Rotterdam (RE),2015,65.1
+Rotterdam (RE),2016,63.9
+Rotterdam (RE),2017,57.9
+Rotterdam (RE),2018,52.4
+Rotterdam (RE),2019,55.2
+Rotterdam (RE),2020,55.1
+Rozenburg,2010,45.0
+Rozenburg,2011,
+Rozenburg,2012,
+Rozenburg,2013,
+Rozenburg,2014,
+Rozenburg,2015,
+Rozenburg,2016,
+Rozenburg,2017,
+Rozenburg,2018,
+Rozenburg,2019,
+Rozenburg,2020,
+Rozendaal,2005,
+Rozendaal,2006,
+Rozendaal,2007,61.6
+Rozendaal,2008,
+Rozendaal,2009,60.1
+Rozendaal,2010,70.9
+Rozendaal,2011,78.7
+Rozendaal,2012,
+Rozendaal,2013,67.3
+Rozendaal,2014,
+Rozendaal,2015,
+Rozendaal,2016,
+Rozendaal,2017,
+Rozendaal,2018,
+Rozendaal,2019,
+Rozendaal,2020,
+Rucphen,2005,63.8
+Rucphen,2006,59.2
+Rucphen,2007,61.7
+Rucphen,2008,58.3
+Rucphen,2009,51.5
+Rucphen,2010,60.2
+Rucphen,2011,50.4
+Rucphen,2012,46.4
+Rucphen,2013,39.0
+Rucphen,2014,41.1
+Rucphen,2015,37.2
+Rucphen,2016,35.0
+Rucphen,2017,37.1
+Rucphen,2018,29.7
+Rucphen,2019,32.4
+Rucphen,2020,36.2
+Schagen,2005,67.1
+Schagen,2006,65.2
+Schagen,2007,62.8
+Schagen,2008,61.7
+Schagen,2009,56.2
+Schagen,2010,78.0
+Schagen,2011,69.3
+Schagen,2012,58.3
+Schagen,2013,45.1
+Schagen,2014,54.2
+Schagen,2015,43.5
+Schagen,2016,36.7
+Schagen,2017,28.6
+Schagen,2018,31.9
+Schagen,2019,33.6
+Schagen,2020,36.3
+Schermer,2010,34.7
+Schermer,2011,36.0
+Schermer,2012,23.3
+Schermer,2013,32.9
+Schermer,2014,32.1
+Schermer,2015,
+Schermer,2016,
+Schermer,2017,
+Schermer,2018,
+Schermer,2019,
+Schermer,2020,
+Scherpenzeel,2005,39.7
+Scherpenzeel,2006,33.4
+Scherpenzeel,2007,34.5
+Scherpenzeel,2008,43.8
+Scherpenzeel,2009,33.3
+Scherpenzeel,2010,34.5
+Scherpenzeel,2011,37.7
+Scherpenzeel,2012,35.1
+Scherpenzeel,2013,36.9
+Scherpenzeel,2014,28.4
+Scherpenzeel,2015,30.4
+Scherpenzeel,2016,25.9
+Scherpenzeel,2017,21.8
+Scherpenzeel,2018,21.0
+Scherpenzeel,2019,22.4
+Scherpenzeel,2020,25.7
+Schiedam,2005,94.7
+Schiedam,2006,96.0
+Schiedam,2007,88.1
+Schiedam,2008,93.7
+Schiedam,2009,86.8
+Schiedam,2010,82.6
+Schiedam,2011,86.1
+Schiedam,2012,85.2
+Schiedam,2013,84.2
+Schiedam,2014,71.9
+Schiedam,2015,70.6
+Schiedam,2016,69.5
+Schiedam,2017,68.3
+Schiedam,2018,61.7
+Schiedam,2019,67.4
+Schiedam,2020,67.8
+Schiermonnikoog,2005,
+Schiermonnikoog,2006,
+Schiermonnikoog,2007,
+Schiermonnikoog,2008,
+Schiermonnikoog,2009,
+Schiermonnikoog,2010,
+Schiermonnikoog,2011,
+Schiermonnikoog,2012,
+Schiermonnikoog,2013,
+Schiermonnikoog,2014,
+Schiermonnikoog,2015,
+Schiermonnikoog,2016,
+Schiermonnikoog,2017,
+Schiermonnikoog,2018,
+Schiermonnikoog,2019,
+Schiermonnikoog,2020,
+Schijndel,2005,63.0
+Schijndel,2006,56.5
+Schijndel,2007,59.4
+Schijndel,2008,51.7
+Schijndel,2009,55.5
+Schijndel,2010,52.8
+Schijndel,2011,49.0
+Schijndel,2012,54.1
+Schijndel,2013,54.3
+Schijndel,2014,42.7
+Schijndel,2015,38.6
+Schijndel,2016,42.2
+Schijndel,2017,
+Schijndel,2018,
+Schijndel,2019,
+Schijndel,2020,
+Schinnen,2005,45.5
+Schinnen,2006,48.1
+Schinnen,2007,58.4
+Schinnen,2008,46.4
+Schinnen,2009,58.8
+Schinnen,2010,52.7
+Schinnen,2011,51.4
+Schinnen,2012,54.1
+Schinnen,2013,47.0
+Schinnen,2014,47.1
+Schinnen,2015,49.3
+Schinnen,2016,40.1
+Schinnen,2017,40.0
+Schinnen,2018,28.0
+Schinnen,2019,
+Schinnen,2020,
+Schoonhoven,2010,52.6
+Schoonhoven,2011,47.8
+Schoonhoven,2012,46.9
+Schoonhoven,2013,45.6
+Schoonhoven,2014,38.8
+Schoonhoven,2015,
+Schoonhoven,2016,
+Schoonhoven,2017,
+Schoonhoven,2018,
+Schoonhoven,2019,
+Schoonhoven,2020,
+Schouwen-Duiveland,2005,70.6
+Schouwen-Duiveland,2006,72.0
+Schouwen-Duiveland,2007,69.2
+Schouwen-Duiveland,2008,74.0
+Schouwen-Duiveland,2009,71.4
+Schouwen-Duiveland,2010,69.6
+Schouwen-Duiveland,2011,70.9
+Schouwen-Duiveland,2012,67.3
+Schouwen-Duiveland,2013,63.4
+Schouwen-Duiveland,2014,53.6
+Schouwen-Duiveland,2015,55.3
+Schouwen-Duiveland,2016,47.2
+Schouwen-Duiveland,2017,41.0
+Schouwen-Duiveland,2018,34.6
+Schouwen-Duiveland,2019,32.3
+Schouwen-Duiveland,2020,32.6
+Simpelveld,2005,39.7
+Simpelveld,2006,35.6
+Simpelveld,2007,28.9
+Simpelveld,2008,32.7
+Simpelveld,2009,32.0
+Simpelveld,2010,29.4
+Simpelveld,2011,32.8
+Simpelveld,2012,33.3
+Simpelveld,2013,33.6
+Simpelveld,2014,26.7
+Simpelveld,2015,31.9
+Simpelveld,2016,27.0
+Simpelveld,2017,23.6
+Simpelveld,2018,23.5
+Simpelveld,2019,26.1
+Simpelveld,2020,25.3
+Sint Anthonis,2005,46.8
+Sint Anthonis,2006,46.4
+Sint Anthonis,2007,41.9
+Sint Anthonis,2008,38.5
+Sint Anthonis,2009,27.0
+Sint Anthonis,2010,30.0
+Sint Anthonis,2011,26.9
+Sint Anthonis,2012,27.3
+Sint Anthonis,2013,33.0
+Sint Anthonis,2014,27.0
+Sint Anthonis,2015,20.1
+Sint Anthonis,2016,21.9
+Sint Anthonis,2017,18.7
+Sint Anthonis,2018,20.7
+Sint Anthonis,2019,24.6
+Sint Anthonis,2020,25.0
+Sint-Michielsgestel,2005,45.2
+Sint-Michielsgestel,2006,39.4
+Sint-Michielsgestel,2007,44.1
+Sint-Michielsgestel,2008,40.0
+Sint-Michielsgestel,2009,39.8
+Sint-Michielsgestel,2010,38.8
+Sint-Michielsgestel,2011,36.4
+Sint-Michielsgestel,2012,36.7
+Sint-Michielsgestel,2013,31.6
+Sint-Michielsgestel,2014,31.6
+Sint-Michielsgestel,2015,29.4
+Sint-Michielsgestel,2016,25.5
+Sint-Michielsgestel,2017,23.6
+Sint-Michielsgestel,2018,23.4
+Sint-Michielsgestel,2019,25.0
+Sint-Michielsgestel,2020,27.0
+Sint-Oedenrode,2005,48.9
+Sint-Oedenrode,2006,52.9
+Sint-Oedenrode,2007,51.2
+Sint-Oedenrode,2008,49.9
+Sint-Oedenrode,2009,43.8
+Sint-Oedenrode,2010,42.8
+Sint-Oedenrode,2011,51.6
+Sint-Oedenrode,2012,42.8
+Sint-Oedenrode,2013,49.0
+Sint-Oedenrode,2014,42.0
+Sint-Oedenrode,2015,32.6
+Sint-Oedenrode,2016,30.6
+Sint-Oedenrode,2017,
+Sint-Oedenrode,2018,
+Sint-Oedenrode,2019,
+Sint-Oedenrode,2020,
+Sittard-Geleen,2005,99.4
+Sittard-Geleen,2006,90.0
+Sittard-Geleen,2007,98.9
+Sittard-Geleen,2008,96.9
+Sittard-Geleen,2009,100.2
+Sittard-Geleen,2010,89.7
+Sittard-Geleen,2011,94.0
+Sittard-Geleen,2012,92.3
+Sittard-Geleen,2013,88.0
+Sittard-Geleen,2014,85.7
+Sittard-Geleen,2015,82.8
+Sittard-Geleen,2016,72.8
+Sittard-Geleen,2017,66.2
+Sittard-Geleen,2018,59.1
+Sittard-Geleen,2019,56.4
+Sittard-Geleen,2020,53.2
+Skarsterlân,2010,43.9
+Skarsterlân,2011,40.9
+Skarsterlân,2012,34.7
+Skarsterlân,2013,33.6
+Skarsterlân,2014,
+Skarsterlân,2015,
+Skarsterlân,2016,
+Skarsterlân,2017,
+Skarsterlân,2018,
+Skarsterlân,2019,
+Skarsterlân,2020,
+Sliedrecht,2005,62.5
+Sliedrecht,2006,50.5
+Sliedrecht,2007,55.4
+Sliedrecht,2008,48.3
+Sliedrecht,2009,51.5
+Sliedrecht,2010,50.6
+Sliedrecht,2011,52.2
+Sliedrecht,2012,50.9
+Sliedrecht,2013,48.0
+Sliedrecht,2014,40.1
+Sliedrecht,2015,35.4
+Sliedrecht,2016,34.6
+Sliedrecht,2017,30.6
+Sliedrecht,2018,28.9
+Sliedrecht,2019,28.4
+Sliedrecht,2020,31.0
+Slochteren,2005,33.2
+Slochteren,2006,25.3
+Slochteren,2007,29.1
+Slochteren,2008,31.0
+Slochteren,2009,35.8
+Slochteren,2010,30.0
+Slochteren,2011,30.6
+Slochteren,2012,25.0
+Slochteren,2013,26.1
+Slochteren,2014,23.3
+Slochteren,2015,20.5
+Slochteren,2016,22.7
+Slochteren,2017,19.0
+Slochteren,2018,
+Slochteren,2019,
+Slochteren,2020,
+Sluis,2005,59.6
+Sluis,2006,50.9
+Sluis,2007,55.4
+Sluis,2008,53.7
+Sluis,2009,56.1
+Sluis,2010,57.3
+Sluis,2011,59.1
+Sluis,2012,50.6
+Sluis,2013,44.0
+Sluis,2014,39.5
+Sluis,2015,36.9
+Sluis,2016,33.2
+Sluis,2017,31.8
+Sluis,2018,35.0
+Sluis,2019,32.8
+Sluis,2020,34.1
+Smallingerland,2005,63.3
+Smallingerland,2006,59.9
+Smallingerland,2007,60.2
+Smallingerland,2008,57.3
+Smallingerland,2009,55.1
+Smallingerland,2010,54.9
+Smallingerland,2011,56.3
+Smallingerland,2012,53.1
+Smallingerland,2013,53.2
+Smallingerland,2014,50.4
+Smallingerland,2015,45.3
+Smallingerland,2016,41.1
+Smallingerland,2017,39.8
+Smallingerland,2018,42.8
+Smallingerland,2019,41.8
+Smallingerland,2020,41.8
+Sneek,2010,68.3
+Sneek,2011,
+Sneek,2012,
+Sneek,2013,
+Sneek,2014,
+Sneek,2015,
+Sneek,2016,
+Sneek,2017,
+Sneek,2018,
+Sneek,2019,
+Sneek,2020,
+Soest,2005,62.8
+Soest,2006,56.3
+Soest,2007,51.0
+Soest,2008,57.0
+Soest,2009,58.2
+Soest,2010,48.3
+Soest,2011,45.6
+Soest,2012,48.2
+Soest,2013,42.8
+Soest,2014,43.3
+Soest,2015,46.6
+Soest,2016,42.5
+Soest,2017,36.6
+Soest,2018,34.1
+Soest,2019,33.6
+Soest,2020,36.1
+Someren,2005,58.5
+Someren,2006,54.6
+Someren,2007,47.5
+Someren,2008,47.8
+Someren,2009,50.6
+Someren,2010,44.6
+Someren,2011,39.9
+Someren,2012,39.7
+Someren,2013,46.5
+Someren,2014,41.4
+Someren,2015,34.7
+Someren,2016,34.1
+Someren,2017,30.8
+Someren,2018,22.9
+Someren,2019,27.4
+Someren,2020,29.3
+Son en Breugel,2005,70.3
+Son en Breugel,2006,64.8
+Son en Breugel,2007,55.5
+Son en Breugel,2008,60.7
+Son en Breugel,2009,58.9
+Son en Breugel,2010,55.1
+Son en Breugel,2011,55.9
+Son en Breugel,2012,57.6
+Son en Breugel,2013,50.6
+Son en Breugel,2014,44.8
+Son en Breugel,2015,50.2
+Son en Breugel,2016,40.1
+Son en Breugel,2017,40.4
+Son en Breugel,2018,36.9
+Son en Breugel,2019,37.9
+Son en Breugel,2020,35.3
+Spijkenisse,2010,61.6
+Spijkenisse,2011,70.8
+Spijkenisse,2012,67.0
+Spijkenisse,2013,65.6
+Spijkenisse,2014,60.8
+Spijkenisse,2015,
+Spijkenisse,2016,
+Spijkenisse,2017,
+Spijkenisse,2018,
+Spijkenisse,2019,
+Spijkenisse,2020,
+Stadskanaal,2005,72.5
+Stadskanaal,2006,77.5
+Stadskanaal,2007,62.2
+Stadskanaal,2008,76.8
+Stadskanaal,2009,72.4
+Stadskanaal,2010,65.0
+Stadskanaal,2011,65.7
+Stadskanaal,2012,60.9
+Stadskanaal,2013,51.8
+Stadskanaal,2014,41.3
+Stadskanaal,2015,45.4
+Stadskanaal,2016,36.9
+Stadskanaal,2017,34.5
+Stadskanaal,2018,30.8
+Stadskanaal,2019,35.8
+Stadskanaal,2020,30.8
+Staphorst,2005,31.0
+Staphorst,2006,31.2
+Staphorst,2007,31.2
+Staphorst,2008,33.5
+Staphorst,2009,30.6
+Staphorst,2010,30.1
+Staphorst,2011,30.8
+Staphorst,2012,30.1
+Staphorst,2013,27.3
+Staphorst,2014,24.6
+Staphorst,2015,25.1
+Staphorst,2016,23.4
+Staphorst,2017,20.1
+Staphorst,2018,19.5
+Staphorst,2019,21.2
+Staphorst,2020,22.6
+Stede Broec,2005,69.0
+Stede Broec,2006,74.0
+Stede Broec,2007,71.4
+Stede Broec,2008,57.5
+Stede Broec,2009,62.0
+Stede Broec,2010,67.7
+Stede Broec,2011,60.2
+Stede Broec,2012,58.0
+Stede Broec,2013,53.2
+Stede Broec,2014,43.7
+Stede Broec,2015,44.1
+Stede Broec,2016,37.6
+Stede Broec,2017,29.2
+Stede Broec,2018,29.3
+Stede Broec,2019,33.4
+Stede Broec,2020,32.7
+Steenbergen,2005,48.9
+Steenbergen,2006,55.4
+Steenbergen,2007,55.7
+Steenbergen,2008,48.9
+Steenbergen,2009,49.0
+Steenbergen,2010,46.9
+Steenbergen,2011,49.2
+Steenbergen,2012,47.9
+Steenbergen,2013,48.6
+Steenbergen,2014,39.5
+Steenbergen,2015,37.0
+Steenbergen,2016,36.8
+Steenbergen,2017,33.7
+Steenbergen,2018,32.5
+Steenbergen,2019,30.1
+Steenbergen,2020,33.2
+Steenwijkerland,2005,44.1
+Steenwijkerland,2006,48.6
+Steenwijkerland,2007,46.4
+Steenwijkerland,2008,43.9
+Steenwijkerland,2009,47.1
+Steenwijkerland,2010,45.3
+Steenwijkerland,2011,47.7
+Steenwijkerland,2012,44.7
+Steenwijkerland,2013,38.5
+Steenwijkerland,2014,36.2
+Steenwijkerland,2015,37.9
+Steenwijkerland,2016,38.6
+Steenwijkerland,2017,32.0
+Steenwijkerland,2018,30.9
+Steenwijkerland,2019,34.0
+Steenwijkerland,2020,34.1
+Stein (L.),2005,49.8
+Stein (L.),2006,53.3
+Stein (L.),2007,57.0
+Stein (L.),2008,57.1
+Stein (L.),2009,54.8
+Stein (L.),2010,49.5
+Stein (L.),2011,54.1
+Stein (L.),2012,48.7
+Stein (L.),2013,47.0
+Stein (L.),2014,47.4
+Stein (L.),2015,44.8
+Stein (L.),2016,39.2
+Stein (L.),2017,37.6
+Stein (L.),2018,34.5
+Stein (L.),2019,33.8
+Stein (L.),2020,34.4
+Stichtse Vecht,2005,80.4
+Stichtse Vecht,2006,80.5
+Stichtse Vecht,2007,72.6
+Stichtse Vecht,2008,77.5
+Stichtse Vecht,2009,65.3
+Stichtse Vecht,2010,
+Stichtse Vecht,2011,65.6
+Stichtse Vecht,2012,55.9
+Stichtse Vecht,2013,50.1
+Stichtse Vecht,2014,46.7
+Stichtse Vecht,2015,43.4
+Stichtse Vecht,2016,47.2
+Stichtse Vecht,2017,43.0
+Stichtse Vecht,2018,43.2
+Stichtse Vecht,2019,45.8
+Stichtse Vecht,2020,38.5
+Strijen,2005,35.9
+Strijen,2006,35.0
+Strijen,2007,34.2
+Strijen,2008,32.5
+Strijen,2009,42.0
+Strijen,2010,34.1
+Strijen,2011,32.1
+Strijen,2012,30.9
+Strijen,2013,22.1
+Strijen,2014,30.5
+Strijen,2015,25.7
+Strijen,2016,24.3
+Strijen,2017,16.4
+Strijen,2018,19.1
+Strijen,2019,
+Strijen,2020,
+Súdwest-Fryslân,2005,56.0
+Súdwest-Fryslân,2006,53.0
+Súdwest-Fryslân,2007,55.8
+Súdwest-Fryslân,2008,51.6
+Súdwest-Fryslân,2009,51.1
+Súdwest-Fryslân,2010,
+Súdwest-Fryslân,2011,47.6
+Súdwest-Fryslân,2012,44.2
+Súdwest-Fryslân,2013,44.7
+Súdwest-Fryslân,2014,40.1
+Súdwest-Fryslân,2015,41.6
+Súdwest-Fryslân,2016,37.1
+Súdwest-Fryslân,2017,32.0
+Súdwest-Fryslân,2018,34.2
+Súdwest-Fryslân,2019,35.3
+Súdwest-Fryslân,2020,33.3
+Ten Boer,2005,26.8
+Ten Boer,2006,23.0
+Ten Boer,2007,27.9
+Ten Boer,2008,20.3
+Ten Boer,2009,20.7
+Ten Boer,2010,25.4
+Ten Boer,2011,25.1
+Ten Boer,2012,25.3
+Ten Boer,2013,21.7
+Ten Boer,2014,20.5
+Ten Boer,2015,18.5
+Ten Boer,2016,21.4
+Ten Boer,2017,16.9
+Ten Boer,2018,15.1
+Ten Boer,2019,
+Ten Boer,2020,
+Terneuzen,2005,67.1
+Terneuzen,2006,69.4
+Terneuzen,2007,72.4
+Terneuzen,2008,71.8
+Terneuzen,2009,71.1
+Terneuzen,2010,66.1
+Terneuzen,2011,58.5
+Terneuzen,2012,61.2
+Terneuzen,2013,49.8
+Terneuzen,2014,44.5
+Terneuzen,2015,41.8
+Terneuzen,2016,43.4
+Terneuzen,2017,36.5
+Terneuzen,2018,33.4
+Terneuzen,2019,37.6
+Terneuzen,2020,36.7
+Terschelling,2005,87.9
+Terschelling,2006,97.7
+Terschelling,2007,82.2
+Terschelling,2008,74.8
+Terschelling,2009,90.3
+Terschelling,2010,86.0
+Terschelling,2011,110.1
+Terschelling,2012,81.7
+Terschelling,2013,74.0
+Terschelling,2014,65.7
+Terschelling,2015,65.5
+Terschelling,2016,55.4
+Terschelling,2017,45.9
+Terschelling,2018,49.9
+Terschelling,2019,39.3
+Terschelling,2020,30.9
+Texel,2005,61.1
+Texel,2006,61.1
+Texel,2007,58.9
+Texel,2008,64.9
+Texel,2009,57.0
+Texel,2010,61.5
+Texel,2011,56.0
+Texel,2012,50.1
+Texel,2013,43.4
+Texel,2014,40.1
+Texel,2015,40.5
+Texel,2016,37.3
+Texel,2017,32.1
+Texel,2018,31.1
+Texel,2019,33.7
+Texel,2020,31.2
+Teylingen,2005,54.6
+Teylingen,2006,53.8
+Teylingen,2007,55.5
+Teylingen,2008,50.7
+Teylingen,2009,42.2
+Teylingen,2010,45.5
+Teylingen,2011,46.5
+Teylingen,2012,42.5
+Teylingen,2013,45.1
+Teylingen,2014,36.9
+Teylingen,2015,35.9
+Teylingen,2016,37.8
+Teylingen,2017,34.8
+Teylingen,2018,30.1
+Teylingen,2019,33.4
+Teylingen,2020,35.6
+Tholen,2005,42.5
+Tholen,2006,38.5
+Tholen,2007,37.2
+Tholen,2008,39.5
+Tholen,2009,37.2
+Tholen,2010,37.0
+Tholen,2011,39.7
+Tholen,2012,36.8
+Tholen,2013,29.7
+Tholen,2014,25.6
+Tholen,2015,25.7
+Tholen,2016,25.9
+Tholen,2017,22.2
+Tholen,2018,21.9
+Tholen,2019,23.6
+Tholen,2020,28.8
+Tiel,2005,88.7
+Tiel,2006,84.8
+Tiel,2007,99.6
+Tiel,2008,91.4
+Tiel,2009,84.5
+Tiel,2010,76.8
+Tiel,2011,98.6
+Tiel,2012,87.3
+Tiel,2013,78.8
+Tiel,2014,70.3
+Tiel,2015,72.1
+Tiel,2016,68.3
+Tiel,2017,59.5
+Tiel,2018,49.4
+Tiel,2019,61.9
+Tiel,2020,56.5
+Tilburg,2005,111.0
+Tilburg,2006,104.6
+Tilburg,2007,111.2
+Tilburg,2008,104.4
+Tilburg,2009,113.1
+Tilburg,2010,93.3
+Tilburg,2011,88.4
+Tilburg,2012,89.1
+Tilburg,2013,86.3
+Tilburg,2014,80.6
+Tilburg,2015,76.1
+Tilburg,2016,66.4
+Tilburg,2017,62.3
+Tilburg,2018,59.8
+Tilburg,2019,60.5
+Tilburg,2020,59.5
+Tubbergen,2005,30.6
+Tubbergen,2006,29.2
+Tubbergen,2007,27.6
+Tubbergen,2008,23.8
+Tubbergen,2009,23.4
+Tubbergen,2010,26.4
+Tubbergen,2011,25.3
+Tubbergen,2012,21.7
+Tubbergen,2013,23.0
+Tubbergen,2014,20.7
+Tubbergen,2015,17.5
+Tubbergen,2016,15.7
+Tubbergen,2017,15.6
+Tubbergen,2018,15.0
+Tubbergen,2019,15.0
+Tubbergen,2020,14.9
+Twenterand,2005,26.8
+Twenterand,2006,28.2
+Twenterand,2007,33.5
+Twenterand,2008,28.0
+Twenterand,2009,32.1
+Twenterand,2010,29.9
+Twenterand,2011,32.6
+Twenterand,2012,35.0
+Twenterand,2013,31.6
+Twenterand,2014,25.6
+Twenterand,2015,26.4
+Twenterand,2016,24.1
+Twenterand,2017,25.2
+Twenterand,2018,22.7
+Twenterand,2019,21.4
+Twenterand,2020,25.3
+Tynaarlo,2005,54.8
+Tynaarlo,2006,47.9
+Tynaarlo,2007,40.5
+Tynaarlo,2008,38.1
+Tynaarlo,2009,37.3
+Tynaarlo,2010,32.7
+Tynaarlo,2011,36.1
+Tynaarlo,2012,37.3
+Tynaarlo,2013,36.0
+Tynaarlo,2014,29.0
+Tynaarlo,2015,27.0
+Tynaarlo,2016,25.6
+Tynaarlo,2017,23.5
+Tynaarlo,2018,24.3
+Tynaarlo,2019,26.1
+Tynaarlo,2020,28.3
+Tytsjerksteradiel,2005,36.7
+Tytsjerksteradiel,2006,35.2
+Tytsjerksteradiel,2007,34.2
+Tytsjerksteradiel,2008,33.2
+Tytsjerksteradiel,2009,34.3
+Tytsjerksteradiel,2010,33.3
+Tytsjerksteradiel,2011,33.0
+Tytsjerksteradiel,2012,31.8
+Tytsjerksteradiel,2013,26.1
+Tytsjerksteradiel,2014,28.6
+Tytsjerksteradiel,2015,25.9
+Tytsjerksteradiel,2016,24.3
+Tytsjerksteradiel,2017,21.4
+Tytsjerksteradiel,2018,19.9
+Tytsjerksteradiel,2019,21.2
+Tytsjerksteradiel,2020,22.6
+Ubbergen,2010,35.5
+Ubbergen,2011,34.6
+Ubbergen,2012,36.5
+Ubbergen,2013,35.7
+Ubbergen,2014,29.8
+Ubbergen,2015,
+Ubbergen,2016,
+Ubbergen,2017,
+Ubbergen,2018,
+Ubbergen,2019,
+Ubbergen,2020,
+Uden,2005,87.0
+Uden,2006,86.3
+Uden,2007,78.7
+Uden,2008,75.1
+Uden,2009,75.0
+Uden,2010,72.4
+Uden,2011,65.6
+Uden,2012,64.5
+Uden,2013,58.9
+Uden,2014,59.4
+Uden,2015,61.5
+Uden,2016,51.7
+Uden,2017,45.5
+Uden,2018,46.4
+Uden,2019,43.8
+Uden,2020,43.3
+Uitgeest,2005,73.6
+Uitgeest,2006,74.0
+Uitgeest,2007,63.6
+Uitgeest,2008,62.8
+Uitgeest,2009,69.8
+Uitgeest,2010,72.5
+Uitgeest,2011,67.3
+Uitgeest,2012,54.4
+Uitgeest,2013,49.4
+Uitgeest,2014,55.4
+Uitgeest,2015,56.1
+Uitgeest,2016,39.5
+Uitgeest,2017,29.0
+Uitgeest,2018,28.7
+Uitgeest,2019,27.1
+Uitgeest,2020,32.8
+Uithoorn,2005,50.8
+Uithoorn,2006,50.5
+Uithoorn,2007,49.5
+Uithoorn,2008,44.8
+Uithoorn,2009,50.3
+Uithoorn,2010,51.7
+Uithoorn,2011,47.0
+Uithoorn,2012,46.9
+Uithoorn,2013,44.4
+Uithoorn,2014,37.8
+Uithoorn,2015,42.2
+Uithoorn,2016,37.0
+Uithoorn,2017,34.9
+Uithoorn,2018,30.9
+Uithoorn,2019,34.5
+Uithoorn,2020,38.6
+Urk,2005,35.7
+Urk,2006,40.8
+Urk,2007,47.7
+Urk,2008,43.9
+Urk,2009,38.5
+Urk,2010,41.1
+Urk,2011,33.9
+Urk,2012,33.6
+Urk,2013,32.5
+Urk,2014,29.6
+Urk,2015,25.7
+Urk,2016,22.9
+Urk,2017,20.5
+Urk,2018,20.0
+Urk,2019,19.6
+Urk,2020,27.6
+Utrecht (PV),2005,94.6
+Utrecht (PV),2006,92.8
+Utrecht (PV),2007,87.7
+Utrecht (PV),2008,85.0
+Utrecht (PV),2009,79.3
+Utrecht (PV),2010,74.1
+Utrecht (PV),2011,70.2
+Utrecht (PV),2012,66.4
+Utrecht (PV),2013,63.8
+Utrecht (PV),2014,60.5
+Utrecht (PV),2015,58.7
+Utrecht (PV),2016,56.6
+Utrecht (PV),2017,51.8
+Utrecht (PV),2018,49.0
+Utrecht (PV),2019,48.7
+Utrecht (PV),2020,47.1
+Utrecht (gemeente),2005,155.7
+Utrecht (gemeente),2006,153.8
+Utrecht (gemeente),2007,140.8
+Utrecht (gemeente),2008,137.3
+Utrecht (gemeente),2009,127.2
+Utrecht (gemeente),2010,116.7
+Utrecht (gemeente),2011,110.5
+Utrecht (gemeente),2012,102.9
+Utrecht (gemeente),2013,100.8
+Utrecht (gemeente),2014,98.0
+Utrecht (gemeente),2015,93.1
+Utrecht (gemeente),2016,89.1
+Utrecht (gemeente),2017,83.2
+Utrecht (gemeente),2018,77.9
+Utrecht (gemeente),2019,77.6
+Utrecht (gemeente),2020,69.2
+Utrechtse Heuvelrug,2005,58.8
+Utrechtse Heuvelrug,2006,58.7
+Utrechtse Heuvelrug,2007,62.4
+Utrechtse Heuvelrug,2008,55.0
+Utrechtse Heuvelrug,2009,55.3
+Utrechtse Heuvelrug,2010,61.0
+Utrechtse Heuvelrug,2011,53.6
+Utrechtse Heuvelrug,2012,46.8
+Utrechtse Heuvelrug,2013,42.4
+Utrechtse Heuvelrug,2014,43.3
+Utrechtse Heuvelrug,2015,39.3
+Utrechtse Heuvelrug,2016,42.2
+Utrechtse Heuvelrug,2017,33.9
+Utrechtse Heuvelrug,2018,29.9
+Utrechtse Heuvelrug,2019,32.1
+Utrechtse Heuvelrug,2020,35.8
+Vaals,2005,67.3
+Vaals,2006,61.5
+Vaals,2007,55.9
+Vaals,2008,56.1
+Vaals,2009,55.6
+Vaals,2010,60.6
+Vaals,2011,54.4
+Vaals,2012,50.7
+Vaals,2013,51.9
+Vaals,2014,54.4
+Vaals,2015,53.6
+Vaals,2016,46.2
+Vaals,2017,42.5
+Vaals,2018,35.3
+Vaals,2019,43.6
+Vaals,2020,32.4
+Valkenburg aan de Geul,2005,81.5
+Valkenburg aan de Geul,2006,74.4
+Valkenburg aan de Geul,2007,81.0
+Valkenburg aan de Geul,2008,86.2
+Valkenburg aan de Geul,2009,85.1
+Valkenburg aan de Geul,2010,88.9
+Valkenburg aan de Geul,2011,83.2
+Valkenburg aan de Geul,2012,86.0
+Valkenburg aan de Geul,2013,76.2
+Valkenburg aan de Geul,2014,72.0
+Valkenburg aan de Geul,2015,65.4
+Valkenburg aan de Geul,2016,65.9
+Valkenburg aan de Geul,2017,60.2
+Valkenburg aan de Geul,2018,48.1
+Valkenburg aan de Geul,2019,50.6
+Valkenburg aan de Geul,2020,45.6
+Valkenswaard,2005,77.6
+Valkenswaard,2006,75.8
+Valkenswaard,2007,76.5
+Valkenswaard,2008,77.9
+Valkenswaard,2009,80.4
+Valkenswaard,2010,72.0
+Valkenswaard,2011,61.8
+Valkenswaard,2012,66.3
+Valkenswaard,2013,61.1
+Valkenswaard,2014,51.6
+Valkenswaard,2015,50.7
+Valkenswaard,2016,48.4
+Valkenswaard,2017,39.9
+Valkenswaard,2018,35.7
+Valkenswaard,2019,37.1
+Valkenswaard,2020,41.7
+Veendam,2005,62.8
+Veendam,2006,66.4
+Veendam,2007,66.0
+Veendam,2008,77.6
+Veendam,2009,80.5
+Veendam,2010,61.0
+Veendam,2011,58.5
+Veendam,2012,62.5
+Veendam,2013,56.0
+Veendam,2014,44.6
+Veendam,2015,42.4
+Veendam,2016,39.4
+Veendam,2017,32.3
+Veendam,2018,37.2
+Veendam,2019,39.2
+Veendam,2020,37.7
+Veenendaal,2005,72.8
+Veenendaal,2006,75.1
+Veenendaal,2007,70.2
+Veenendaal,2008,65.5
+Veenendaal,2009,68.9
+Veenendaal,2010,61.3
+Veenendaal,2011,61.7
+Veenendaal,2012,52.9
+Veenendaal,2013,56.4
+Veenendaal,2014,48.2
+Veenendaal,2015,47.0
+Veenendaal,2016,44.3
+Veenendaal,2017,43.5
+Veenendaal,2018,42.3
+Veenendaal,2019,40.3
+Veenendaal,2020,39.1
+Veere,2005,52.7
+Veere,2006,50.3
+Veere,2007,50.3
+Veere,2008,49.5
+Veere,2009,53.4
+Veere,2010,62.2
+Veere,2011,57.1
+Veere,2012,47.2
+Veere,2013,48.1
+Veere,2014,37.3
+Veere,2015,40.6
+Veere,2016,35.8
+Veere,2017,26.8
+Veere,2018,27.7
+Veere,2019,24.5
+Veere,2020,29.4
+Veghel,2005,63.5
+Veghel,2006,58.8
+Veghel,2007,65.0
+Veghel,2008,59.4
+Veghel,2009,52.9
+Veghel,2010,59.1
+Veghel,2011,59.4
+Veghel,2012,61.4
+Veghel,2013,52.5
+Veghel,2014,50.2
+Veghel,2015,43.7
+Veghel,2016,40.8
+Veghel,2017,
+Veghel,2018,
+Veghel,2019,
+Veghel,2020,
+Veldhoven,2005,71.2
+Veldhoven,2006,65.0
+Veldhoven,2007,66.4
+Veldhoven,2008,64.5
+Veldhoven,2009,68.6
+Veldhoven,2010,54.8
+Veldhoven,2011,52.1
+Veldhoven,2012,49.7
+Veldhoven,2013,52.5
+Veldhoven,2014,51.3
+Veldhoven,2015,42.9
+Veldhoven,2016,40.9
+Veldhoven,2017,30.7
+Veldhoven,2018,29.9
+Veldhoven,2019,33.2
+Veldhoven,2020,36.9
+Velsen,2005,63.8
+Velsen,2006,64.8
+Velsen,2007,62.3
+Velsen,2008,57.4
+Velsen,2009,60.1
+Velsen,2010,65.3
+Velsen,2011,64.0
+Velsen,2012,60.3
+Velsen,2013,56.4
+Velsen,2014,58.1
+Velsen,2015,50.4
+Velsen,2016,46.1
+Velsen,2017,39.3
+Velsen,2018,37.2
+Velsen,2019,38.8
+Velsen,2020,40.9
+Venlo,2005,100.8
+Venlo,2006,96.5
+Venlo,2007,93.2
+Venlo,2008,89.4
+Venlo,2009,93.1
+Venlo,2010,92.4
+Venlo,2011,87.3
+Venlo,2012,90.0
+Venlo,2013,81.7
+Venlo,2014,73.0
+Venlo,2015,74.0
+Venlo,2016,69.0
+Venlo,2017,61.6
+Venlo,2018,58.4
+Venlo,2019,58.1
+Venlo,2020,59.6
+Venray,2005,103.3
+Venray,2006,103.5
+Venray,2007,87.1
+Venray,2008,100.4
+Venray,2009,87.8
+Venray,2010,76.7
+Venray,2011,72.4
+Venray,2012,64.9
+Venray,2013,63.4
+Venray,2014,57.2
+Venray,2015,54.5
+Venray,2016,48.1
+Venray,2017,45.4
+Venray,2018,38.8
+Venray,2019,39.5
+Venray,2020,40.7
+Vianen,2005,75.8
+Vianen,2006,76.6
+Vianen,2007,83.3
+Vianen,2008,63.2
+Vianen,2009,57.3
+Vianen,2010,50.9
+Vianen,2011,57.9
+Vianen,2012,56.9
+Vianen,2013,51.3
+Vianen,2014,45.9
+Vianen,2015,41.7
+Vianen,2016,39.6
+Vianen,2017,37.1
+Vianen,2018,38.0
+Vianen,2019,
+Vianen,2020,
+Vijfheerenlanden,2010,
+Vijfheerenlanden,2011,
+Vijfheerenlanden,2012,
+Vijfheerenlanden,2013,
+Vijfheerenlanden,2014,
+Vijfheerenlanden,2015,
+Vijfheerenlanden,2016,
+Vijfheerenlanden,2017,
+Vijfheerenlanden,2018,
+Vijfheerenlanden,2019,31.2
+Vijfheerenlanden,2020,33.3
+Vlaardingen,2005,83.7
+Vlaardingen,2006,81.0
+Vlaardingen,2007,77.8
+Vlaardingen,2008,82.2
+Vlaardingen,2009,80.4
+Vlaardingen,2010,75.6
+Vlaardingen,2011,83.9
+Vlaardingen,2012,73.8
+Vlaardingen,2013,69.3
+Vlaardingen,2014,67.2
+Vlaardingen,2015,65.7
+Vlaardingen,2016,69.3
+Vlaardingen,2017,57.2
+Vlaardingen,2018,52.5
+Vlaardingen,2019,53.6
+Vlaardingen,2020,58.4
+Vlagtwedde,2005,66.6
+Vlagtwedde,2006,62.9
+Vlagtwedde,2007,53.3
+Vlagtwedde,2008,56.8
+Vlagtwedde,2009,51.6
+Vlagtwedde,2010,57.2
+Vlagtwedde,2011,54.4
+Vlagtwedde,2012,50.7
+Vlagtwedde,2013,44.9
+Vlagtwedde,2014,43.3
+Vlagtwedde,2015,61.2
+Vlagtwedde,2016,67.5
+Vlagtwedde,2017,45.1
+Vlagtwedde,2018,
+Vlagtwedde,2019,
+Vlagtwedde,2020,
+Vlieland,2005,96.2
+Vlieland,2006,119.8
+Vlieland,2007,108.2
+Vlieland,2008,107.7
+Vlieland,2009,96.0
+Vlieland,2010,103.4
+Vlieland,2011,99.9
+Vlieland,2012,86.0
+Vlieland,2013,86.2
+Vlieland,2014,94.6
+Vlieland,2015,
+Vlieland,2016,
+Vlieland,2017,
+Vlieland,2018,
+Vlieland,2019,
+Vlieland,2020,
+Vlissingen,2005,76.1
+Vlissingen,2006,74.4
+Vlissingen,2007,78.1
+Vlissingen,2008,79.6
+Vlissingen,2009,88.3
+Vlissingen,2010,74.0
+Vlissingen,2011,74.4
+Vlissingen,2012,69.7
+Vlissingen,2013,65.4
+Vlissingen,2014,65.4
+Vlissingen,2015,60.4
+Vlissingen,2016,50.7
+Vlissingen,2017,47.3
+Vlissingen,2018,43.1
+Vlissingen,2019,44.4
+Vlissingen,2020,52.1
+Vlist,2010,33.8
+Vlist,2011,38.2
+Vlist,2012,31.5
+Vlist,2013,27.6
+Vlist,2014,27.9
+Vlist,2015,
+Vlist,2016,
+Vlist,2017,
+Vlist,2018,
+Vlist,2019,
+Vlist,2020,
+Voerendaal,2005,46.5
+Voerendaal,2006,47.1
+Voerendaal,2007,47.5
+Voerendaal,2008,43.7
+Voerendaal,2009,38.6
+Voerendaal,2010,36.8
+Voerendaal,2011,44.5
+Voerendaal,2012,40.5
+Voerendaal,2013,38.1
+Voerendaal,2014,34.4
+Voerendaal,2015,28.8
+Voerendaal,2016,33.0
+Voerendaal,2017,29.8
+Voerendaal,2018,28.2
+Voerendaal,2019,26.6
+Voerendaal,2020,23.4
+Voorschoten,2005,49.7
+Voorschoten,2006,58.5
+Voorschoten,2007,57.8
+Voorschoten,2008,51.4
+Voorschoten,2009,49.2
+Voorschoten,2010,48.9
+Voorschoten,2011,49.6
+Voorschoten,2012,50.5
+Voorschoten,2013,41.6
+Voorschoten,2014,34.7
+Voorschoten,2015,33.9
+Voorschoten,2016,33.2
+Voorschoten,2017,34.4
+Voorschoten,2018,29.2
+Voorschoten,2019,28.2
+Voorschoten,2020,31.2
+Voorst,2005,56.9
+Voorst,2006,55.8
+Voorst,2007,58.1
+Voorst,2008,55.6
+Voorst,2009,56.9
+Voorst,2010,54.3
+Voorst,2011,44.8
+Voorst,2012,46.9
+Voorst,2013,41.6
+Voorst,2014,47.5
+Voorst,2015,35.8
+Voorst,2016,35.8
+Voorst,2017,30.6
+Voorst,2018,25.5
+Voorst,2019,29.9
+Voorst,2020,33.0
+Vught,2005,71.6
+Vught,2006,68.4
+Vught,2007,68.3
+Vught,2008,65.0
+Vught,2009,66.8
+Vught,2010,61.3
+Vught,2011,55.3
+Vught,2012,51.6
+Vught,2013,47.1
+Vught,2014,46.9
+Vught,2015,43.8
+Vught,2016,39.0
+Vught,2017,36.9
+Vught,2018,37.1
+Vught,2019,32.9
+Vught,2020,38.0
+Waadhoeke,2010,
+Waadhoeke,2011,
+Waadhoeke,2012,
+Waadhoeke,2013,
+Waadhoeke,2014,
+Waadhoeke,2015,
+Waadhoeke,2016,
+Waadhoeke,2017,
+Waadhoeke,2018,23.9
+Waadhoeke,2019,27.9
+Waadhoeke,2020,25.9
+Waalre,2005,52.7
+Waalre,2006,49.5
+Waalre,2007,49.0
+Waalre,2008,48.7
+Waalre,2009,44.7
+Waalre,2010,41.6
+Waalre,2011,38.3
+Waalre,2012,43.1
+Waalre,2013,43.8
+Waalre,2014,35.1
+Waalre,2015,37.0
+Waalre,2016,34.0
+Waalre,2017,28.1
+Waalre,2018,30.9
+Waalre,2019,30.5
+Waalre,2020,34.2
+Waalwijk,2005,83.5
+Waalwijk,2006,74.3
+Waalwijk,2007,73.5
+Waalwijk,2008,65.9
+Waalwijk,2009,69.7
+Waalwijk,2010,69.8
+Waalwijk,2011,68.4
+Waalwijk,2012,64.1
+Waalwijk,2013,55.7
+Waalwijk,2014,61.3
+Waalwijk,2015,57.7
+Waalwijk,2016,48.3
+Waalwijk,2017,42.9
+Waalwijk,2018,36.7
+Waalwijk,2019,39.1
+Waalwijk,2020,41.2
+Waddinxveen,2005,59.7
+Waddinxveen,2006,58.7
+Waddinxveen,2007,59.5
+Waddinxveen,2008,58.7
+Waddinxveen,2009,50.1
+Waddinxveen,2010,48.5
+Waddinxveen,2011,46.3
+Waddinxveen,2012,49.4
+Waddinxveen,2013,46.0
+Waddinxveen,2014,41.9
+Waddinxveen,2015,43.4
+Waddinxveen,2016,46.7
+Waddinxveen,2017,35.8
+Waddinxveen,2018,30.9
+Waddinxveen,2019,34.2
+Waddinxveen,2020,40.2
+Wageningen,2005,79.8
+Wageningen,2006,75.5
+Wageningen,2007,72.5
+Wageningen,2008,75.7
+Wageningen,2009,75.6
+Wageningen,2010,73.4
+Wageningen,2011,67.2
+Wageningen,2012,61.2
+Wageningen,2013,56.9
+Wageningen,2014,45.4
+Wageningen,2015,36.0
+Wageningen,2016,40.2
+Wageningen,2017,30.5
+Wageningen,2018,33.3
+Wageningen,2019,32.5
+Wageningen,2020,36.6
+Wassenaar,2005,60.7
+Wassenaar,2006,68.3
+Wassenaar,2007,68.3
+Wassenaar,2008,66.3
+Wassenaar,2009,62.6
+Wassenaar,2010,55.5
+Wassenaar,2011,60.3
+Wassenaar,2012,58.5
+Wassenaar,2013,47.2
+Wassenaar,2014,45.8
+Wassenaar,2015,42.4
+Wassenaar,2016,39.6
+Wassenaar,2017,38.7
+Wassenaar,2018,35.3
+Wassenaar,2019,38.0
+Wassenaar,2020,41.0
+Waterland,2005,51.2
+Waterland,2006,48.4
+Waterland,2007,47.3
+Waterland,2008,41.2
+Waterland,2009,41.6
+Waterland,2010,44.8
+Waterland,2011,48.7
+Waterland,2012,39.3
+Waterland,2013,39.0
+Waterland,2014,28.6
+Waterland,2015,30.7
+Waterland,2016,30.1
+Waterland,2017,25.4
+Waterland,2018,23.1
+Waterland,2019,23.2
+Waterland,2020,24.9
+Weert,2005,100.2
+Weert,2006,91.7
+Weert,2007,83.6
+Weert,2008,75.0
+Weert,2009,82.5
+Weert,2010,88.4
+Weert,2011,74.2
+Weert,2012,71.3
+Weert,2013,67.9
+Weert,2014,62.7
+Weert,2015,58.1
+Weert,2016,50.0
+Weert,2017,43.3
+Weert,2018,46.2
+Weert,2019,50.3
+Weert,2020,48.1
+Weesp,2005,74.6
+Weesp,2006,79.5
+Weesp,2007,83.3
+Weesp,2008,83.3
+Weesp,2009,71.5
+Weesp,2010,73.3
+Weesp,2011,72.6
+Weesp,2012,55.7
+Weesp,2013,62.0
+Weesp,2014,52.5
+Weesp,2015,49.5
+Weesp,2016,45.4
+Weesp,2017,38.6
+Weesp,2018,38.0
+Weesp,2019,35.0
+Weesp,2020,37.5
+Werkendam,2005,49.5
+Werkendam,2006,43.8
+Werkendam,2007,47.7
+Werkendam,2008,41.7
+Werkendam,2009,43.6
+Werkendam,2010,39.1
+Werkendam,2011,41.6
+Werkendam,2012,42.0
+Werkendam,2013,42.6
+Werkendam,2014,35.4
+Werkendam,2015,33.0
+Werkendam,2016,30.6
+Werkendam,2017,16.3
+Werkendam,2018,16.6
+Werkendam,2019,
+Werkendam,2020,
+Wervershoof,2010,59.8
+Wervershoof,2011,
+Wervershoof,2012,
+Wervershoof,2013,
+Wervershoof,2014,
+Wervershoof,2015,
+Wervershoof,2016,
+Wervershoof,2017,
+Wervershoof,2018,
+Wervershoof,2019,
+Wervershoof,2020,
+West Betuwe,2010,
+West Betuwe,2011,
+West Betuwe,2012,
+West Betuwe,2013,
+West Betuwe,2014,
+West Betuwe,2015,
+West Betuwe,2016,
+West Betuwe,2017,
+West Betuwe,2018,
+West Betuwe,2019,30.9
+West Betuwe,2020,37.1
+West Maas en Waal,2005,40.2
+West Maas en Waal,2006,43.5
+West Maas en Waal,2007,42.8
+West Maas en Waal,2008,33.3
+West Maas en Waal,2009,33.7
+West Maas en Waal,2010,35.2
+West Maas en Waal,2011,39.8
+West Maas en Waal,2012,39.8
+West Maas en Waal,2013,36.2
+West Maas en Waal,2014,31.9
+West Maas en Waal,2015,32.3
+West Maas en Waal,2016,26.9
+West Maas en Waal,2017,24.1
+West Maas en Waal,2018,23.6
+West Maas en Waal,2019,27.9
+West Maas en Waal,2020,25.8
+West-Nederland (LD),2005,90.2
+West-Nederland (LD),2006,87.8
+West-Nederland (LD),2007,87.1
+West-Nederland (LD),2008,85.6
+West-Nederland (LD),2009,83.0
+West-Nederland (LD),2010,80.2
+West-Nederland (LD),2011,80.7
+West-Nederland (LD),2012,75.9
+West-Nederland (LD),2013,72.8
+West-Nederland (LD),2014,67.7
+West-Nederland (LD),2015,64.8
+West-Nederland (LD),2016,61.5
+West-Nederland (LD),2017,55.3
+West-Nederland (LD),2018,51.4
+West-Nederland (LD),2019,52.8
+West-Nederland (LD),2020,51.2
+"West-Nederland, exclusief G4 (LD)",2010,
+"West-Nederland, exclusief G4 (LD)",2011,
+"West-Nederland, exclusief G4 (LD)",2012,
+"West-Nederland, exclusief G4 (LD)",2013,
+"West-Nederland, exclusief G4 (LD)",2014,
+"West-Nederland, exclusief G4 (LD)",2015,
+"West-Nederland, exclusief G4 (LD)",2016,
+"West-Nederland, exclusief G4 (LD)",2017,
+"West-Nederland, exclusief G4 (LD)",2018,
+"West-Nederland, exclusief G4 (LD)",2019,
+"West-Nederland, exclusief G4 (LD)",2020,
+Westerkwartier,2010,
+Westerkwartier,2011,
+Westerkwartier,2012,
+Westerkwartier,2013,
+Westerkwartier,2014,
+Westerkwartier,2015,
+Westerkwartier,2016,
+Westerkwartier,2017,
+Westerkwartier,2018,
+Westerkwartier,2019,21.0
+Westerkwartier,2020,23.7
+Westerveld,2005,35.5
+Westerveld,2006,36.9
+Westerveld,2007,35.2
+Westerveld,2008,30.7
+Westerveld,2009,33.0
+Westerveld,2010,35.8
+Westerveld,2011,33.0
+Westerveld,2012,31.7
+Westerveld,2013,31.8
+Westerveld,2014,27.7
+Westerveld,2015,25.7
+Westerveld,2016,24.9
+Westerveld,2017,19.4
+Westerveld,2018,19.7
+Westerveld,2019,22.4
+Westerveld,2020,22.3
+Westervoort,2005,52.2
+Westervoort,2006,48.1
+Westervoort,2007,52.4
+Westervoort,2008,55.1
+Westervoort,2009,50.2
+Westervoort,2010,47.6
+Westervoort,2011,46.1
+Westervoort,2012,47.5
+Westervoort,2013,50.2
+Westervoort,2014,39.6
+Westervoort,2015,36.4
+Westervoort,2016,33.6
+Westervoort,2017,30.8
+Westervoort,2018,30.0
+Westervoort,2019,30.0
+Westervoort,2020,31.7
+Westerwolde,2010,
+Westerwolde,2011,
+Westerwolde,2012,
+Westerwolde,2013,
+Westerwolde,2014,
+Westerwolde,2015,
+Westerwolde,2016,
+Westerwolde,2017,
+Westerwolde,2018,42.9
+Westerwolde,2019,38.4
+Westerwolde,2020,38.0
+Westland,2005,65.0
+Westland,2006,61.1
+Westland,2007,64.5
+Westland,2008,66.8
+Westland,2009,65.1
+Westland,2010,61.7
+Westland,2011,62.7
+Westland,2012,54.9
+Westland,2013,48.8
+Westland,2014,46.5
+Westland,2015,45.7
+Westland,2016,44.5
+Westland,2017,38.0
+Westland,2018,35.2
+Westland,2019,39.5
+Westland,2020,40.4
+Weststellingwerf,2005,36.2
+Weststellingwerf,2006,38.1
+Weststellingwerf,2007,44.4
+Weststellingwerf,2008,43.1
+Weststellingwerf,2009,38.8
+Weststellingwerf,2010,42.0
+Weststellingwerf,2011,40.9
+Weststellingwerf,2012,39.2
+Weststellingwerf,2013,37.9
+Weststellingwerf,2014,32.8
+Weststellingwerf,2015,37.1
+Weststellingwerf,2016,32.4
+Weststellingwerf,2017,26.6
+Weststellingwerf,2018,28.5
+Weststellingwerf,2019,33.0
+Weststellingwerf,2020,31.0
+Westvoorne,2005,45.9
+Westvoorne,2006,47.3
+Westvoorne,2007,48.6
+Westvoorne,2008,42.0
+Westvoorne,2009,56.9
+Westvoorne,2010,38.3
+Westvoorne,2011,47.7
+Westvoorne,2012,45.5
+Westvoorne,2013,47.8
+Westvoorne,2014,43.4
+Westvoorne,2015,35.6
+Westvoorne,2016,38.7
+Westvoorne,2017,34.6
+Westvoorne,2018,36.4
+Westvoorne,2019,31.9
+Westvoorne,2020,32.5
+Wierden,2005,33.6
+Wierden,2006,36.8
+Wierden,2007,31.4
+Wierden,2008,34.3
+Wierden,2009,35.8
+Wierden,2010,33.2
+Wierden,2011,32.0
+Wierden,2012,32.7
+Wierden,2013,28.7
+Wierden,2014,25.4
+Wierden,2015,25.7
+Wierden,2016,23.8
+Wierden,2017,22.4
+Wierden,2018,21.0
+Wierden,2019,23.1
+Wierden,2020,21.0
+Wieringen,2010,41.2
+Wieringen,2011,34.0
+Wieringen,2012,
+Wieringen,2013,
+Wieringen,2014,
+Wieringen,2015,
+Wieringen,2016,
+Wieringen,2017,
+Wieringen,2018,
+Wieringen,2019,
+Wieringen,2020,
+Wieringermeer,2010,52.0
+Wieringermeer,2011,53.0
+Wieringermeer,2012,
+Wieringermeer,2013,
+Wieringermeer,2014,
+Wieringermeer,2015,
+Wieringermeer,2016,
+Wieringermeer,2017,
+Wieringermeer,2018,
+Wieringermeer,2019,
+Wieringermeer,2020,
+Wijchen,2005,80.8
+Wijchen,2006,76.5
+Wijchen,2007,68.6
+Wijchen,2008,69.2
+Wijchen,2009,66.3
+Wijchen,2010,55.5
+Wijchen,2011,55.2
+Wijchen,2012,47.5
+Wijchen,2013,45.5
+Wijchen,2014,40.0
+Wijchen,2015,41.7
+Wijchen,2016,37.2
+Wijchen,2017,31.8
+Wijchen,2018,30.8
+Wijchen,2019,33.0
+Wijchen,2020,32.7
+Wijdemeren,2005,57.9
+Wijdemeren,2006,56.5
+Wijdemeren,2007,52.9
+Wijdemeren,2008,49.0
+Wijdemeren,2009,47.6
+Wijdemeren,2010,47.5
+Wijdemeren,2011,45.8
+Wijdemeren,2012,42.6
+Wijdemeren,2013,38.0
+Wijdemeren,2014,35.4
+Wijdemeren,2015,33.4
+Wijdemeren,2016,33.3
+Wijdemeren,2017,29.6
+Wijdemeren,2018,28.1
+Wijdemeren,2019,27.7
+Wijdemeren,2020,30.4
+Wijk bij Duurstede,2005,49.2
+Wijk bij Duurstede,2006,50.2
+Wijk bij Duurstede,2007,43.7
+Wijk bij Duurstede,2008,42.9
+Wijk bij Duurstede,2009,42.7
+Wijk bij Duurstede,2010,40.0
+Wijk bij Duurstede,2011,35.8
+Wijk bij Duurstede,2012,32.9
+Wijk bij Duurstede,2013,31.1
+Wijk bij Duurstede,2014,26.3
+Wijk bij Duurstede,2015,24.7
+Wijk bij Duurstede,2016,23.0
+Wijk bij Duurstede,2017,23.1
+Wijk bij Duurstede,2018,19.6
+Wijk bij Duurstede,2019,19.1
+Wijk bij Duurstede,2020,26.9
+Winsum,2005,33.3
+Winsum,2006,33.7
+Winsum,2007,32.6
+Winsum,2008,38.3
+Winsum,2009,29.5
+Winsum,2010,26.3
+Winsum,2011,24.3
+Winsum,2012,22.0
+Winsum,2013,21.8
+Winsum,2014,20.2
+Winsum,2015,17.6
+Winsum,2016,18.0
+Winsum,2017,14.5
+Winsum,2018,14.7
+Winsum,2019,
+Winsum,2020,
+Winterswijk,2005,52.3
+Winterswijk,2006,52.2
+Winterswijk,2007,50.6
+Winterswijk,2008,50.0
+Winterswijk,2009,49.2
+Winterswijk,2010,48.0
+Winterswijk,2011,47.1
+Winterswijk,2012,50.4
+Winterswijk,2013,44.6
+Winterswijk,2014,45.7
+Winterswijk,2015,42.7
+Winterswijk,2016,39.3
+Winterswijk,2017,31.2
+Winterswijk,2018,28.3
+Winterswijk,2019,34.9
+Winterswijk,2020,38.0
+Woensdrecht,2005,57.3
+Woensdrecht,2006,57.3
+Woensdrecht,2007,49.3
+Woensdrecht,2008,53.4
+Woensdrecht,2009,52.1
+Woensdrecht,2010,51.6
+Woensdrecht,2011,53.3
+Woensdrecht,2012,53.0
+Woensdrecht,2013,45.5
+Woensdrecht,2014,40.1
+Woensdrecht,2015,39.4
+Woensdrecht,2016,37.0
+Woensdrecht,2017,33.7
+Woensdrecht,2018,34.2
+Woensdrecht,2019,34.1
+Woensdrecht,2020,35.3
+Woerden,2005,65.1
+Woerden,2006,60.9
+Woerden,2007,66.2
+Woerden,2008,60.2
+Woerden,2009,63.8
+Woerden,2010,55.5
+Woerden,2011,51.6
+Woerden,2012,49.2
+Woerden,2013,43.3
+Woerden,2014,43.1
+Woerden,2015,51.5
+Woerden,2016,43.8
+Woerden,2017,40.6
+Woerden,2018,37.8
+Woerden,2019,34.7
+Woerden,2020,38.9
+Wormerland,2005,33.6
+Wormerland,2006,35.6
+Wormerland,2007,34.2
+Wormerland,2008,40.5
+Wormerland,2009,41.1
+Wormerland,2010,36.8
+Wormerland,2011,41.0
+Wormerland,2012,40.0
+Wormerland,2013,40.5
+Wormerland,2014,28.5
+Wormerland,2015,30.3
+Wormerland,2016,24.8
+Wormerland,2017,21.8
+Wormerland,2018,23.0
+Wormerland,2019,24.8
+Wormerland,2020,28.8
+Woudenberg,2005,41.4
+Woudenberg,2006,39.3
+Woudenberg,2007,53.5
+Woudenberg,2008,41.9
+Woudenberg,2009,44.4
+Woudenberg,2010,42.3
+Woudenberg,2011,38.3
+Woudenberg,2012,39.1
+Woudenberg,2013,36.0
+Woudenberg,2014,36.6
+Woudenberg,2015,32.8
+Woudenberg,2016,27.6
+Woudenberg,2017,31.3
+Woudenberg,2018,25.4
+Woudenberg,2019,24.9
+Woudenberg,2020,32.9
+Woudrichem,2005,38.3
+Woudrichem,2006,37.4
+Woudrichem,2007,42.9
+Woudrichem,2008,34.0
+Woudrichem,2009,35.3
+Woudrichem,2010,33.1
+Woudrichem,2011,34.8
+Woudrichem,2012,37.9
+Woudrichem,2013,35.8
+Woudrichem,2014,31.2
+Woudrichem,2015,30.2
+Woudrichem,2016,25.5
+Woudrichem,2017,15.2
+Woudrichem,2018,17.0
+Woudrichem,2019,
+Woudrichem,2020,
+Wymbritseradiel,2010,29.8
+Wymbritseradiel,2011,
+Wymbritseradiel,2012,
+Wymbritseradiel,2013,
+Wymbritseradiel,2014,
+Wymbritseradiel,2015,
+Wymbritseradiel,2016,
+Wymbritseradiel,2017,
+Wymbritseradiel,2018,
+Wymbritseradiel,2019,
+Wymbritseradiel,2020,
+Wûnseradiel,2010,35.8
+Wûnseradiel,2011,
+Wûnseradiel,2012,
+Wûnseradiel,2013,
+Wûnseradiel,2014,
+Wûnseradiel,2015,
+Wûnseradiel,2016,
+Wûnseradiel,2017,
+Wûnseradiel,2018,
+Wûnseradiel,2019,
+Wûnseradiel,2020,
+Zaanstad,2005,72.3
+Zaanstad,2006,70.6
+Zaanstad,2007,67.7
+Zaanstad,2008,63.9
+Zaanstad,2009,67.2
+Zaanstad,2010,69.2
+Zaanstad,2011,69.4
+Zaanstad,2012,67.1
+Zaanstad,2013,64.9
+Zaanstad,2014,60.6
+Zaanstad,2015,58.4
+Zaanstad,2016,52.5
+Zaanstad,2017,46.0
+Zaanstad,2018,42.3
+Zaanstad,2019,46.2
+Zaanstad,2020,45.4
+Zaltbommel,2005,83.7
+Zaltbommel,2006,69.3
+Zaltbommel,2007,60.9
+Zaltbommel,2008,67.9
+Zaltbommel,2009,73.6
+Zaltbommel,2010,67.4
+Zaltbommel,2011,63.3
+Zaltbommel,2012,52.4
+Zaltbommel,2013,52.6
+Zaltbommel,2014,50.7
+Zaltbommel,2015,54.0
+Zaltbommel,2016,42.9
+Zaltbommel,2017,37.7
+Zaltbommel,2018,38.4
+Zaltbommel,2019,38.9
+Zaltbommel,2020,45.1
+Zandvoort,2005,100.4
+Zandvoort,2006,102.3
+Zandvoort,2007,107.8
+Zandvoort,2008,86.4
+Zandvoort,2009,93.6
+Zandvoort,2010,91.2
+Zandvoort,2011,85.7
+Zandvoort,2012,82.2
+Zandvoort,2013,89.9
+Zandvoort,2014,75.1
+Zandvoort,2015,72.4
+Zandvoort,2016,64.1
+Zandvoort,2017,61.7
+Zandvoort,2018,57.5
+Zandvoort,2019,60.2
+Zandvoort,2020,65.6
+Zederik,2005,38.0
+Zederik,2006,33.9
+Zederik,2007,37.4
+Zederik,2008,34.8
+Zederik,2009,31.0
+Zederik,2010,28.6
+Zederik,2011,37.0
+Zederik,2012,37.7
+Zederik,2013,33.2
+Zederik,2014,29.5
+Zederik,2015,26.5
+Zederik,2016,27.8
+Zederik,2017,27.0
+Zederik,2018,23.2
+Zederik,2019,
+Zederik,2020,
+Zeeland (PV),2005,59.7
+Zeeland (PV),2006,58.3
+Zeeland (PV),2007,61.7
+Zeeland (PV),2008,62.2
+Zeeland (PV),2009,62.4
+Zeeland (PV),2010,58.1
+Zeeland (PV),2011,59.1
+Zeeland (PV),2012,54.9
+Zeeland (PV),2013,50.2
+Zeeland (PV),2014,45.1
+Zeeland (PV),2015,44.2
+Zeeland (PV),2016,40.8
+Zeeland (PV),2017,35.5
+Zeeland (PV),2018,33.3
+Zeeland (PV),2019,35.2
+Zeeland (PV),2020,36.9
+Zeeland - West-Brabant (RE),2005,79.3
+Zeeland - West-Brabant (RE),2006,76.1
+Zeeland - West-Brabant (RE),2007,77.7
+Zeeland - West-Brabant (RE),2008,75.1
+Zeeland - West-Brabant (RE),2009,76.4
+Zeeland - West-Brabant (RE),2010,69.9
+Zeeland - West-Brabant (RE),2011,69.4
+Zeeland - West-Brabant (RE),2012,67.8
+Zeeland - West-Brabant (RE),2013,62.4
+Zeeland - West-Brabant (RE),2014,58.3
+Zeeland - West-Brabant (RE),2015,55.3
+Zeeland - West-Brabant (RE),2016,50.7
+Zeeland - West-Brabant (RE),2017,44.2
+Zeeland - West-Brabant (RE),2018,41.6
+Zeeland - West-Brabant (RE),2019,44.2
+Zeeland - West-Brabant (RE),2020,44.9
+Zeevang,2010,26.2
+Zeevang,2011,27.2
+Zeevang,2012,25.1
+Zeevang,2013,32.0
+Zeevang,2014,29.5
+Zeevang,2015,24.9
+Zeevang,2016,
+Zeevang,2017,
+Zeevang,2018,
+Zeevang,2019,
+Zeevang,2020,
+Zeewolde,2005,68.6
+Zeewolde,2006,63.7
+Zeewolde,2007,59.0
+Zeewolde,2008,57.4
+Zeewolde,2009,50.6
+Zeewolde,2010,58.9
+Zeewolde,2011,51.1
+Zeewolde,2012,48.8
+Zeewolde,2013,51.6
+Zeewolde,2014,48.2
+Zeewolde,2015,34.6
+Zeewolde,2016,44.4
+Zeewolde,2017,33.4
+Zeewolde,2018,32.6
+Zeewolde,2019,34.7
+Zeewolde,2020,35.7
+Zeist,2005,102.4
+Zeist,2006,105.0
+Zeist,2007,95.8
+Zeist,2008,84.8
+Zeist,2009,88.4
+Zeist,2010,77.1
+Zeist,2011,75.3
+Zeist,2012,70.2
+Zeist,2013,59.7
+Zeist,2014,58.5
+Zeist,2015,57.5
+Zeist,2016,53.9
+Zeist,2017,49.9
+Zeist,2018,43.1
+Zeist,2019,45.5
+Zeist,2020,45.2
+Zevenaar,2005,55.5
+Zevenaar,2006,53.3
+Zevenaar,2007,55.1
+Zevenaar,2008,56.6
+Zevenaar,2009,61.6
+Zevenaar,2010,53.5
+Zevenaar,2011,52.4
+Zevenaar,2012,53.0
+Zevenaar,2013,48.0
+Zevenaar,2014,44.4
+Zevenaar,2015,35.0
+Zevenaar,2016,37.2
+Zevenaar,2017,34.0
+Zevenaar,2018,27.1
+Zevenaar,2019,31.2
+Zevenaar,2020,31.4
+Zijpe,2010,49.3
+Zijpe,2011,54.2
+Zijpe,2012,41.6
+Zijpe,2013,
+Zijpe,2014,
+Zijpe,2015,
+Zijpe,2016,
+Zijpe,2017,
+Zijpe,2018,
+Zijpe,2019,
+Zijpe,2020,
+Zoetermeer,2005,85.2
+Zoetermeer,2006,79.6
+Zoetermeer,2007,82.4
+Zoetermeer,2008,88.9
+Zoetermeer,2009,87.4
+Zoetermeer,2010,80.9
+Zoetermeer,2011,78.8
+Zoetermeer,2012,73.0
+Zoetermeer,2013,73.4
+Zoetermeer,2014,63.4
+Zoetermeer,2015,54.1
+Zoetermeer,2016,49.7
+Zoetermeer,2017,46.8
+Zoetermeer,2018,45.0
+Zoetermeer,2019,48.1
+Zoetermeer,2020,45.1
+Zoeterwoude,2005,45.6
+Zoeterwoude,2006,48.2
+Zoeterwoude,2007,52.6
+Zoeterwoude,2008,44.7
+Zoeterwoude,2009,44.4
+Zoeterwoude,2010,45.1
+Zoeterwoude,2011,42.6
+Zoeterwoude,2012,45.8
+Zoeterwoude,2013,44.1
+Zoeterwoude,2014,35.3
+Zoeterwoude,2015,31.7
+Zoeterwoude,2016,32.5
+Zoeterwoude,2017,23.5
+Zoeterwoude,2018,23.4
+Zoeterwoude,2019,27.2
+Zoeterwoude,2020,29.8
+Zuid-Holland (PV),2005,88.2
+Zuid-Holland (PV),2006,84.7
+Zuid-Holland (PV),2007,85.9
+Zuid-Holland (PV),2008,86.2
+Zuid-Holland (PV),2009,83.3
+Zuid-Holland (PV),2010,78.6
+Zuid-Holland (PV),2011,81.0
+Zuid-Holland (PV),2012,75.9
+Zuid-Holland (PV),2013,71.5
+Zuid-Holland (PV),2014,66.5
+Zuid-Holland (PV),2015,62.5
+Zuid-Holland (PV),2016,60.3
+Zuid-Holland (PV),2017,54.1
+Zuid-Holland (PV),2018,49.3
+Zuid-Holland (PV),2019,51.8
+Zuid-Holland (PV),2020,52.0
+Zuid-Nederland (LD),2005,85.0
+Zuid-Nederland (LD),2006,81.5
+Zuid-Nederland (LD),2007,81.5
+Zuid-Nederland (LD),2008,79.3
+Zuid-Nederland (LD),2009,79.2
+Zuid-Nederland (LD),2010,73.3
+Zuid-Nederland (LD),2011,73.1
+Zuid-Nederland (LD),2012,71.1
+Zuid-Nederland (LD),2013,67.4
+Zuid-Nederland (LD),2014,62.9
+Zuid-Nederland (LD),2015,59.5
+Zuid-Nederland (LD),2016,54.8
+Zuid-Nederland (LD),2017,48.3
+Zuid-Nederland (LD),2018,45.2
+Zuid-Nederland (LD),2019,47.4
+Zuid-Nederland (LD),2020,46.4
+Zuidhorn,2005,35.5
+Zuidhorn,2006,29.7
+Zuidhorn,2007,30.2
+Zuidhorn,2008,27.1
+Zuidhorn,2009,29.0
+Zuidhorn,2010,28.1
+Zuidhorn,2011,29.7
+Zuidhorn,2012,23.0
+Zuidhorn,2013,22.6
+Zuidhorn,2014,21.2
+Zuidhorn,2015,18.7
+Zuidhorn,2016,18.5
+Zuidhorn,2017,14.8
+Zuidhorn,2018,12.4
+Zuidhorn,2019,
+Zuidhorn,2020,
+Zuidplas,2005,60.5
+Zuidplas,2006,63.4
+Zuidplas,2007,65.7
+Zuidplas,2008,60.4
+Zuidplas,2009,61.0
+Zuidplas,2010,52.1
+Zuidplas,2011,55.8
+Zuidplas,2012,48.4
+Zuidplas,2013,46.9
+Zuidplas,2014,43.3
+Zuidplas,2015,40.1
+Zuidplas,2016,40.7
+Zuidplas,2017,38.1
+Zuidplas,2018,35.5
+Zuidplas,2019,38.8
+Zuidplas,2020,40.0
+Zundert,2005,58.7
+Zundert,2006,55.0
+Zundert,2007,57.6
+Zundert,2008,59.5
+Zundert,2009,58.6
+Zundert,2010,56.6
+Zundert,2011,58.5
+Zundert,2012,55.5
+Zundert,2013,52.4
+Zundert,2014,52.2
+Zundert,2015,47.8
+Zundert,2016,41.7
+Zundert,2017,35.0
+Zundert,2018,27.0
+Zundert,2019,25.9
+Zundert,2020,30.2
+Zutphen,2005,85.2
+Zutphen,2006,90.8
+Zutphen,2007,76.4
+Zutphen,2008,79.4
+Zutphen,2009,80.2
+Zutphen,2010,77.2
+Zutphen,2011,69.2
+Zutphen,2012,66.4
+Zutphen,2013,66.6
+Zutphen,2014,62.9
+Zutphen,2015,55.6
+Zutphen,2016,62.9
+Zutphen,2017,52.0
+Zutphen,2018,47.7
+Zutphen,2019,55.7
+Zutphen,2020,51.6
+Zwartewaterland,2005,36.4
+Zwartewaterland,2006,33.7
+Zwartewaterland,2007,37.9
+Zwartewaterland,2008,36.4
+Zwartewaterland,2009,30.3
+Zwartewaterland,2010,33.0
+Zwartewaterland,2011,34.9
+Zwartewaterland,2012,33.2
+Zwartewaterland,2013,31.2
+Zwartewaterland,2014,23.5
+Zwartewaterland,2015,28.5
+Zwartewaterland,2016,21.7
+Zwartewaterland,2017,19.5
+Zwartewaterland,2018,21.2
+Zwartewaterland,2019,21.5
+Zwartewaterland,2020,20.9
+Zwijndrecht,2005,66.8
+Zwijndrecht,2006,61.2
+Zwijndrecht,2007,56.7
+Zwijndrecht,2008,59.7
+Zwijndrecht,2009,59.9
+Zwijndrecht,2010,52.0
+Zwijndrecht,2011,57.9
+Zwijndrecht,2012,54.4
+Zwijndrecht,2013,50.6
+Zwijndrecht,2014,48.3
+Zwijndrecht,2015,42.0
+Zwijndrecht,2016,48.8
+Zwijndrecht,2017,40.1
+Zwijndrecht,2018,40.7
+Zwijndrecht,2019,39.2
+Zwijndrecht,2020,36.5
+Zwolle,2005,100.9
+Zwolle,2006,98.9
+Zwolle,2007,88.7
+Zwolle,2008,87.0
+Zwolle,2009,81.9
+Zwolle,2010,81.6
+Zwolle,2011,77.0
+Zwolle,2012,77.3
+Zwolle,2013,72.9
+Zwolle,2014,63.8
+Zwolle,2015,60.4
+Zwolle,2016,53.4
+Zwolle,2017,49.2
+Zwolle,2018,49.8
+Zwolle,2019,50.8
+Zwolle,2020,50.9
+het Bildt,2005,
+het Bildt,2006,20.6
+het Bildt,2007,27.7
+het Bildt,2008,31.7
+het Bildt,2009,26.9
+het Bildt,2010,26.4
+het Bildt,2011,28.9
+het Bildt,2012,27.9
+het Bildt,2013,26.3
+het Bildt,2014,22.1
+het Bildt,2015,23.3
+het Bildt,2016,25.3
+het Bildt,2017,17.1
+het Bildt,2018,
+het Bildt,2019,
+het Bildt,2020,
